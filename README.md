@@ -260,7 +260,7 @@ En zij kussen de meiskens zo geerne
 Zij drinken een stuk in ulder kraag
 Maar ’s anderendaags zijn zij weer daar om te studeren.
 
-### ACADEMIE LIED - p0
+### ACADEMIE LIED - p43
 
 **T: Nick Trachet
 M: ‘Hymno de Riego’**
@@ -507,7 +507,7 @@ Is’t om het gerstenat
 Dat vloeit uit men’ge vaten
 Voor Geraardszoon getapt.
 
-### KBS-KREET - p54
+### KBS-KREET - p53
 
 **M: ‘When Johnny comes marching home’**
 
@@ -525,7 +525,7 @@ En de kaloot, die krijgen we klein
 Want we zijn de Kring der Brusselse Studenten
 Brusselse Studenten
 
-### LIED VAN DE BRUSSELSE GEUS - p0
+### LIED VAN DE BRUSSELSE GEUS - p53
 
 **T: Bert Mosselmans, 1988
 M: ‘Lied van Koppelstock de veerman’**
@@ -546,7 +546,7 @@ En gaan we dan ’s morgens bezopen naar kot
 Dan zingen we luid en harmonisch tot slot
 Het Lied van de Brusselse Geus! (BIS)
 
-### KEPS-KREET - p55
+### KEPS-KREET - p54
 
 Ai, ai, ai, ai,
 We are the KEPS-bandidos,
@@ -555,7 +555,7 @@ And we fuck all the night,
 We are the KEPS-bandidos.
 55
 
-### KEPS-LIED - p0
+### KEPS-LIED - p55
 
 **T: N. Joschko, 1980
 M: ‘La Marseillaise’, Claude-Joseph Rouget de Lisle, 24 april 1792**
@@ -573,7 +573,7 @@ Wat volgt is onze leus,
 De leuze van de Geus:
 Cantamus, bibamus, alea iacta est,
 
-### CHANT DE PHILO - p57
+### CHANT DE PHILO - p56
 
 **M: ‘Le Chant du départ’, Etienne Nicolas Mehul, 1794**
 
@@ -598,7 +598,7 @@ Fera jouir bon nombre de vagins.
 A la Philo, cré nom de nom,
 On est peu d’ poils mais on est bons!
 
-### LIMBURG ALLEIN - p58
+### LIMBURG ALLEIN - p57
 
 *T & M: Jo Erens, oorspronkelijk ‘Zitterd (Sittard) Allein’*
 
@@ -626,7 +626,7 @@ Is dat e Limburgs keindj.
 Dao wo ich zoe op vertrouw,
 en nörgens e baeter vinj.
 
-### LIMBURGS VOLKSLIED - p59
+### LIMBURGS VOLKSLIED - p58
 
 **T: G. Krekelberg
 M: H. Thyssens**
@@ -655,7 +655,7 @@ Vreemde praal veracht:
 Eigen zeden, eigen schoon
 ’t Hart des volks bekoort.
 
-### MANU JUVANTA CLUBLIED - p60
+### MANU JUVANTA CLUBLIED - p59
 
 Ge ziet ze altijd lopen
 Op TD, cantus of fuif
@@ -687,14 +687,14 @@ Wat zo speciaal aan ons nog is
 Dat is ’t gehalte pure alcohol
 In onze ochtendpis.
 
-### MESACOSA-KREET - p61
+### MESACOSA-KREET - p60
 
 Vinger in je kont, sporten is gezond,
 We vallen van zattigheid op de grond.
 Zuipen op café, shaken op TD,
 De MESACOSA doet altijd mee!
 
-### MESACOSA-CLUBLIED - p0
+### MESACOSA-CLUBLIED - p60
 
 **T: Yves Cools**
 
@@ -720,7 +720,7 @@ Hier een ode aan het oude HILOK woord:
 
 HI, HIL, HILO, HILOK! (BIS)
 
-### HILOK-LIED - p0
+### HILOK-LIED - p61
 
 *Ik ben al jaren ne grote HILOK-fan,
 Zie maar naar mij wat dat ik allemaal kan,
@@ -737,7 +737,7 @@ Ik was nog aan ’t kotsen van gisteren die TD,
 Maar ’s avonds word ik nuchter, dan voel ik mij weer goed,
 Dan ga ik naar ’t café en zuip ik mij weeral pottoe
 
-### MOEDER GEVAAR-LIED - p63
+### MOEDER GEVAAR-LIED - p62
 
 **T: Daevy Dendauw, David Luyssaert en Stefaan Dermout
 M: ‘Le duc de bordeaux’**
@@ -760,7 +760,7 @@ We klagen om bier voor ons dagelijks plezier.
 MOEDER GEVAAR, dat is nu een feit,
 Het zuipen dat is onze dagelijkse strijd.
 
-### HET BLAUW-WIT VAN NORMALIA - p64
+### HET BLAUW-WIT VAN NORMALIA - p63
 
 **T: Johan Heremans
 M: E viva España**
@@ -807,7 +807,7 @@ wij leven op alco’ol.
 Van ’s morgens vroeg tot ’s avonds laat,
 alco’ol, alco’ol en dan weer seks.
 
-### PERS-LIED - p66
+### PERS-LIED - p65
 
 **T: Bert Fierens & Sven Fiers, 1995
 M: ‘Ruiterslied’**
@@ -826,7 +826,7 @@ De geus leeft in het herte voort,
 Van al die tot de loge hoort,
 Van Perskring. (BIS)
 
-### VIVE LES POLYTECHS - p67
+### VIVE LES POLYTECHS - p66
 
 **M: ‘Vive les étudiants’**
 
@@ -849,7 +849,7 @@ Et vive les popos ... Comme des taureaux
 
 Et chasse les Tatas ... Comme des petits pois
 
-### PK-KREET - p68
+### PK-KREET - p67
 
 PK! PK! PK! PK!
 LRC! Kontakt! (BIS)
@@ -858,7 +858,7 @@ Straks valt de brug in! (BIS)
 Waar is de PK?
 De PK is overal!!!
 
-### PK-LIED - p68
+### PK-LIED - p67
 
 **T: Serge Lenoir**
 
@@ -869,7 +869,7 @@ On est pas con, mais on est rond!
 PK! PK! PK! PK!
 Allons remplir les cons!
 
-### CRI DE GUERRE DU CP - p69
+### CRI DE GUERRE DU CP - p68
 
 CP! CP!
 Châssis à ... molettes (BIS)
@@ -878,7 +878,7 @@ Subito ... Crash (BIS)
 Qu’est-ce que le CP?
 C’est une chose ENHAURME!!!
 
-### PPK-KREET - p69
+### PPK-KREET - p68
 
 We’re from the PPK, the PPK
 We don’t sing from troelala
@@ -893,7 +893,7 @@ And we’re gonna drink a lot
 
 We are C, we are Ψ, we are fucking dynamite!
 
-### PPK-LIED - p70
+### PPK-LIED - p69
 
 **M: ‘Rosamunde’, Franz Peter Schubert**
 
@@ -919,7 +919,7 @@ Wees vrienden voor elkaar,
 Smeed nu de hechte banden,
 ’t Wordt een heerlijk groots jaar.*
 
-### DE LEUKE REGIONALEN - p71
+### DE LEUKE REGIONALEN - p70
 
 **1993**
 
@@ -953,14 +953,14 @@ En we hebben een vat besteld
 Met de facultair zijn geld
 Wij zijn de leuke regionalen
 
-### SWAMP-KREET - p72
+### SWAMP-KREET - p71
 
 Wij zijn SWAMP
 Wij spelen graag
 Maar wie er met ons voeten speelt,
 Die krijgt slaag!
 
-### THE MAD GAMER - p72
+### THE MAD GAMER - p71
 
 **T: Jorgo Stavroudis, 1998
 M: ‘The Wild Rover’**
@@ -978,7 +978,7 @@ Where the cardboard is holy, and the rulebooks are vast.
 It’s there where my heart is, and I say to the rest:
 I don’t care what you think, I like gaming the best.
 
-### SOLVAY, C’EST DU CHAMPAGNE - p0
+### SOLVAY, C’EST DU CHAMPAGNE - p72
 
 Solvay, c’est du champagne,
 Solvay, c’est de l’humour
@@ -989,7 +989,7 @@ Au coeur chante toujours,
 Car Solvay c’est du champagne
 Du champagne et de l’humour.
 
-### CHANT DE SOLVAY - p73
+### CHANT DE SOLVAY - p72
 
 **M: ‘Les Housards de la garde’**
 
@@ -1026,11 +1026,11 @@ Verre à la main nous passons par la vie
 Verreà la main,
 Gaiement nous la quitterons.”*
 
-### DE VATKREET - p75
+### DE VATKREET - p74
 
 GELEK AS DE ... BIESTE!!! (Minimum TER)
 
-### HET VATLIED - p75
+### HET VATLIED - p74
 
 **T: De Wizze
 M: ‘Le grenadier de Flandre’**
@@ -1079,7 +1079,7 @@ We zuigen aan haar tet, dedju
 Discipels van Bacchus
 En van de heer Gambrinus*
 
-### VILVORDIA CLUBLIED - p77
+### VILVORDIA CLUBLIED - p76
 
 **M: ‘Het loze vissertje’**
 
@@ -1096,13 +1096,13 @@ Wij gaan versmachten
 | Wij zitten hier met grote dorst te wachten.
 Breng ons dat bier, breng ons dat bier. | (BIS)
 
-### VRG-KREET - p78
+### VRG-KREET - p77
 
 Olé, olé, olé, het VRG, het VRG
 Olé, olé, olé, het VRG doet mee
 Het VRG, het VRG doet mee
 
-### VRG-LIED - p0
+### VRG-LIED - p77
 
 **M: ‘Ode an die Freude’, Beethoven**
 
@@ -1142,14 +1142,14 @@ Bindt tot in de dood.
 Laat ons samen verder bouwen
 Aan het heil der mensheid.
 
-### VSKM KREET - p79
+### VSKM KREET - p78
 
 015 dus hou u maar bedeesd
 Overal waar we komen wordt gedronken en gefeest
 Al van in’t stad horen ze onze stem
 VSKM
 
-### VSKM LIED - p80
+### VSKM LIED - p79
 
 **M: ‘Krambambouli’**
 
@@ -1169,11 +1169,11 @@ De Dijlestad druipt van het bier,
 Wij pozen ook wel van de pier
 Als de VSKM gaat op de zwier. (BIS)
 
-### WESTLAND KREET - p80
+### WESTLAND KREET - p79
 
 Westland is een homokring (TER)
 
-### MOEDER WESTLAND - p81
+### MOEDER WESTLAND - p80
 
 Moeder Westland saamgekomen
 Kan haar bruisend bloed niet tomen
@@ -1201,7 +1201,7 @@ Zullen zich tesamen scharen
 Eens van hert en eens van ziele
 In dichten bond
 
-### WUK ZEG’D JE - p82
+### WUK ZEG’D JE - p81
 
 **T: Laura Schuerwegen, Diederick Dekeyzer**
 
@@ -1223,14 +1223,14 @@ Deur naar Kortrijk geef ma sjette
 Zo da w’ier in Brussel
 met al West-Vlamingen de café’s kunnen bezetten
 
-### WK-KREET - p83
+### WK-KREET - p82
 
 Oeaaaah! (BIS)
 | Geef me de W! (BIS)
 Geef me de K! (BIS) (BIS)
 Geef me de WK! WK! | (BIS)
 
-### BOURGEOIS VÉREUX - p83
+### BOURGEOIS VÉREUX - p82
 
 Et bou, et bou, et bou, bou, bou (BIS)
 | Bourgeois véreux prend garde
@@ -1242,7 +1242,7 @@ On chante encore
 Au CdS d’abord
 Chalalalalala | (BIS)
 
-### WK-LIED - p84
+### WK-LIED - p83
 
 **T: Jambon, 1981
 M: ‘Komt vrienden in de ronde’**
@@ -1273,7 +1273,8 @@ Gelooft U dat maar,
 Zolang men het café niet sluit,
 Krijgt men de WK er niet uit.
 
-### SPREKT A MOOJERTOÊL - p85
+### SPREKT A MOOJERTOÊL - p84
+
 **T: Michäel Heiremans, 2006
 M: ‘La Chanson du Roi Albert’**
 
@@ -1310,14 +1311,14 @@ En aaft a vast, en sprekt a moojertoêl!
 En aaft a recht, en sprekt a moojertoêl!
 LE BRUXELLOIS!
 
-### ZWK-KREET - p86
+### ZWK-KREET - p85
 
 Wie wil een vat? — Z!
 Wie krijgt een vat? — W!
 Wie drinkt een vat? — K!
 Wie is het vat? — ZWK!
 
-### ZWK-LIED - p86
+### ZWK-LIED - p85
 
 ZWK, ZWK
 We hebben allemaal tetten
@@ -1333,7 +1334,7 @@ Wir saufen un à fond
 
 Blote blote-te blote tetten tette!
 
-### ZENNEVALLEI LIED - p87
+### ZENNEVALLEI LIED - p86
 
 **T: Peter Villé
 M: ‘Het Vendel’**
@@ -1736,7 +1737,7 @@ Nu heb ik wel tijd!
 Alleen nog trouwen telt
 Aan de universiteit.*
 
-### AD FUNDUM PER JAAR - p0
+### AD FUNDUM PER JAAR - p105
 
 **Per jaar, heeft hier betrekking op het aantal jaren studie.**
 
@@ -3935,7 +3936,7 @@ Voor hem stond het schuimend nat,
 Nevens hem het meisje zat,
 Onder de bloeiende linde! (BIS)
 
-### HET LOZE VISSERTJE - p0
+### HET LOZE VISSERTJE - p187
 
 **Gent,18e eeuw**
 
@@ -4305,7 +4306,7 @@ Mijn hart blijft schenken en mijn lied
 Mijn adem en mijn wakk’re pen?
 Omdat ik Vlaming ben!
 
-### OP DE PURP’REN HEI - p0
+### OP DE PURP’REN HEI - p201
 
 **T: Eugeen de Ridder
 M: Armand Preud’homme**
@@ -5133,7 +5134,7 @@ Hoe langer hoe meer
 Betert u, geeft *Geus* authentijk,
 Glorie, lof, prijs en eer!
 
-### DE VLAAMSE LEEUW - p31
+### DE VLAAMSE LEEUW - p231
 
 **T: Hippoliet Jan van Peene, 1833
 M: Karel van Miry, 1847
@@ -5189,7 +5190,7 @@ Bedekt met bloed en slijk
 En zegepralend grijnst Hij
 Op ’s vijands trillend lijk.
 
-### DE VLAAMSE MEISJES - p33
+### DE VLAAMSE MEISJES - p233
 
 De Vlaamse meisjes zijn zo schoon
 Ze zijn zo schoon van voren (BIS)
@@ -5247,7 +5248,7 @@ Die heeft een hele slappe gang
 Een slappe gang van voren
 Heeft wie dit lied niet zingen kan
 
-### ’T VLIEGERKE - p35
+### ’T VLIEGERKE - p235
 
 **Gents straatliedje**
 
@@ -5303,7 +5304,7 @@ De koorde schoot eraf!
 Mijne bol klauwe, die ging ne gang,
 Da zal ’k onthouden, mijn leven lang!*
 
-### VOOR OUTER EN HEERD - p0
+### VOOR OUTER EN HEERD - p237
 
 **T: Jozef Simons
 M: Armand Preud’homme**
@@ -5338,7 +5339,7 @@ En werden ze overmand,
 Hun namen staan voor eeuwen,
 In ’t hart van ’t volk gebrand
 
-### DE VORIGE PASTOOR VAN ELSENE - p0
+### DE VORIGE PASTOOR VAN ELSENE - p239
 
 **T: Bart Vermijlen
 M: ‘Pauvre Martin’, George Brassens
@@ -12223,7 +12224,7 @@ Pick a bale a day
 Oh lordi, pick a bale a day*
 
 Well, me and my mamma gonna
-Pick a bale of cotton - p0
+Pick a bale of cotton
 Well, me and my mamma gonna
 Pick a bale a day
 
