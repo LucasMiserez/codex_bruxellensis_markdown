@@ -4,7 +4,7 @@ p, li, pre, code {
 }
 </style>
 
-### ANTVERPIA LIED - p33
+### ANTVERPIA LIED | p33
 
 **M: ‘In’t Antwerps a.u.b.’, De Strangers**
 
@@ -27,7 +27,7 @@ Zal Antwerpen nooit niet vergaan.
 Wij weten wat lol is, als ’t pintje maar vol is
 De rest trekken wij ons niet aan!
 
-### BIERKULTUUR KREET - p34
+### BIERKULTUUR KREET | p34
 
 Zuip je voor het eerst, dan heb je een kater
 Trek het je niet aan, ga door want later
@@ -36,7 +36,7 @@ Van bier en van BK
 Van bier en van BK
 Van BK en bier
 
-### BIERKULTUUR LIED - p34
+### BIERKULTUUR LIED | p34
 
 **M: ‘Mijn vriend Benjamin’, LouisNeefs**
 
@@ -64,7 +64,7 @@ Aan de toog of op de vloer
 We zijn een groep gelijkgezinden
 In de liefde voor het bier
 
-### BOVES LUCI CLUBLIED - p36
+### BOVES LUCI CLUBLIED | p36
 
 **M: ‘Ergobibamus’**
 
@@ -78,7 +78,7 @@ Waar hart en ziel aan toe behoort
 Wat immer meer en meer bekoort
 De eeuwige Boves Luci. (BIS)
 
-### CAMPINA-KREET - p36
+### CAMPINA-KREET | p36
 
 We zijn van de Kempen
 Van de Kempen,
@@ -87,7 +87,7 @@ We zijn Campianen, Campianen,
 Campina is weer paraat!
 Olé
 
-### CAMPINALIED - p37
+### CAMPINALIED | p37
 
 **T: BramGilles, 2005
 M: ‘Kinderfiets’, Herman van Veen(naar Ralph McTell)
@@ -138,7 +138,7 @@ Want daar weten ze van veel plezier, en bier, en bier.*
 
 > Ad fundum
 
-### CHANSON DU CERCLE OMEGA - p
+### CHANSON DU CERCLE OMEGA | p38
 
 **M: ‘Grand-Papa Nicolas’**
 
@@ -164,12 +164,12 @@ Pour boire pour guindailler, pour te rincer le gosier
 Amène ta copine, pour nous rincer la pine
 Chattes, moules, migeoles et cramouilles, mais ...
 
-### COMMIN@-KREET - p39
+### COMMIN@-KREET | p39
 
 Commin@ is nog niet zat
 Waar blijft nu dat volgend vat?!
 
-### COMMIN@-LIED - p40
+### COMMIN@-LIED | p40
 
 **M: ‘Anton Aus Tirol’**
 
@@ -201,7 +201,7 @@ Commin@ is een slettenkring (TER)
 Shalalalalalala
 Commin@, fuck yeah! (TER)
 
-### HET ENIGMALIED - p41
+### HET ENIGMALIED | p41
 
 **T: Jasper Stegen
 M: ‘Another Irish drinking song’**
@@ -247,7 +247,7 @@ Al wordt het ons fataal, We feesten door tot ’t ochtendgloor!
 Dat doen we sinds ’t begin van onze trotse fiere kring
 Dat is sinds ’t jaar 0111 1101 1111*
 
-### APOTHEKERSLIED - p43
+### APOTHEKERSLIED | p43
 
 **M: ‘Stars and stripes’, John Philip Souza, 1896**
 
@@ -260,7 +260,7 @@ En zij kussen de meiskens zo geerne
 Zij drinken een stuk in ulder kraag
 Maar ’s anderendaags zijn zij weer daar om te studeren.
 
-### ACADEMIE LIED - p43
+### ACADEMIE LIED | p43
 
 **T: Nick Trachet
 M: ‘Hymno de Riego’**
@@ -280,7 +280,7 @@ Hoogstudentenlied
 Brult tot in de Polders
 Wij zijn d’Academie
 
-### CHANT DE MEDECINE - p44
+### CHANT DE MEDECINE | p44
 
 **Gewoonlijk worden de 1e, 3e en laatste strofe gezongen**
 
@@ -354,7 +354,7 @@ Oui exposés!
 Dans un musée pathologique
 A la section des vérolés. (TER)
 
-### VIVE LE GUEUX - p47
+### VIVE LE GUEUX | p47
 
 **T: Eric Schelstraete
 M: ‘La complainte de Mandrin’**
@@ -411,7 +411,7 @@ La vérité des Gueux.
 
 Vive le Geus!!!!
 
-### DE VRUCHTBARE HENGST - p49
+### DE VRUCHTBARE HENGST | p49
 
 **T: Hendrik Baillien
 M: ‘We Are The Sons of the Desert’, Marvin Hatley**
@@ -443,7 +443,7 @@ Zingend ons lied op de Heimattonen
 De Hengst bewaakt de appelgaard
 Leve de vruchtbare hengst!*
 
-### INFOGROEP KREET - p50
+### INFOGROEP KREET | p50
 
 **T: Sven & Peter n.a.v. 10 jaar Info-groep**
 
@@ -453,7 +453,7 @@ A! E! Info-groep!
 Eerst een pint en dan der oep!
 50
 
-### INFOGROEP CLUBLIED - p51
+### INFOGROEP CLUBLIED | p51
 
 **T: Sven & Peter n.a.v. 10 jaar Info-groep
 M: ‘De Blauwvoet’**
@@ -467,7 +467,7 @@ En der Vlaamse pintepakkers
 En met oude bit en byte
 Gamen wij all day, all night
 
-### KINNEKE BABA-KREET - p51
+### KINNEKE BABA-KREET | p51
 
 **M: ‘La Marcha Real’**
 
@@ -479,7 +479,7 @@ allen naar ’t staminé ! (BIS)
 Feesten als beesten en zat het hele jaar,
 Bij ons is’t nooit bagaar ! (BIS)
 
-### KINNEKE BABA-LIED - p52
+### KINNEKE BABA-LIED | p52
 
 **T: Rens Laurent
 M: ‘Voor outer en heerd’**
@@ -507,7 +507,7 @@ Is’t om het gerstenat
 Dat vloeit uit men’ge vaten
 Voor Geraardszoon getapt.
 
-### KBS-KREET - p53
+### KBS-KREET | p53
 
 **M: ‘When Johnny comes marching home’**
 
@@ -525,7 +525,7 @@ En de kaloot, die krijgen we klein
 Want we zijn de Kring der Brusselse Studenten
 Brusselse Studenten
 
-### LIED VAN DE BRUSSELSE GEUS - p53
+### LIED VAN DE BRUSSELSE GEUS | p53
 
 **T: Bert Mosselmans, 1988
 M: ‘Lied van Koppelstock de veerman’**
@@ -546,7 +546,7 @@ En gaan we dan ’s morgens bezopen naar kot
 Dan zingen we luid en harmonisch tot slot
 Het Lied van de Brusselse Geus! (BIS)
 
-### KEPS-KREET - p54
+### KEPS-KREET | p54
 
 Ai, ai, ai, ai,
 We are the KEPS-bandidos,
@@ -555,7 +555,7 @@ And we fuck all the night,
 We are the KEPS-bandidos.
 55
 
-### KEPS-LIED - p55
+### KEPS-LIED | p55
 
 **T: N. Joschko, 1980
 M: ‘La Marseillaise’, Claude-Joseph Rouget de Lisle, 24 april 1792**
@@ -573,7 +573,7 @@ Wat volgt is onze leus,
 De leuze van de Geus:
 Cantamus, bibamus, alea iacta est,
 
-### CHANT DE PHILO - p56
+### CHANT DE PHILO | p56
 
 **M: ‘Le Chant du départ’, Etienne Nicolas Mehul, 1794**
 
@@ -598,7 +598,7 @@ Fera jouir bon nombre de vagins.
 A la Philo, cré nom de nom,
 On est peu d’ poils mais on est bons!
 
-### LIMBURG ALLEIN - p57
+### LIMBURG ALLEIN | p57
 
 *T & M: Jo Erens, oorspronkelijk ‘Zitterd (Sittard) Allein’*
 
@@ -626,7 +626,7 @@ Is dat e Limburgs keindj.
 Dao wo ich zoe op vertrouw,
 en nörgens e baeter vinj.
 
-### LIMBURGS VOLKSLIED - p58
+### LIMBURGS VOLKSLIED | p58
 
 **T: G. Krekelberg
 M: H. Thyssens**
@@ -655,7 +655,7 @@ Vreemde praal veracht:
 Eigen zeden, eigen schoon
 ’t Hart des volks bekoort.
 
-### MANU JUVANTA CLUBLIED - p59
+### MANU JUVANTA CLUBLIED | p59
 
 Ge ziet ze altijd lopen
 Op TD, cantus of fuif
@@ -687,14 +687,14 @@ Wat zo speciaal aan ons nog is
 Dat is ’t gehalte pure alcohol
 In onze ochtendpis.
 
-### MESACOSA-KREET - p60
+### MESACOSA-KREET | p60
 
 Vinger in je kont, sporten is gezond,
 We vallen van zattigheid op de grond.
 Zuipen op café, shaken op TD,
 De MESACOSA doet altijd mee!
 
-### MESACOSA-CLUBLIED - p60
+### MESACOSA-CLUBLIED | p60
 
 **T: Yves Cools**
 
@@ -720,7 +720,7 @@ Hier een ode aan het oude HILOK woord:
 
 HI, HIL, HILO, HILOK! (BIS)
 
-### HILOK-LIED - p61
+### HILOK-LIED | p61
 
 *Ik ben al jaren ne grote HILOK-fan,
 Zie maar naar mij wat dat ik allemaal kan,
@@ -737,7 +737,7 @@ Ik was nog aan ’t kotsen van gisteren die TD,
 Maar ’s avonds word ik nuchter, dan voel ik mij weer goed,
 Dan ga ik naar ’t café en zuip ik mij weeral pottoe
 
-### MOEDER GEVAAR-LIED - p62
+### MOEDER GEVAAR-LIED | p62
 
 **T: Daevy Dendauw, David Luyssaert en Stefaan Dermout
 M: ‘Le duc de bordeaux’**
@@ -760,7 +760,7 @@ We klagen om bier voor ons dagelijks plezier.
 MOEDER GEVAAR, dat is nu een feit,
 Het zuipen dat is onze dagelijkse strijd.
 
-### HET BLAUW-WIT VAN NORMALIA - p63
+### HET BLAUW-WIT VAN NORMALIA | p63
 
 **T: Johan Heremans
 M: E viva España**
@@ -795,7 +795,7 @@ En een toekomst, met een huisje en een dier
 Maar dan denken we steeds vol heimwee terug
 Aan die kleuren, die dorsten naar het bier.
 
-### PERSKREET - p65
+### PERSKREET | p65
 
 Bier en poepen
 Poepen en bier.
@@ -807,7 +807,7 @@ wij leven op alco’ol.
 Van ’s morgens vroeg tot ’s avonds laat,
 alco’ol, alco’ol en dan weer seks.
 
-### PERS-LIED - p65
+### PERS-LIED | p65
 
 **T: Bert Fierens & Sven Fiers, 1995
 M: ‘Ruiterslied’**
@@ -826,7 +826,7 @@ De geus leeft in het herte voort,
 Van al die tot de loge hoort,
 Van Perskring. (BIS)
 
-### VIVE LES POLYTECHS - p66
+### VIVE LES POLYTECHS | p66
 
 **M: ‘Vive les étudiants’**
 
@@ -849,7 +849,7 @@ Et vive les popos ... Comme des taureaux
 
 Et chasse les Tatas ... Comme des petits pois
 
-### PK-KREET - p67
+### PK-KREET | p67
 
 PK! PK! PK! PK!
 LRC! Kontakt! (BIS)
@@ -858,7 +858,7 @@ Straks valt de brug in! (BIS)
 Waar is de PK?
 De PK is overal!!!
 
-### PK-LIED - p67
+### PK-LIED | p67
 
 **T: Serge Lenoir**
 
@@ -869,7 +869,7 @@ On est pas con, mais on est rond!
 PK! PK! PK! PK!
 Allons remplir les cons!
 
-### CRI DE GUERRE DU CP - p68
+### CRI DE GUERRE DU CP | p68
 
 CP! CP!
 Châssis à ... molettes (BIS)
@@ -878,7 +878,7 @@ Subito ... Crash (BIS)
 Qu’est-ce que le CP?
 C’est une chose ENHAURME!!!
 
-### PPK-KREET - p68
+### PPK-KREET | p68
 
 We’re from the PPK, the PPK
 We don’t sing from troelala
@@ -893,7 +893,7 @@ And we’re gonna drink a lot
 
 We are C, we are Ψ, we are fucking dynamite!
 
-### PPK-LIED - p69
+### PPK-LIED | p69
 
 **M: ‘Rosamunde’, Franz Peter Schubert**
 
@@ -919,7 +919,7 @@ Wees vrienden voor elkaar,
 Smeed nu de hechte banden,
 ’t Wordt een heerlijk groots jaar.*
 
-### DE LEUKE REGIONALEN - p70
+### DE LEUKE REGIONALEN | p70
 
 **1993**
 
@@ -953,14 +953,14 @@ En we hebben een vat besteld
 Met de facultair zijn geld
 Wij zijn de leuke regionalen
 
-### SWAMP-KREET - p71
+### SWAMP-KREET | p71
 
 Wij zijn SWAMP
 Wij spelen graag
 Maar wie er met ons voeten speelt,
 Die krijgt slaag!
 
-### THE MAD GAMER - p71
+### THE MAD GAMER | p71
 
 **T: Jorgo Stavroudis, 1998
 M: ‘The Wild Rover’**
@@ -978,7 +978,7 @@ Where the cardboard is holy, and the rulebooks are vast.
 It’s there where my heart is, and I say to the rest:
 I don’t care what you think, I like gaming the best.
 
-### SOLVAY, C’EST DU CHAMPAGNE - p72
+### SOLVAY, C’EST DU CHAMPAGNE | p72
 
 Solvay, c’est du champagne,
 Solvay, c’est de l’humour
@@ -989,7 +989,7 @@ Au coeur chante toujours,
 Car Solvay c’est du champagne
 Du champagne et de l’humour.
 
-### CHANT DE SOLVAY - p72
+### CHANT DE SOLVAY | p72
 
 **M: ‘Les Housards de la garde’**
 
@@ -1026,11 +1026,11 @@ Verre à la main nous passons par la vie
 Verreà la main,
 Gaiement nous la quitterons.”*
 
-### DE VATKREET - p74
+### DE VATKREET | p74
 
 GELEK AS DE ... BIESTE!!! (Minimum TER)
 
-### HET VATLIED - p74
+### HET VATLIED | p74
 
 **T: De Wizze
 M: ‘Le grenadier de Flandre’**
@@ -1079,7 +1079,7 @@ We zuigen aan haar tet, dedju
 Discipels van Bacchus
 En van de heer Gambrinus*
 
-### VILVORDIA CLUBLIED - p76
+### VILVORDIA CLUBLIED | p76
 
 **M: ‘Het loze vissertje’**
 
@@ -1096,13 +1096,13 @@ Wij gaan versmachten
 | Wij zitten hier met grote dorst te wachten.
 Breng ons dat bier, breng ons dat bier. | (BIS)
 
-### VRG-KREET - p77
+### VRG-KREET | p77
 
 Olé, olé, olé, het VRG, het VRG
 Olé, olé, olé, het VRG doet mee
 Het VRG, het VRG doet mee
 
-### VRG-LIED - p77
+### VRG-LIED | p77
 
 **M: ‘Ode an die Freude’, Beethoven**
 
@@ -1142,14 +1142,14 @@ Bindt tot in de dood.
 Laat ons samen verder bouwen
 Aan het heil der mensheid.
 
-### VSKM KREET - p78
+### VSKM KREET | p78
 
 015 dus hou u maar bedeesd
 Overal waar we komen wordt gedronken en gefeest
 Al van in’t stad horen ze onze stem
 VSKM
 
-### VSKM LIED - p79
+### VSKM LIED | p79
 
 **M: ‘Krambambouli’**
 
@@ -1169,11 +1169,11 @@ De Dijlestad druipt van het bier,
 Wij pozen ook wel van de pier
 Als de VSKM gaat op de zwier. (BIS)
 
-### WESTLAND KREET - p79
+### WESTLAND KREET | p79
 
 Westland is een homokring (TER)
 
-### MOEDER WESTLAND - p80
+### MOEDER WESTLAND | p80
 
 Moeder Westland saamgekomen
 Kan haar bruisend bloed niet tomen
@@ -1201,7 +1201,7 @@ Zullen zich tesamen scharen
 Eens van hert en eens van ziele
 In dichten bond
 
-### WUK ZEG’D JE - p81
+### WUK ZEG’D JE | p81
 
 **T: Laura Schuerwegen, Diederick Dekeyzer**
 
@@ -1223,14 +1223,14 @@ Deur naar Kortrijk geef ma sjette
 Zo da w’ier in Brussel
 met al West-Vlamingen de café’s kunnen bezetten
 
-### WK-KREET - p82
+### WK-KREET | p82
 
 Oeaaaah! (BIS)
 | Geef me de W! (BIS)
 Geef me de K! (BIS) (BIS)
 Geef me de WK! WK! | (BIS)
 
-### BOURGEOIS VÉREUX - p82
+### BOURGEOIS VÉREUX | p82
 
 Et bou, et bou, et bou, bou, bou (BIS)
 | Bourgeois véreux prend garde
@@ -1242,7 +1242,7 @@ On chante encore
 Au CdS d’abord
 Chalalalalala | (BIS)
 
-### WK-LIED - p83
+### WK-LIED | p83
 
 **T: Jambon, 1981
 M: ‘Komt vrienden in de ronde’**
@@ -1273,7 +1273,7 @@ Gelooft U dat maar,
 Zolang men het café niet sluit,
 Krijgt men de WK er niet uit.
 
-### SPREKT A MOOJERTOÊL - p84
+### SPREKT A MOOJERTOÊL | p84
 
 **T: Michäel Heiremans, 2006
 M: ‘La Chanson du Roi Albert’**
@@ -1311,14 +1311,14 @@ En aaft a vast, en sprekt a moojertoêl!
 En aaft a recht, en sprekt a moojertoêl!
 LE BRUXELLOIS!
 
-### ZWK-KREET - p85
+### ZWK-KREET | p85
 
 Wie wil een vat? — Z!
 Wie krijgt een vat? — W!
 Wie drinkt een vat? — K!
 Wie is het vat? — ZWK!
 
-### ZWK-LIED - p85
+### ZWK-LIED | p85
 
 ZWK, ZWK
 We hebben allemaal tetten
@@ -1334,7 +1334,7 @@ Wir saufen un à fond
 
 Blote blote-te blote tetten tette!
 
-### ZENNEVALLEI LIED - p86
+### ZENNEVALLEI LIED | p86
 
 **T: Peter Villé
 M: ‘Het Vendel’**
@@ -1381,7 +1381,7 @@ Santé, student, santé.
 
 ## OFFICIELE LIEDEREN
 
-### LIED VAN GEEN TAAL - p91
+### LIED VAN GEEN TAAL | p91
 
 Brusselse studenten van de “Klauwaert ende Geus”
 Strijden wij voor vrijheid, steeds getrouw aan onze leus
@@ -1403,7 +1403,7 @@ Dragen w’in de wereld en doorheen heel Vlaanderen mee
 Onze wil tot leven vrij van dwang en levensblij
 “Geen Talers” blijven wij.
 
-### BSK-LIED - p92
+### BSK-LIED | p92
 
 **M: ‘O, Toreador’**
 
@@ -1416,7 +1416,7 @@ Wij zuipen altijd voort
 Tot in den dood
 Den BSK-student
 
-### GAUDEAMUS IGITUR - p92
+### GAUDEAMUS IGITUR | p92
 
 **T: Nieuwe versie door Christian Wilhelm Kindleben.
 M: In huidige vorm uit 1781.**
@@ -1456,7 +1456,7 @@ Pereat diabolus,
 Quivis antiburchius,
 Atque irrisores! (BIS)
 
-### AVE CONFRATER - p94
+### AVE CONFRATER | p94
 
 **Dit lied wordt gezongen bij de overdracht van het praesesschap. Na
 de overhandiging van het praeseslint en de eedaflegging, gaan de oude
@@ -1493,7 +1493,7 @@ draaien ze om hun gemeenschappelijke verticale as.**
 
 1+ 2 Ave confrater
 
-### IO VIVAT - p95
+### IO VIVAT | p95
 
 **18de eeuws; traditioneel worden enkel het refrein, de eerste strofe en
 dan nog eens het refrein gezongen**
@@ -1519,7 +1519,7 @@ Amici semper floreant!
 Jam tota Academia,
 Nobiscum amet gaudia.
 
-### TSJECHISCH DRINKLIED - p96
+### TSJECHISCH DRINKLIED | p96
 
 **Dr. D. Devos**
 
@@ -1537,7 +1537,7 @@ Eer we malkander ’t afscheid bi’en,
 En daarom drink maar, drink maar, drink maar,
 Drink op het vrolijk wederzien!
 
-### OUDE ROLDERSKLACHT - p96
+### OUDE ROLDERSKLACHT | p96
 
 **T: vertaald door K. D. W.
 M: ‘O alte Burschenherrlichkeit’, Eugen Höfling, 1825**
@@ -1612,7 +1612,7 @@ Nog leeft het oud studentenras!
 Bibamus laeti merum;
 Non est mutatio rerum!* | (BIS)
 
-### LE SEMEUR - p99
+### LE SEMEUR | p99
 
 **T: Georges Garnir, 1890
 M: Charles Mélant**
@@ -1655,7 +1655,7 @@ Contre la papauté!
 
 ## NEDERLANDSTALIGE LIEDEREN
 
-### AAN DE OEVERS VAN DE ZENNE - p103
+### AAN DE OEVERS VAN DE ZENNE | p103
 
 **M: Van oorsprong een Russisch kozakkenlied ter nagedachtenis van Stenka Razin, de leider van een boerenopstand in 1667.**
 
@@ -1689,7 +1689,7 @@ Maar ge zoudt het niet verstaan,
 ’k Zal U in uw bedje leggen,
 En daarmee is het lied gedaan!
 
-### ACH LIEFLIJKE MEISJES - p104
+### ACH LIEFLIJKE MEISJES | p104
 
 **T: L. Dolhain
 M: ‘Etoile des neiges’**
@@ -1737,7 +1737,7 @@ Nu heb ik wel tijd!
 Alleen nog trouwen telt
 Aan de universiteit.*
 
-### AD FUNDUM PER JAAR - p105
+### AD FUNDUM PER JAAR | p105
 
 **Per jaar, heeft hier betrekking op het aantal jaren studie.**
 
@@ -1766,7 +1766,7 @@ En al wie niet meer te Brussel is
 
 ’t Is mis! ’t Is mis! ’t Is mis! (BIS)
 
-### ADHEMAR - p106
+### ADHEMAR | p106
 
 **M: ‘Gaudeamus igitur’**
 
@@ -1800,7 +1800,7 @@ Voor tien frank bij den apotheker
 Hebt gij nooit een vuile steker
 En uw pietje is nooit meer bloot! (BIS)
 
-### AGE QUOD AGIS - p107
+### AGE QUOD AGIS | p107
 
 **M: ‘De lichtjes van de Schelde’, Bobbejaan Schoepen
 AVSG, 30e Vrijzinnig Zangfeest van Vlaanderen, 2015**
@@ -1841,7 +1841,7 @@ de vriendschap, ’t gezang en ’t jolijt.
 één ding dat ik wel zeker weet,
 folklore gaat mee met zen tijd!
 
-### AL DIE WILLEN TE KAAP’REN VAREN - p109
+### AL DIE WILLEN TE KAAP’REN VAREN | p109
 
 **Opgetekend door De Coussemaker, 1856
 Zeemanslied uit de streek van Duinkerken**
@@ -1863,7 +1863,7 @@ Allen die met ons de walvis killen
 
 Allen die dood en duivel niet duchten
 
-### AL VAN DEN DROGEN HARING - p109
+### AL VAN DEN DROGEN HARING | p109
 
 **Lied uit de streek van Duinkerken**
 
@@ -1887,7 +1887,7 @@ Ter ere van zijn stertje willen wij springen
 ’t Is van zijn stert, springt er met hert:
 ’t Is van den drogen haring!
 
-### ALLEN DIE WILLEN NAAR ISLAND GAAN - p111
+### ALLEN DIE WILLEN NAAR ISLAND GAAN | p111
 
 **Opgetekend door De Coussemaker, 1856
 IJslandvaarderslied uit streek van Duinkerken**
@@ -1934,7 +1934,7 @@ En te visschen met verlange
 Naer Iseland, naer Iseland, naer Island toe:
 Tot drie-en-dertig reyzen zyn wy nog niet moe.
 
-### ALONDER DE BLAUWE HEMEL - p112
+### ALONDER DE BLAUWE HEMEL | p112
 
 **M: Boudewijn de Groot
 Oorspronkelijk ‘Land van Maas en Waal’**
@@ -1955,7 +1955,7 @@ We poepten dat het dondert,
 En het vet liep van de vloer.
 112
 
-### ALS DE KERELS TE GARE ZIJN - p113
+### ALS DE KERELS TE GARE ZIJN | p113
 
 **T: Albrecht Rodenbach
 M: Engels Volkswijsje**
@@ -1995,7 +1995,7 @@ En als de kerel aan ’t zingen valt,
 zijn liedje vromer als d’andre schalt,
 *Storm op zee! Storm op zee!*
 
-### BEIAARDLIED - p114
+### BEIAARDLIED | p114
 
 **T: Julius de Geyter
 M: Peter Benoit**
@@ -2029,7 +2029,7 @@ Uw vrijheid, kunst en zeden,
 Op allen mocht gij bogen,
 Om allen werdt g’aanbeden. (BIS)
 
-### HET BELEG VAN BERG-OP-ZOOM - p116
+### HET BELEG VAN BERG-OP-ZOOM | p116
 
 **T: Adriaen Valerius, uit ‘Nederlantsche Gedenck-klanck’, 1626, Oorspronkelijk ‘Lied op het ontzet van Berg-op-Zoom’
 M: ‘Comediantendans’
@@ -2076,7 +2076,7 @@ Stut de Spaensche scharen,
 ’t Heeft ’s lands boom en syn stroom,
 Trouw’lyck doen bewaren.
 
-### DE BIEREN VAN BRUSSEL - p117
+### DE BIEREN VAN BRUSSEL | p117
 
 **T: François Putman
 M: Robert Hemmerdinger**
@@ -2101,7 +2101,7 @@ Den duvel danst me ons oep ‘t vat
 Een sloekske drinken en dan weir klinken
 Santé, Brussel de schoonste stad.
 
-### ’T BIERVAT - p118
+### ’T BIERVAT | p118
 
 **T: Maja Marcucci, Brussels Senioren Konvent
 M: ‘’t Zoutvat’, Laïs
@@ -2170,7 +2170,7 @@ Zich Brussel eigen maken
 Ja wie zich eens aan Brussel bindt
 Zal er nooit weg geraken.
 
-### DE BLAUWVOET - p122
+### DE BLAUWVOET | p122
 
 **T: Albrecht Rodenbach, Emiel Hullebroeck
 M: Johan De Stoop
@@ -2221,7 +2221,7 @@ Ons behoort het noorderstrand,
 Ons de kerels, ons de klauwaards,
 Leve Geus en Vlaanderland!
 
-### BOERENKERMIS - p123
+### BOERENKERMIS | p123
 
 **M: Reylof
 De oorspronkelijke versie van dit 18de eeuwse lied telt 6 strofen en werd onder de naam “’s Werelds Handel” door Jan Frans Willems opgetekend in zijn “Oude Vlaemsche liederen”.**
@@ -2248,7 +2248,7 @@ Zij roeren de lepel als was het om prijs,
 In de rijstpap die hemelse spijs.
 De jonkheid kiest een liefje uit.
 
-### CHICAGO SONG - p124
+### CHICAGO SONG | p124
 
 **T: John Pierpont
 M: ‘Jingle Bells’**
@@ -2284,7 +2284,7 @@ Ik had het niet gedaan,
 Mijn lul is nu versleten
 En haar kut is naar de maan!
 
-### DAAR WAS E WUF DIE SPON - p126
+### DAAR WAS E WUF DIE SPON | p126
 
 **Uit Duinkerken**
 
@@ -2309,7 +2309,7 @@ Dat wuf had enen man, (BIS)
 ’s Zondags heet hij Pieter,
 en ’s maandags heet hij Jan.
 
-### DIS IN LUCHT - p126
+### DIS IN LUCHT | p126
 
 Op van stoel, op van stoel
 Tra la la, la liere,
@@ -2344,7 +2344,7 @@ Twee voet van stoel
 
 Zit op stoel
 
-### DISCO ROLLING - p128
+### DISCO ROLLING | p128
 
 **De PK bracht dit lied samen met Aloha op het Festival de la Chanson Estudiantine (ULB) van 1982. Het wordt nu traditioneel gezongen op het einde van een cantus, na ‘Le Semeur’.**
 
@@ -2406,7 +2406,7 @@ Mie Katoen komt morgennoen,
 We zullen een poepke doen, HOI!
 Tatarataaa tarataratatatatataaa, HOI!
 
-### DE DOCHTER VAN DE PACHTER - p130
+### DE DOCHTER VAN DE PACHTER | p130
 
 En als we waren aan het weven,
 Lagen we gene wol maar wel katoen te geven;
@@ -2433,7 +2433,7 @@ Maar er schoot mij daar opeens toch iets te binnen;
 Ik liet alles maar begaan,
 Want ik had een kapootke aan.
 
-### DRIE SCHUINTAMBOERS - p131
+### DRIE SCHUINTAMBOERS | p131
 
 **Vrije vertaling van ‘Trois jeunes tambours’, 1745**
 
@@ -2491,7 +2491,7 @@ Nee ouwe heer, je kunt je dochter houwen (BIS)
 Van je rombom, wat maal ik erom
 Je kunt je dochter houwen, rombom.
 
-### DRIE VRIENDEN - p133
+### DRIE VRIENDEN | p133
 
 **John Lundström**
 
@@ -2562,7 +2562,7 @@ Voor ’t lest ne goeie raad
 Drinkt toch geen bier
 Als ge naar de maskes gaat.
 
-### DRONKEMANSPRAATJE - p136
+### DRONKEMANSPRAATJE | p136
 
 **T: Vertaling door pater Bernard van Meurs, 1868
 M: ‘Grad aus dem Wirtshaus’, Heinrich von Mühler, 1840**
@@ -2589,7 +2589,7 @@ En nu daaronder ik nuchter als brood!
 Dat zal niet want ik bemin mij te veel:
 ’k Ga weer naar de herberg en ’k drink mij daar scheel.
 
-### ER WAREN DRIE STUDENTJES - p137
+### ER WAREN DRIE STUDENTJES | p137
 
 **M: ‘Marlbrough s’en va-t-en guerre’**
 
@@ -2621,7 +2621,7 @@ De doos die werd gesloten
 De paapsen zijn gekelderd
 Tot in der eeuwigheid. (TER)
 
-### ERGO BIBAMUS - p138
+### ERGO BIBAMUS | p138
 
 **T: Vertaling van ‘Hier sind wir versammelt’, Johann Wolfgang von Goethe, 1810
 M: Max Eberwein, 1813**
@@ -2653,7 +2653,7 @@ En ’t oude verrompelde lint op den frak
 En samen met schachten in splinternieuw pak,
 Herhalen we ’t “Ergo Bibamus!” (BIS)
 
-### HET FIERE GEUZENLIED - p139
+### HET FIERE GEUZENLIED | p139
 
 **T: Joeri Dirckx
 M: ‘Jan Klaassen de trompetter’, Rob De Nijs; Arr: Bart Hoefman
@@ -2695,7 +2695,7 @@ We klinken onze glazen en dan zingen wij in koor
 ’t Is onze tijd, wij lev’ren strijd, geleid door de vrijzinnigheid
 We zijn de fiere Geuzen van de VUB
 
-### FILIA HOSPITALIS - p141
+### FILIA HOSPITALIS | p141
 
 **T: Vertaling uit het Duits, Otto Kamp, 1882
 M: Otto Lob, 1885**
@@ -2745,7 +2745,7 @@ Aan U denk ik bij dag en nacht
 | Want niemand is aequalis,
 Aan Filia Hospitalis! | (BIS)
 
-### FOLKLORE - p143
+### FOLKLORE | p143
 
 **T & M: Drs. P**
 
@@ -2789,7 +2789,7 @@ Van al die danserij
 | Met impulsieve kreten,
 want dat moet er altijd bij | (BIS)
 
-### DE GEDACHTEN ZIJN VRIJ - p144
+### DE GEDACHTEN ZIJN VRIJ | p144
 
 **Vertaling van ‘Die Gedanken sind frei’
 Meer informatie kan bij de originele versie gevonden worden.**
@@ -2830,7 +2830,7 @@ Steeds lachen en minnen,
 En denken wat ook zij:
 De gedachten zijn vrij!
 
-### GEUZENLIED - p146
+### GEUZENLIED | p146
 
 **T: Jan De Geyter, 15–17 september 1873
 M: Alexander Fernau
@@ -2889,7 +2889,7 @@ Al kost het goed en bloed
 | Wij gaan vooruit als reuzen,
 Vooruit met leeuwenmoed! | (BIS)
 
-### DE GILDE VIERT - p148
+### DE GILDE VIERT | p148
 
 **T: René de Clercq
 M: Emiel Hullebroeck, 1910**
@@ -2928,7 +2928,7 @@ De blokker ligt reeds log en loom,
 Gekweld door nare blokkersdroom,
 Met droge keel te ronken.
 
-### GROENINGHE - p149
+### GROENINGHE | p149
 
 Het Vlaamse heir staat immer pal,
 Daar ’t winnen of daar ’t sterven zal!
@@ -2952,7 +2952,7 @@ En gij die Geus noch ere en kent,
 Ruimt bane, eer op uw vege bansen
 De leeuwen dansen! (TER)
 
-### HET WAREN TWEE CONINCSKINDEREN - p150
+### HET WAREN TWEE CONINCSKINDEREN | p150
 
 **Van oorsprong middeleeuws minnelied, opgetekend door Florimond van Duyse. Het is waarschijnlijk gebaseerd op het verhaal van Hero en Leander, een griekse mythe, dat onder andere door Ovidius werd opgetekend.
 Ingekort van 8 strofen**
@@ -2993,7 +2993,7 @@ Myn vriendekens alle ghelyc,
 Adieu, myn suster en broeder;
 Ic vare naer ’t hemelryck.”
 
-### IK BEN EEN BOEMELAAR - p151
+### IK BEN EEN BOEMELAAR | p151
 
 Geen enkele avond ben ik thuis, joedeladeliedelee
 Mijn keelgat is een grote sluis, joedeladeliedelee
@@ -3033,7 +3033,7 @@ Wanneer ik na zo’n boemeljaar, joedeladeliedelee
 Zoveel verstand aan wijsheid paar.
 Joedelaa, joedelee!
 
-### IK BEN OP EEN AVOND MET EEN MEISJE - p153
+### IK BEN OP EEN AVOND MET EEN MEISJE | p153
 
 | En ik ben op een avond
 Met een meisje uitgeweest
@@ -3061,7 +3061,7 @@ Dat pietje dat ging zo.| (BIS)
 Die voetjes gingen zo. | (BIS)
 En zo gingen die ...
 
-### IK DRINK - p154
+### IK DRINK | p154
 
 **T: Louis Verbeeck
 M: Armand Preud’homme**
@@ -3083,7 +3083,7 @@ Nooit heeft mij een vrouw een bord soep voorgezet
 Ik ben heel alleen, ik heb zo’n verdriet
 Ik zucht en ik ween, want mijn hart is failliet.
 
-### IK ZAG CECILIA KOMEN - p155
+### IK ZAG CECILIA KOMEN | p155
 
 **Florimond Van Duyse, Gent, 1661
 Tweede strofe van de hand van Wannes Vande Velde**
@@ -3104,7 +3104,7 @@ En d’eeuwen zijn gevlogen, heur liefde’n is bedrogen.
 Heur dromen zijn gevallen, gestorven op de grond.
 Hun sporen draagt Cecilia op heuren bitt’ren mond.
 
-### IK ZOU ZO GRAAG EENS VOGELEN - p155
+### IK ZOU ZO GRAAG EENS VOGELEN | p155
 
 **M: ‘Daar zat een sneeuwwit vogeltje’**
 
@@ -3129,7 +3129,7 @@ Stond er een broebel op mijne zot.
 Maar nu ben ik alweer gezond (BIS)
 En jaag het vuur in de wijven hun kont!
 
-### IN DE STAD VAN BRUSSEL - p156
+### IN DE STAD VAN BRUSSEL | p156
 
 **M: ‘Saint Nicolas, patron des écoliers’**
 
@@ -3144,7 +3144,7 @@ Of de flikken zijn al daar!
 ’t Is een miserie, nondedju (TER)
 Ah, nondedju!
 
-### JAN BROEDER - p157
+### JAN BROEDER | p157
 
 **Anoniem, bewerkt door J. Vermulst**
 Jan Broeder vrijt een maske zoet,
@@ -3205,7 +3205,7 @@ Dat was ne pater, hij heette Jan,
 En hij is zijn kap ontsprongen!
 Hopsasa ...
 
-### JAN KLAASSEN DE TROMPETTER - p159
+### JAN KLAASSEN DE TROMPETTER | p159
 
 **T: Lennaert Nijgh
 M: Boudewijn de Groot**
@@ -3239,7 +3239,7 @@ Maar het leger is nooit teruggekeerd van de Mokerhei
 Geen mens die van Jan Klaassen ooit iets teruggevonden heeft
 Maar alle kinderen kennen hem; hij is niet dood, hij leeft!
 
-### JEROME - p160
+### JEROME | p160
 
 **M: ‘Que Sera, Sera’, Jay Livingston, Ray Evans**
 
@@ -3283,7 +3283,7 @@ Want die pakt ze van veur!
 
 \* De keuze wordt overgelaten aan de zanger.
 
-### JUCHEIDI - p162
+### JUCHEIDI | p162
 
 **M: ‘Studio auf seiner Reis’**
 
@@ -3334,7 +3334,7 @@ Nooit en rouwde ’t onze schaar,
 Al ons doen voor ’t Vlaamse diet,
 ’t Gildeleven, ’t Gildelied.
 
-### HET KAERELSLIED - p163
+### HET KAERELSLIED | p163
 
 **T: Hertaald uit het Gruuthuse handschrift door Alf. Wybo
 M: Florimond van Duyse**
@@ -3389,7 +3389,7 @@ Te lanc es haer sin baert,
 O ruter, als hi U moet vanghen,
 Wi weter hoe ghi dan vaert!
 
-### KALINKA - p165
+### KALINKA | p165
 
 ’k Zou zo geiren ne kie kakken,
 Maar mijn broekske wil niet zakken,
@@ -3406,7 +3406,7 @@ O mijn god, ’k kan niet meer stoppen,
 Heel de kamer ligt vol brokken,
 ’k Ben hier het schijtrekord aan ’t kloppen.
 
-### KEMPENLAND - p166
+### KEMPENLAND | p166
 
 Kempenland, aan de Dietse kroon
 Wonderfrisse perel,
@@ -3439,7 +3439,7 @@ Schoon van ziel en lijve;
 Harde tijden gaan voorbij,
 Maar een volk moet blijven.
 
-### KLEIN MARLEENTJE - p167
+### KLEIN MARLEENTJE | p167
 
 Ik pakte mijn Marleentje
 Al bij haar kleine hoofdje
@@ -3464,7 +3464,7 @@ Wanneer ik even kijk naar mijne kleine krullebol.
 Dat is mijn smakkerdesmak, mijn kijkerdekijk,
 Mijn ruikerderuik, mijn krullebol.
 
-### KLOKKE ROELAND - p168
+### KLOKKE ROELAND | p168
 
 **T: Albrecht Rodenbach, 1877
 M: Johan De Stoop**
@@ -3502,7 +3502,7 @@ En paart een lied met onze koren;
 Zing: “Ik ben Roeland, ’k kleppe brand,
 Luide triomf in Vlaanderland!”
 
-### HET KOEKOEKSLIED - p169
+### HET KOEKOEKSLIED | p169
 
 **T: Geertje Drieghe**
 
@@ -3519,7 +3519,7 @@ Laten w’eens goed door drinken
 Met ons kiel en ons linten
 Onze lever moet eraan
 
-### KOMT, VRIENDEN, IN HET RONDE - p170
+### KOMT, VRIENDEN, IN HET RONDE | p170
 
 **Opgetekend door J. Bols**
 
@@ -3577,7 +3577,7 @@ Schoon ik soms slapen moet
 Op hooi of strooi in enen stal:
 Daar heb ik kost voor niemendal.
 
-### KRAMBAMBOULI - p172
+### KRAMBAMBOULI | p172
 
 **T: Duits studentenlied, vertaling van Jef Vanden Eynde
 M: Duitse volkmelodie uit Göttinge, Otto Deneke
@@ -3623,7 +3623,7 @@ Want dat is de filosofie,
 Naar de geest van krambambouli,
 Krambimbambambouli, krambambouli! (BIS)
 
-### HET LAND VAN HAWAÏ - p174
+### HET LAND VAN HAWAÏ | p174
 
 **M: ‘Marche Américaine’**
 
@@ -3632,7 +3632,7 @@ Naar het land van de wuivende wijven,
 Daar lopen ze bloot in de wei,
 Tot dat g’er niet meer af kunt blijven!
 
-### LIED DER DEKADENTIE - p174
+### LIED DER DEKADENTIE | p174
 
 Blote tetten (TER)
 En daar twee choepkens op
@@ -3645,7 +3645,7 @@ En daar die piet d’erin
 
 Dekadentie (TER)
 
-### HET LIED DER VLAMINGEN - p175
+### HET LIED DER VLAMINGEN | p175
 
 **T: Emmanuel Hiel
 M: Peter Benoit, uit het oratorium ‘De Schelde’, 1868**
@@ -3680,7 +3680,7 @@ Met hand en hart bewaren
 Het *vrij*, het *vrije* Vaderland
 Het *vrije* Vaderland
 
-### LIED VAN ANTOON - p176
+### LIED VAN ANTOON | p176
 
 Er was een boerenmeisje,
 Er was een boerenzoon,
@@ -3736,7 +3736,7 @@ Daaruit wordt nu beslist,
 Dat vogelen godverdomme,
 Geen kinderspelen is.
 
-### HET LIED VAN HERTOG JAN - p179
+### HET LIED VAN HERTOG JAN | p179
 
 **T: Harrie Beex, 1947
 M: Floris van de Putt, 1947
@@ -3814,7 +3814,7 @@ Harba lorifa, zong den Hertog, harba lorifa
 En op Sint Jan geklommen
 Daar staat hij dag en nacht
 
-### HET LIED VAN KOPPELSTOCK DE VEERMAN - p183
+### HET LIED VAN KOPPELSTOCK DE VEERMAN | p183
 
 **A.J. Schooleman, 1872
 Op 1 april 1572 brengt een slechte wind de vloot van de Watergeuzen, o.l.v. Lumey, tot voor het stadje ‘Den Briel’ (tegenwoordig ‘Brielle’), ten westen van Rotterdam in Zuid-Holland. De veerman van het stadje, Jan Pieterszoon Koppelstock, brengt Lumey op de hoogte van het feit dat de Spanjaarden de stad net verlaten hebben, en deze dus voor het grijpen ligt. Dit lied begint wanneer Koppelstock met de boodschap van de Geuzen terugkeert in de stad . . .**
@@ -3851,7 +3851,7 @@ Maar nauw’lijks is hiermee de veerman gevleid,
 Of Simon de Rijck heeft de poort gerammeid
 En zo kwam de Geus in Den Briel! (BIS)
 
-### DE LIEREMAN - p184
+### DE LIEREMAN | p184
 
 Der was eens ne liereman
 Uit lieren ja gegaan
@@ -3889,7 +3889,7 @@ En zo komt hij naar huis.
 En hij komt er zonder geld en;
 Met ne slappe slinger thuis. | (BIS)
 
-### HET LINDENMEISJE - p185
+### HET LINDENMEISJE | p185
 
 **T: Rudolf Baumbach, vertaling: Jef Vanden Eynde
 M: ‘Keinen Tropfen im Becher mehr’, Franz Abb**
@@ -3936,7 +3936,7 @@ Voor hem stond het schuimend nat,
 Nevens hem het meisje zat,
 Onder de bloeiende linde! (BIS)
 
-### HET LOZE VISSERTJE - p187
+### HET LOZE VISSERTJE | p187
 
 **Gent,18e eeuw**
 
@@ -3969,7 +3969,7 @@ Eer gij van hier moogt gaan. Ja gaan.”
 
 > Refrein waarbij ‘zijnen’ door ‘uwen’ vervangen wordt.
 
-### HET LUIAARDSGILD - p188
+### HET LUIAARDSGILD | p188
 
 **Traditional ,op de wijze van Kadril**
 
@@ -4010,7 +4010,7 @@ Ik ben verdwenen in de nacht
 En ’k denk nog dikwijls terwijl ik lach
 Aan wilde avonturen
 
-### ME MOEDER KOCHT NEN HERING - p190
+### ME MOEDER KOCHT NEN HERING | p190
 
 **Opgetekend door Edmond De Coussemaker, Chants populaires des Flamands de France, 1856**
 
@@ -4030,7 +4030,7 @@ En die namen den hèring mee.
 Me moeder, me moeder begost te blèten,
 En den hèring blète mee.
 
-### MERLIJN DE GROTE VOGELAAR - p191
+### MERLIJN DE GROTE VOGELAAR | p191
 
 **M: ‘De Vogel’, Tim Visterin**
 
@@ -4068,7 +4068,7 @@ Ze had plezier (BIS)
 Als een mooi dier
 Ergens ver van hier.
 
-### MIE DE APPELTRUT - p92
+### MIE DE APPELTRUT | p92
 
 Mie de appeltrut
 Heeft ze eens uitgeschud.
@@ -4088,7 +4088,7 @@ Dat uw oogskens er van druppen
 En de schijn van de maan
 Op uwen hol zal staan.
 
-### DE MOORSOLDATEN - p193
+### DE MOORSOLDATEN | p193
 
 **T: Johann Esser, Wolfgang Langhoff
 M: Rudi Goguel
@@ -4114,7 +4114,7 @@ Toch zal voor ons ook het uur gaan komen,
 Dan roepen en zingen w’ in alle tonen:
 “Land van mij, gij zijt weer vrij.”
 
-### NAAR OOSTLAND - p194
+### NAAR OOSTLAND | p194
 
 **Ou dbrabants volkslied
 Bewerking: L. vanDessel**
@@ -4143,7 +4143,7 @@ Daar is het zo vrolijk te leven,
 Fris over die heiden,
 Daar woont mijn zoete lief.
 
-### NIEMAND VERSLAAT DE SAINT-V - p195
+### NIEMAND VERSLAAT DE SAINT-V | p195
 
 **T: Nicolas D’Hondt, Adam Brooking
 M: ‘Piano Man’, Billy Joel
@@ -4195,7 +4195,7 @@ We zijn jong, oud, pees en vree
 Dan weet je het wel, ’t vergaat niet zo snel
 Want niemand verslaat de Saint-V (BIS)
 
-### NOOIT MET KRIJT - p197
+### NOOIT MET KRIJT | p197
 
 **Kadril**
 
@@ -4226,7 +4226,7 @@ Dat de kleur verslijt
 Met een spons al op mijn deur bonkt
 Ik schreef nooit met krijt | (BIS)
 
-### NOOIT STERFT HET STUDENTENRAS - p198
+### NOOIT STERFT HET STUDENTENRAS | p198
 
 **M: ‘Auld lang syne’
 Orde van het Laurier, Nicolas Joschko, 1981
@@ -4247,7 +4247,7 @@ Nooit sterft ’t studentenras!
 Sta recht, mijn vriend en klinkt het glas;
 Nooit sterft ’t studentenras!
 
-### O NEDERLAND! LET OP UW ZAAK - p199
+### O NEDERLAND! LET OP UW ZAAK | p199
 
 **Adriaen Valerius, uit ‘Nederlantsche Gedenck-klanck’, 1625
 Dit lied roept de Nederlanden op tot waakzaamheid nadat Willem van Oranje in 1576 voorstelde om de hulp van het buitenland in te roepen in de strijd tegen Spanje**
@@ -4279,7 +4279,7 @@ In’t houden van u wetten,
 Boven al dient Geus, en valt hem steets te voet,
 Dat hy op u mach letten.
 
-### OMDAT IK VLAMING BEN - p200
+### OMDAT IK VLAMING BEN | p200
 
 **T: Lambrecht Lambrechts
 M: Maria Matthyssens**
@@ -4306,7 +4306,7 @@ Mijn hart blijft schenken en mijn lied
 Mijn adem en mijn wakk’re pen?
 Omdat ik Vlaming ben!
 
-### OP DE PURP’REN HEI - p201
+### OP DE PURP’REN HEI | p201
 
 **T: Eugeen de Ridder
 M: Armand Preud’homme**
@@ -4329,7 +4329,7 @@ Want nu schuift ’t gordijntje nooit nog voor me dicht!
 Door het open venster, dat men vroeger sloot,
 Lach ik op ons kindje op zijn moeders schoot.
 
-### OUD TAFELLIED - p201
+### OUD TAFELLIED | p201
 
 **T: X. Janssens
 M: ‘Ça ça geschmauset’**
@@ -4359,7 +4359,7 @@ Die hen ontsluit.
 
 > koers = les (cfr. coursi n’t Frans)
 
-### OUWE ZAKKEN - p202
+### OUWE ZAKKEN | p202
 
 **T: Maja Marcucci
 M: ‘Breek de stilte’, Stef Bos en Bob Savenberg
@@ -4415,7 +4415,7 @@ Vraag een ouwe zak om raad!
 
 > refrein
 
-### PIETER BREUGHEL IN BRUSSEL - p205
+### PIETER BREUGHEL IN BRUSSEL | p205
 
 **Wannes Van De Velde**
 
@@ -4487,7 +4487,7 @@ Doet open, maakt hem vrij!
 > ’t Fanatisme staat erbij aan zijn zij
 > Zo geraakt hem nooit nie vrij!
 
-### REUZENLIED - p207
+### REUZENLIED | p207
 
 **Traditioneel Zuid-Nederlands**
 
@@ -4514,7 +4514,7 @@ Sa, moeder, stopt
 Nu maar het vat, nu maar het vat,
 De Reus is zat.
 
-### DE ROLDERS IN DE NACHT - p208
+### DE ROLDERS IN DE NACHT | p208
 
 **J. De Lepeleire, 1954**
 
@@ -4560,7 +4560,7 @@ Ohohohohohoho ... Ohohohohohohoho ...
 
 > Margot Weissgerber, baatte in de jaren ’70 de kroeg “Chez Margot - Au Student” uit op de hoek van de Lentestraat en de Kroonlaan. In de oorspronkelijke versie van het lied heeft men het over ‘Marraine’, de ‘Moeder’ der Vlaamse studenten, tot 1968 uitbaatster van een café op de Leuvense Oude Markt.
 
-### ’T ROS BEYAARD - p210
+### ’T ROS BEYAARD | p210
 
 **T: K. Wijtsman, opgetekend door Florimond Van Duyse, 1868
 M: Oud Volkswijsje uit Dendermonde, 12e eeuww**
@@ -4600,7 +4600,7 @@ Heeft hem in het vuur begeven,
 En het week op ’t oorlogsveld,
 Alles voor zijn groot geweld!
 
-### RUE DES BOUCHERS - p211
+### RUE DES BOUCHERS | p211
 
 **T: Jan De Baets, bewerkt door Johan Verminnen
 M: Johan Verminnen**
@@ -4637,7 +4637,7 @@ Da blaift do tot smerges aupe
 En as ze do de dui toodroie
 Den es den oen al on ’t kroie
 
-### RUITERSLIED - p213
+### RUITERSLIED | p213
 
 **: Georg Herwegh, Burschenschaft Patrioten T¨ubingen, 1841
 M: Justus Wilhelm Lyra, Burschenschaft Knorschia Bonn, 1843**
@@ -4682,7 +4682,7 @@ Vooruit nu naar de laatste slag.
 O, ruiterslust in vroege dag.
 En sterven. (BIS)
 
-### Schoon lief, hoe ligt gy hier en slaept - p214
+### Schoon lief, hoe ligt gy hier en slaept | p214
 
 **Brabants Meilied, rond 1610**
 
@@ -4711,7 +4711,7 @@ Zal ’t nachtegaelken springen,
 En voor ons bei in elken mei
 Zyn zoete liedekens zingen.
 
-### SCHOON LIEVEKEN WAAR WAARDE GIJ - p216
+### SCHOON LIEVEKEN WAAR WAARDE GIJ | p216
 
 **Pol de Mont, Brabants Meilied
 Naar een oude traditie werd op de eerste mei door de jonge minnaar een tak van een buksboom voor het huis van de geliefde geplant als symbool van liefde en eeuwige jeugd.**
@@ -4744,7 +4744,7 @@ En zal het u dan niet verdrieten?”
 Met den lieven meientijd,
 Met den mei zal hij wederom schieten.”
 
-### SLAAT OP DEN TROMMELE - p217
+### SLAAT OP DEN TROMMELE | p217
 
 **T:  Arent Dircksz Vos, 1566, uit het “Nieu Geusen Liet-boeck” uit 1581. Er zou nog een ouder Geuzenliedboek bestaan (1574), maar daarvan is tot op heden geen enkel exemplaar teruggevonden.
 De schrijver werd in 1570 in ’s Gravenhage verbrand onder beschuldiging van beeldenstormerij, de gereformeerde godsdienst te propageren en het bezitten van een oproerig refrein of rondeel, waarschijnlijk dit lied.
@@ -4769,7 +4769,7 @@ Of laat intijds nog uw Geusloos spel;
 Of laat intijds! Och wilt U bedenken,
 Of laat intijds, weest geen rebel!
 
-### ’T SMIDJE - p218
+### ’T SMIDJE | p218
 
 **T: Traditioneel
 M: Laïs**
@@ -4804,7 +4804,7 @@ Werd ik maar eens weduwnaar
 ’k Zou mij in een hoeksken houden
 En mij stellen uit gevaar
 
-### DE STOOMPRUIM - p219
+### DE STOOMPRUIM | p219
 
 Zie, ginds komt de stoomboot uit Spanje weer aan
 Hij brengt ons de hoeren, ik zie ze al staan
@@ -4812,7 +4812,7 @@ Hoe huppelt mijn pietje mijn broek op en neer
 Hoe waaien mijn kloten al heen en al weer
 Bim bom (BIS)
 
-### TINNEKE VAN HEULEN - p219
+### TINNEKE VAN HEULEN | p219
 
 **M: Emiel Hullebroeck
 Oorspronkelijke tekst: René de Clercq**
@@ -4846,7 +4846,7 @@ Beter dan een hemel
 Een gat gelijk een kemel
 Tinneke ons maartje in haar hemd.
 
-### TOEN IK IN BRUSSEL KWAM - p221
+### TOEN IK IN BRUSSEL KWAM | p221
 
 Toen ik in Brussel kwam
 Die hoer stond aan de deur,
@@ -4882,7 +4882,7 @@ Toen zag ze daar nen hond,
 Met olifantenkloten
 En ne piet tot op de grond!
 
-### HET VENDEL - p222
+### HET VENDEL | p222
 
 **T: Jan Hoogensteyn
 M: Oud-Nederlands soldatenlied circa 1560**
@@ -4917,7 +4917,7 @@ Over de groene heide,
 Opwaarts naar Berg-op-Zoom.
 Marsjeer, landsknecht, marsjeer!
 
-### VERBROEDERING TE BRUSSEL - p223
+### VERBROEDERING TE BRUSSEL | p223
 
 **T & M: Hans Van de Casseye. Naar Vioolconcerto op.35 in RE (Tchaikovsky) & Bro Hymn (Pennywise)
 Oorspronkelijke titel: ‘Student zijn is meer dan studeren alleen’ KBS, Winnend lied op het 16e Vrijzinnig Zangfeest van Vlaanderen, 2001**
@@ -4965,7 +4965,7 @@ Zingt een lied in ’t Frans, en ’t Nederlands.
 *Être étudiant, c’est plus que seulement étudier.* (BIS)
 *Fraternité, c’est notre idéal de la VUB.* (BIS)
 
-### DE VERLOPEN STUDENT - p225
+### DE VERLOPEN STUDENT | p225
 
 **T: Brussels soldatenlied**
 
@@ -5014,7 +5014,7 @@ En ook de vrouwe derven
 Ik zei “doktoor, vive l’amour
 Veul liever zoun ik sterven”
 
-### VIER WEVERKENS - p226
+### VIER WEVERKENS | p226
 
 **T: Pol de Mont,1889
 Herinnert aan de hongersnood die Vlaanderen tot 1900 veelvuldig trof.**
@@ -5049,7 +5049,7 @@ Waar zullen zij het begraven?
 Al onder de weverkens hunne getouw
 En het grafke zal rooskens dragen.
 
-### VIVE LA COMPANEIA - p227
+### VIVE LA COMPANEIA | p227
 
 Ik steek mijn pintje naar omlaag,
 Vive la companeia!
@@ -5088,7 +5088,7 @@ Dat ieder drink maar niet te veel!
 
 > Men blijft deze strofe verder zingen tot de pint terug bij de praeses is. De laatste commilito vòòr de praeses drinkt wat overblijft ad fundum.
 
-### VIVE, VIVE LE GEUS - p229
+### VIVE, VIVE LE GEUS | p229
 
 **Uit het ‘Nieu Geusen Liet-boeck’, 1581. Het lied gaat terug op de slag bij Oosterweel van 13 maart 1567. De oorspronkelijke titel is: ‘Hier beginnen de Liedekens van Paepken uut’. Er moet opgemerkt worden dat onze 16de eeuwse medemens klaarblijkelijk een ander gevoel voor ritme had dan wat tegenwoordig als normaal wordt beschouwd. Naast de Geus/God kwestie werd het lied dan ook op verschillende plaatsen vervormd om de “zingbaarheid” te verbeteren. Vijf strofen werden zelfs weggelaten, omdat vervorming ervan weinig van de oorspronkelijke betekenis van zou overlaten**
 
@@ -5134,7 +5134,7 @@ Hoe langer hoe meer
 Betert u, geeft *Geus* authentijk,
 Glorie, lof, prijs en eer!
 
-### DE VLAAMSE LEEUW - p231
+### DE VLAAMSE LEEUW | p231
 
 **T: Hippoliet Jan van Peene, 1833
 M: Karel van Miry, 1847
@@ -5190,7 +5190,7 @@ Bedekt met bloed en slijk
 En zegepralend grijnst Hij
 Op ’s vijands trillend lijk.
 
-### DE VLAAMSE MEISJES - p233
+### DE VLAAMSE MEISJES | p233
 
 De Vlaamse meisjes zijn zo schoon
 Ze zijn zo schoon van voren (BIS)
@@ -5248,7 +5248,7 @@ Die heeft een hele slappe gang
 Een slappe gang van voren
 Heeft wie dit lied niet zingen kan
 
-### ’T VLIEGERKE - p235
+### ’T VLIEGERKE | p235
 
 **Gents straatliedje**
 
@@ -5304,7 +5304,7 @@ De koorde schoot eraf!
 Mijne bol klauwe, die ging ne gang,
 Da zal ’k onthouden, mijn leven lang!*
 
-### VOOR OUTER EN HEERD - p237
+### VOOR OUTER EN HEERD | p237
 
 **T: Jozef Simons
 M: Armand Preud’homme**
@@ -5339,7 +5339,7 @@ En werden ze overmand,
 Hun namen staan voor eeuwen,
 In ’t hart van ’t volk gebrand
 
-### DE VORIGE PASTOOR VAN ELSENE - p239
+### DE VORIGE PASTOOR VAN ELSENE | p239
 
 **T: Bart Vermijlen
 M: ‘Pauvre Martin’, George Brassens
@@ -5391,7 +5391,7 @@ Is hier student en zit op kot
 | *Draagt steeds zijn klak, kan niet meer zonder
 Kan zijn eigen meester zijn* | (BIS)
 
-### DE VOYAGEUR - p241
+### DE VOYAGEUR | p241
 
 Doe was ne ki ne voyageur,
 Trim, tram, troulala,
@@ -5432,7 +5432,7 @@ Wie es de voeder van da kinch?
 
 Hij es goen vliege met de winch.
 
-### DE VRESELIJKE MOORD VAN SLISSEN - p242
+### DE VRESELIJKE MOORD VAN SLISSEN | p242
 
 **M: ‘De Zilvervloot’**
 
@@ -5455,7 +5455,7 @@ Om er viskens mee te vangen,
 ’t Pissein da’s veel te klein (BIS)
 Ze gaan ’t vergroten, dat klein pissein,
 Ze gaan vergroten, vergroten dat klein pissein.
-### EEN VROLIJK LENTELIED - p242
+### EEN VROLIJK LENTELIED | p242
 
 **Jan De Wilde**
 
@@ -5479,7 +5479,7 @@ Bijna, maar ik denk dat ze weldra zal komen
 De Phallus impudicus staat al in bloei,
 En de klokken vertrekken naar Rome ...*
 
-### WAAR HET HART VAN VOL IS, LOOPT DE MOND VAN OVER - p243
+### WAAR HET HART VAN VOL IS, LOOPT DE MOND VAN OVER | p243
 
 **T: Thomas Schoenmakers, Andrew Crosby, William Schoenmakers, Lodewijk Janssen, Benjamin Van de Pol
 M: ‘Misery’, Greenday
@@ -5541,7 +5541,7 @@ kreeg ook al in zijnen tijd
 van zijn wijf het vliegend schijt.
 Hip hip hoera vrijzinnigheid!
 
-### WAT ZULLEN WE DRINKEN - p245
+### WAT ZULLEN WE DRINKEN | p245
 
 **T: Hans Sanders, Bots
 M: Traditioneel Bretoens
@@ -5578,7 +5578,7 @@ Dus werken we samen, zeven dagen lang
 Dus werken we samen, niet alleen. | (BIS)
 246
 
-### WIE ANDERS - p247
+### WIE ANDERS | p247
 
 **T: K.Biscop, E.Delay, J.DeGroote, T.DeTrogh, J.Karlsson, D. Vanhonacker
 M: ‘Santiano’,Les Marins d’Iroise
@@ -5624,7 +5624,7 @@ We zijn oud, we zijn fatigué,
 En crashen we straks samen op café,
 Dan is’t nog de schuld van’t BSG!
 
-### WIJ ZIJN AL BIJEEN - p248
+### WIJ ZIJN AL BIJEEN | p248
 
 **Opgetekend door Edmond De Coussemaker, Chants populaires des Flamands de France,1856**
 
@@ -5646,7 +5646,7 @@ Zoude daarom ne stommerik zijn? | (BIS)
 | Zou me niet meugen een pijpke roken,
 Zoude daarom een schoorsteen zijn? | (BIS)
 
-### DE WIJN - p249
+### DE WIJN | p249
 
 **Laïs**
 
@@ -5680,7 +5680,7 @@ We zullen hem laten schenken en vrolijk zullen we zijn
 Kom laat ons vanavond blijven
 O wijn, weest welkom wijn
 
-### HET WILHELMUS - p50
+### HET WILHELMUS | p50
 
 **T: Vermoedelijk Philips van Marnix, Heer van St. Aldegonde
 M: ‘Chartres’, een Frans soldatenlied uit 1568
@@ -5731,7 +5731,7 @@ Syn heylsaam woort neemt aen,
 Als vrome *Geuzen* leven;
 Tsal hier haest syn ghedaen.
 
-### ZEEMANSLIED - p252
+### ZEEMANSLIED | p252
 
 Ik heb op zee mijn leven lang gevaren,
 Mijn vissersdorp ligt aan het Noordzeestrand,
@@ -5750,7 +5750,7 @@ Bij donkere nacht, belust op zwakke buit,
 Maar voor geen geld ter wereld wil ik ruilen,
 Mijn vrij bestaan, als koning op mijn schuit!
 
-### DE ZILVERVLOOT - p252
+### DE ZILVERVLOOT | p252
 
 **T: Jan Piete Heye
 M: Johannes J. Viotta
@@ -5790,7 +5790,7 @@ Al bennen we niet groot, (BIS)
 We zouen winnen een Zilvervloot,
 We zouen winnen, nog winnen een Zilvervloot!”*
 
-### HET ZWARTBRUINE BIER - p254
+### HET ZWARTBRUINE BIER | p254
 
 **M: Duits studentenlied: ‘Das schwarzbraune Bier’,Jena, 1857**
 
@@ -5819,7 +5819,7 @@ Dat zal voor eeuwig ’t mijne zijn!
 
 > Naargelang de inspiratie van de corona worden er vrije versies gezongen!
 
-### ’T ZWIEN - p255
+### ’T ZWIEN | p255
 
 **‘Trink, trink, brüderlein, trink’**
 
@@ -5855,7 +5855,7 @@ Maar geef mi een brokske van ’t zwien.
 
 ## FRANSTALIGE LIEDEREN
 
-### ÀBAS LA CALOTTE - p259
+### ÀBAS LA CALOTTE | p259
 
 | *À bas la calotte, à bas la calotte
 À bas les calotins* | (BIS)
@@ -5868,7 +5868,7 @@ Oui, nous irons chasser ohé (BIS)
 Oui, nous irons chasser la calotte.
 La calotte au poteau! (BIS)
 
-### À FOND LIÈGEOIS - p260
+### À FOND LIÈGEOIS | p260
 
 Amis, il existe un moment
 Oùles femm’s, les fill’s et les mères,
@@ -5929,7 +5929,7 @@ Il repassera par le trou, ...
 
 Il sortira par le trou, ...
 
-### AH! QUE NOS PERES ÉTAIENT HEUREUX - p261
+### AH! QUE NOS PERES ÉTAIENT HEUREUX | p261
 
 Ah! Que nos pèr’sétaient heureux (BIS)
 Quand ilsétaient à table,
@@ -5975,7 +5975,7 @@ Comme des trous, morbleu!
 L’avenir est à nous, morbleu!
 L’avenir està nous.*
 
-### L’AIMABLE FANCHON - p264
+### L’AIMABLE FANCHON | p264
 
 **T: Antoine-Charles-Louis de Lasalle, 1798**
 
@@ -6010,7 +6010,7 @@ Lui mit la main dans le corset;
 Ell’répondit par un soufflet
 Sur le museau du camarade.
 
-### ALI ALO POUR MASCHERO - p265
+### ALI ALO POUR MASCHERO | p265
 
 Ali, alo pour Maschero! Ali, alo
 Il mange la viande et nous laisse les os ...
@@ -6052,7 +6052,7 @@ Il mange du saumon et nous laisse les maquereaux ...
 
 Il nous laissera que la peau sur les os ...
 
-### ALOHA - p266
+### ALOHA | p266
 
 **T: Nick Trachet, Rikus Daems
 PK, 2e prijs Festival de la Chanson Estudiantine, 1982**
@@ -6089,7 +6089,7 @@ Tout le plaisir c’est de draguer
 À la V.U.B.; à la V.U.B
 Allons baiser les Vahinés.* | (BIS)
 
-### AUPRÈS DE MA BLONDE - p267
+### AUPRÈS DE MA BLONDE | p267
 
 **In 1674 werd het franse eiland Noirmoutiers bezet door het Hollandse leger in de oorlog tegen Lodewijk XV. Om de koning tot betaling van een losgeld te dwingen, werden zes bewoners van het eiland twee jaar in Amsterdam vastgehouden. E´en van hen, Joseph Andr´e Joubert, zou dit lied geschreven hebben tijdens zijn ballingschap.**
 
@@ -6122,7 +6122,7 @@ La caille, la tourterelle et la jolie perdrix.
 
 ... Et ma jolie colombe qui chante jour et nuit.
 
-### AU TRENTE ET UN DU MOIS D’AOÛT - p268
+### AU TRENTE ET UN DU MOIS D’AOÛT | p268
 
 **M: ‘Le Corsaire’**
 
@@ -6168,7 +6168,7 @@ Qu’a laissé prendr’ sonéquipage
 Par un corsair’ de six canons,
 Lui qu’en avait trente et si bons?
 
-### LA BALLADE DES BRAVES GUEUX - p269
+### LA BALLADE DES BRAVES GUEUX | p269
 
 **T: Philippe Vandermeer, BSG
 M: ‘La ballade des gens heureux’, G´erard Lenorman
@@ -6214,7 +6214,7 @@ Et détestes tout occupant fâcheux
 | Tu seras notre camarade
 Camarade des Braves Gueux | (BIS)
 
-### LA BALLADE DES COCUS - p270
+### LA BALLADE DES COCUS | p270
 
 C’est pour la somme de dix francs, (BIS)
 Qu’on fait cocu unétudiant. (BIS)
@@ -6268,7 +6268,7 @@ Pourvu qu’ ça m’ rapporte unécu. (BIS)
 Avec l’écu des autres,
 J’en f’rai cocu bien d’autres ...
 
-### LA BALLADE DU MUTANT - p272
+### LA BALLADE DU MUTANT | p272
 
 **T: Corporatio Bruxellensis!
 M: ‘Malheur à ce lui qui blesse un enfant’, Enrico Macias, 1976
@@ -6299,7 +6299,7 @@ Qu’il voulut sortir sa queue en forme de tire-bouchon
 Sa petit’ peau flasqueétait molle et sans vie
 Et sa couille unique avait l’air d’un ballon.
 
-### BANDAIS-TU? - p273
+### BANDAIS-TU? | p273
 
 Si tous les pavésétaient des biroutes,
 On verrait les femmes s’coucher sur les routes.
@@ -6339,7 +6339,7 @@ On verrait les vits leur poser des colles.
 Si les cons dansaient comm’ des ballerines,
 On verrait les log’s se garnir de pines.
 
-### BEN LADEN - p75
+### BEN LADEN | p75
 
 **T: Guilde Horus
 M: ‘Dirk Frimout’, Les Snuls**
@@ -6393,7 +6393,7 @@ Bali, Washington, Moscou
 Al-Jazeera m’interview
 Et moi j’nique Double-U
 
-### LA BIÈRE - p276
+### LA BIÈRE | p276
 
 **T & M: Antoine Clesse (Bergen)
 Werd oorspronkelijk op een andere melodie gezongen.**
@@ -6433,7 +6433,7 @@ Je tiens mon verre, et le bonheur en main,
 Ah! J’en voudrais verser à tout le monde,
 Pour le bonheur de tout le genre humain.
 
-### LA BITE A DUDULE - p278
+### LA BITE A DUDULE | p278
 
 Il était deux amants
 Qui s’aimaient tendrement;
@@ -6487,7 +6487,7 @@ J’ouvr’ la porte, tagadagada,
 J’tends les bras, tagadagada
 Et qu’est-ce que je vois ...
 
-### LE BORDEL A FERMÉ SES VOLETS - p280
+### LE BORDEL A FERMÉ SES VOLETS | p280
 
 **M: ‘La guinguette a fermé ses volets’, Léon Montagné**
 
@@ -6544,7 +6544,7 @@ Que l’danger quand on baise
 Était de s’confier aux machins anglais
 Et l’bordel a monté des bidets.
 
-### BOUDINS ET TEQUILA - p282
+### BOUDINS ET TEQUILA | p282
 
 **T: Guilde Polytechnique, Festival de la chanson estudiantine 1992
 M: ‘Vive la rose’ Guy Béart**
@@ -6593,7 +6593,7 @@ La cirrhose et la Tequila. | (BIS)
 
 > Bij de laatste herhaling wordt “Tequila” vervangen door “gueule de bois”.
 
-### LA BOURGUIGNONNE - p284
+### LA BOURGUIGNONNE | p284
 
 C’est dans une vigne
 Que j’ai vu le jour.
@@ -6645,7 +6645,7 @@ Tout près de mon vin,
 Dans un’ pose grave,
 Le nez sous l’robin.
 
-### LA BRABANÇONNE D’UNE PUTAIN - p286
+### LA BRABANÇONNE D’UNE PUTAIN | p286
 
 **T: Oorpsronkelijke tekst van Louis-Alexandre Dechet, september 1830 en Charles Rogier, 1860
 M: ‘La Braban¸conne’, Fran¸cois Van Campenhout, september 1830**
@@ -6677,7 +6677,7 @@ Le pauvre, lui, peut en jouir pour rien,
 Pour soulager l’humanité souffrante,
 Voilà pourquoi je me suis fait putain! (TER)
 
-### BRUXELLES - p287
+### BRUXELLES | p287
 
 **T & M: ‘Ik wil deze nacht . . .’, Wannes Van De Velde
 Franstalige tekst: PK, Festival de la chanson estudiantine, 1984**
@@ -6718,7 +6718,7 @@ Met klinkende glazen vol Franse wijn,
 Zingt mee met de mensen, dat hebben ze geren,
 En laat deze nacht nooit een einde zijn.
 
-### BUITEN DIE WALEN - p289
+### BUITEN DIE WALEN | p289
 
 **T: M. Adriaenssens, K. Biscop, J. De Groote, M. Heiremans
 M: ‘Le Chant des étudiants wallons’
@@ -6777,7 +6777,7 @@ Van al dat Waals gebleit tedju
 Krijg ik het vliegend schijt tedju
 Dus neemt uw pint ter hand en drinkt in eigen land*
 
-### CACA HOLA - p291
+### CACA HOLA | p291
 
 **T: Paul Hanson, Festival de la chanson estudiantine 1977
 M: Reclame melodie voor Coca-Cola**
@@ -6817,7 +6817,7 @@ N’ont vraiment rien pigé
 Nous vous jurons chers compagnons
 Ce sont des constipés.
 
-### CAROLINE, LA PUTAIN - p292
+### CAROLINE, LA PUTAIN | p292
 
 **M: Air de cor
 T: Marion de Mersan, 1770**
@@ -6881,7 +6881,7 @@ On vit pleurer tous ses morpions, ...
 Et quand on la mit dans la terre
 Ils entonnèr’nt cette chanson ...
 
-### LA CEINTURE - p294
+### LA CEINTURE | p294
 
 Partant pour la croisade, un sire fort jaloux
 De l’honneur de son nom et de son droit d’époux
@@ -6920,7 +6920,7 @@ Ouvrons vite la porte au fils respectueux!”
 De joie, la tendr’ Yseult, à ces mots, enfantait
 Et depuis, la ceintur’, c’est lui qui s’la mettait.
 
-### C’ÉTAIT AU TEMPS QUE BRUXELLES GUINDAILLAIT - p295
+### C’ÉTAIT AU TEMPS QUE BRUXELLES GUINDAILLAIT | p295
 
 **T: CEB, Festival de la Chanson Estudiantine, ULB, 1980
 M: ‘Bruxelles bruxellait’, P. Jouannest door JacquesBrel**
@@ -6976,7 +6976,7 @@ C’était au temps où les students buvaient!
 C’était au temps oùBruxelles se marrait,
 C’était au temps où le folklore vivait!*
 
-### CHANSON À BOIRE - p298
+### CHANSON À BOIRE | p298
 
 **M: Tri Yann
 T: Gabrië Bataille, 1615**
@@ -7005,7 +7005,7 @@ Pour nous esmouvoir le rognon.
 Et que celuy d’entre nous meure
 Qui dedira son compangnon.
 
-### CHANSON DE BICÊTRE - p299
+### CHANSON DE BICÊTRE | p299
 
 **Dit lied werd geschreven tussen 1846 en 1851. ‘L’ hospice du Bicêtre’ is een ziekenhuis in de Parijse randgemeente Kremlin-Bicêtre (Val-de-Marne), gebouwd in 1632 als rusthuis voor de gepensioneerde en kreupele soldaten van Lodewijk XIII.Het was in het Bicêtre dat Dr. Guillotin in 1792 zijn ‘onthoofdingsmachine’ uitvond en testte op de rijkelijk voorhanden zijnde lijken. Traditioneel werden veel Franse studentenliederen geschreven door geneeskundestudenten met wachtdienst in de ‘salles de garde’ van de vele Parijse ‘Hospices’, en later verzameld in de‘Chansons des salles de garde’, vergelijkbaar met onze codex.
 
@@ -7049,7 +7049,7 @@ Quand on est jeun’ il faut baiser à l’oeil.
 Avec le temps, Vénus devient avare.
 Aux pauvres vieux, le coup est cher ... et rare.
 
-### LA CHANSON DU ROI ALBERT - p301
+### LA CHANSON DU ROI ALBERT | p301
 
 C’était un soir sur les bords de l’Yser(e)
 Un soldat belg’ qui montait la faction
@@ -7091,7 +7091,7 @@ La croix de guerre pend à ma boutonnière,
 Pour avoir diT:  Vous ne passerez pas, (BIS)
 Halte là!”
 
-### CHANT DES BRAVES GUEUX - p302
+### CHANT DES BRAVES GUEUX | p302
 
 **T: Vrij naar G. Hubens
 M: ‘Au trent et un du mois d’août’**
@@ -7108,7 +7108,7 @@ Buvons un coup, buvons en deux,
 Et merde aux curés, aux vicaires,
 Qui nous ont déclaré la guerre.
 
-### LE CHANT DES PARTISANS - p303
+### LE CHANT DES PARTISANS | p303
 
 **T: Maurice Druon, Joseph Kessel
 M: Anna Marly
@@ -7138,7 +7138,7 @@ Ami, entends-tu ces cris sourds du pays qu’on enchaîne?
 Ami, entends-tu le vol noir des corbeaux sur nos plaines?
 Oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh. (BIS)
 
-### CHANTONS POUR PASSER LE TEMPS - p304
+### CHANTONS POUR PASSER LE TEMPS | p304
 
 Chantons pour passer le temps
 Les amours charmants d’une belle fille,
@@ -7195,7 +7195,7 @@ Sinon t’auras pas d’vin plein ta bedaine
 Et vire, et vire, vire donc,
 Ou t’auras pas ta ration dans l’bedon
 
-### CHARLOTTE - p306
+### CHARLOTTE | p306
 
 **Andere titels: ‘La petite Charlotte’, ‘Branle Charlotte’**
 
@@ -7241,7 +7241,7 @@ Baise, baise ça fait du bien.
 Baise, baise, baise ma chère
 Baise, baise jusqu’ à demain.*
 
-### CHEVALIERS DE LA TABLE RONDE - p307
+### CHEVALIERS DE LA TABLE RONDE | p307
 
 | Chevaliers de la table ronde,
 Goûtons voir si le vin est bon. | (BIS)
@@ -7303,7 +7303,7 @@ La morale de cette histoire,
 Est qu’il faut boire avant d’mourir!
 Est qu’il faut, oui, oui, oui ...
 
-### LE CORDONNIER PAMPHYLE - p309
+### LE CORDONNIER PAMPHYLE | p309
 
 Le cordonnier Pamphyle
 A élu domicile
@@ -7354,7 +7354,7 @@ Cette carott’ sent l’urine,
 Elle a servi de pine
 Et il la dégueula ...
 
-### LA CORRIDA - p311
+### LA CORRIDA | p311
 
 Le soir de la grande corrida, olé!
 Alors qu’il plantait ses banderillas, olé!
@@ -7386,7 +7386,7 @@ Tu ne vois pas que j’ai envie (7 keer “envie”)
 Tu es terrible, parapapoum (BIS)
 Tu es vraiment phénoménal.”
 
-### LE CUL DE MA BLONDE - p312
+### LE CUL DE MA BLONDE | p312
 
 **M: ‘La nature’, Pierre Gaveaux**
 
@@ -7445,7 +7445,7 @@ Du fleuve au dieu cornu,
 Godiller ferm’ et dru,
 Et mourir dans le cul ...
 
-### DE PROFUNDIS MORPIONIBUS - p315
+### DE PROFUNDIS MORPIONIBUS | p315
 
 **M: ‘L’enterrement du Maréchal Gérard’, M. Reyze**
 
@@ -7492,7 +7492,7 @@ Voyant fléchir ses camerades
 Cria: “Morpions nous sommes foutus
 Piquons une charge au trou du cul”.
 
-### LA DIGUE DU CUL - p316
+### LA DIGUE DU CUL | p316
 
 La digue du cul, en revenant de Nantes (BIS)
 De Nantes à Montaigu, la digue, la digue,
@@ -7522,7 +7522,7 @@ La digue du cul, il fallut bien qu’il sorte (BIS)
 Il est entré bien raide, la digue, la digue
 Il en sortit menu, la digue du cul.
 
-### LE DUC DE BORDEAUX - p318
+### LE DUC DE BORDEAUX | p318
 
 **M: Sonnerie de chasse**
 
@@ -7569,7 +7569,7 @@ C’était la p’tit’ bonn’ qui l’avait dans les fesses
 La bite à papa n’était pas perdue,
 C’était la p’tit’ bonn’ qui l’avait dans le cul.
 
-### ELEPHANT STORY - p319
+### ELEPHANT STORY | p319
 
 **T & M: Eric Saintrond
 Festival de la chanson estudiantine ’83**
@@ -7610,7 +7610,7 @@ Mais au bout de plusieurs semaines,
 Il attrapa une migraine
 Et mourut d’une indigestion.
 
-### EN DESCENDANT LA RUE TRONCHET - p321
+### EN DESCENDANT LA RUE TRONCHET | p321
 
 **M: ‘Où allez vous monsieur l’abbé’, uit ‘Le panier aux ordures’, 1878**
 
@@ -7643,7 +7643,7 @@ Mais ce que je regrette, eh bien,
 C’est ma pair’ de roupettes,
 Et vous m’entendez bien. (BIS)
 
-### EN PASSANT PAR LA LORRAINE - p322
+### EN PASSANT PAR LA LORRAINE | p322
 
 En passant par la Lorraine, avec mes sabots (BIS)
 Rencontrai trois capitaines, avec mes sabots
@@ -7669,7 +7669,7 @@ S’il fleurit, je serai reine.
 
 S’il y meurt, je perds ma peine.
 
-### EN REVENANT DE LA FOIRE - p323
+### EN REVENANT DE LA FOIRE | p323
 
 **Te Saint Cloud, in de Parijse stadsrand, was de jaarlijkse herfstbeurs (foire) een ideaal excuus om te feesten voor de studenten van het Quartier Latin**
 
@@ -7704,7 +7704,7 @@ Elle aurait mis l’feu partout. (BIS)
 Et les pompiers du village ...
 N’en pourraient venirà bout. (BIS)
 
-### EN REVENANT DU PIÉMONT - p324
+### EN REVENANT DU PIÉMONT | p324
 
 C’était en rev’nant du Piémont (BIS)
 Nousétions six jeunes garçons (BIS)
@@ -7755,7 +7755,7 @@ Qui savait si bien se remuer les fesses
 Et de la p’tite bonne au lit si doux.
 Sans devant derrière et par derrier’ surtout! (BIS)
 
-### LA FEMME DU ROULIER - p325
+### LA FEMME DU ROULIER | p325
 
 Il est minuit,
 La femme du roulier
@@ -7813,7 +7813,7 @@ Vos propos m’exaspèrent
 | Vous serez tous cocus, tirelu,
 Comm’ le fut votre père. | (BIS)
 
-### LA FEMME DU VIDANGEUR - p328
+### LA FEMME DU VIDANGEUR | p328
 
 **Andere titel: ‘Lependu’
 Het laatste stukje van het refrein wordt u bespaard om ademhalingsmoeilijkheden te vermijden!**
@@ -7851,7 +7851,7 @@ La sainte vierge et tous les anges.
 Si l’ bon dieu n’ s’était pas cavalé
 Cré nom de dieu, je l’aurais enculé!
 
-### LA FILLE DE LA BOUCHÈRE - p329
+### LA FILLE DE LA BOUCHÈRE | p329
 
 **T: Bram Desmet, Vincent Godderis, Polytechnic
 M: ‘Les filles du bord de mer’, Adamo
@@ -7903,7 +7903,7 @@ Au Cercle Popo on est des porcs.
 
 *Refrein ad libitum*
 
-### LES FILLES DE CAMARET - p331
+### LES FILLES DE CAMARET | p331
 
 | Les filles de Camaret
 Se disent toutes vierges | (BIS)
@@ -7989,7 +7989,7 @@ Prenez gardeà Jésus Christ
 Mordez pas dans son zizi:
 Prudence! (TER)
 
-### LES FILLES DE LA ROCHELLE - p333
+### LES FILLES DE LA ROCHELLE | p333
 
 Sont les filles de La Rochelle
 Qu’ ont armé un bâtiment. (BIS)
@@ -8041,7 +8041,7 @@ Au milieu de l’océan. (BIS)
 Il est parti vent arrière
 Reviendra-z-en louvoyant.”
 
-### LES FILLES DES FORGES - p335
+### LES FILLES DES FORGES | p335
 
 **Traditioneel Bretoens**
 
@@ -8075,7 +8075,7 @@ Des forges de Paimpont, ...
 
 La-la-la, lalala ...
 
-### LES FRAISES ET LES FRAMBOISES - p336
+### LES FRAISES ET LES FRAMBOISES | p336
 
 En revenant d’Montmartre,
 De Montmartre à Paris,
@@ -8125,7 +8125,7 @@ La mort du canari.
 ... Car la fillette, adroite,
 Le rendit à la vie.
 
-### GILDE HALEWYN - p339
+### GILDE HALEWYN | p339
 
 **T: Eric Schelstraete, februari 1988
 M: Angelo Branduardi
@@ -8157,7 +8157,7 @@ Aux trois couleurs des bannières des Gueux
 
 Gris et bleu ... Bier en Geus
 
-### LE GRAND MÉTINGUE DU MÉTROPOLITAIN - p340
+### LE GRAND MÉTINGUE DU MÉTROPOLITAIN | p340
 
 **T: Maurice Mac Nab
 M: Camille Baron
@@ -8210,7 +8210,7 @@ Mêm’ qu’on le fourre au violon pour un rien,
 | C’était tout d’ même un bien chouette métingue,
 Que le métingu’ du métropolitain! | (BIS)
 
-### L’HOMME AU PUISSANT BRAQUEMART - p342
+### L’HOMME AU PUISSANT BRAQUEMART | p342
 
 Sacrée putain tu recules
 Je n’en puis plus de bander
@@ -8254,7 +8254,7 @@ Sur leur cul je m’essuierai
 Vive l’homme* (TER)
 *Au gros dard*
 
-### LE HUSSARD DE LA GARDE - p343
+### LE HUSSARD DE LA GARDE | p343
 
 C’était un hussard de la garde
 Qui revenait de garnison
@@ -8331,7 +8331,7 @@ Quand il mourut de la vérole
 Les asticots qui l’ont bouffé
 Ont dégueulé.
 
-### IL FAUT BOIRE - p346
+### IL FAUT BOIRE | p346
 
 Quand au monde on est venu (BIS)
 Braillant, suintant et tout nu (BIS)
@@ -8360,7 +8360,7 @@ Quand la Camarde viendra (BIS)
 Nous cueillir entre ses bras (BIS)
 Pour finir gaiement l’histoire,
 
-### J’AI CHOPPÉ LA DIARRHÉE - p347
+### J’AI CHOPPÉ LA DIARRHÉE | p347
 
 **T: René La Taupe
 M: ‘The Lions leeps tonight’**
@@ -8395,7 +8395,7 @@ Faut qu’ça cesse
 L’odeur m’agresse
 J’vais mourir asphyxié
 
-### JE BAISE AVEC MA PINE - p348
+### JE BAISE AVEC MA PINE | p348
 
 **T: Corporatio Bruxellensis!
 M: ‘Titine’**
@@ -8458,7 +8458,7 @@ Qui veut filer son dard
 *Dans l’ cul d’ l’ayatollah
 Tralalalala lala* (BIS)
 
-### JE CHERCHE FORTUNE - p350
+### JE CHERCHE FORTUNE | p350
 
 **T: Het refrein van dit lied is het refrein van ‘Le chat noir’ van Aristide Bruant, uit 1884; één van zijn vele liederen voor het gelijknamige Parijse cabaret. De herkomst van de strofen kon niet achterhaald worden, maar is studentikoos van oorsprong.
 M: Occitaanse ballade, ‘Aqueros Montagneros’**
@@ -8527,7 +8527,7 @@ Nous marier
 J’ te cass’ la gueule
 Dans l’ bénitier.
 
-### JEANNETON - p352
+### JEANNETON | p352
 
 Jeanneton prend sa faucille,
 Lahirette, lahirette,
@@ -8563,7 +8563,7 @@ C’est que les femmes aiment les cochons!
 La morale de ces morales,
 C’est qu’ils font des p’tits cochons!
 
-### LA JEUNE FILLE DU MÉTRO - p353
+### LA JEUNE FILLE DU MÉTRO | p353
 
 C’était une jeune fille chaste et bonne
 Qui n’refusait rien a personne.
@@ -8605,7 +8605,7 @@ Je crois même bien qu’ils s’en ... fichent
 L’amour ouvrant les yeux
 Même aux gens très godiches.
 
-### LE JOUEUR DE LUTH - p355
+### LE JOUEUR DE LUTH | p355
 
 En notre ville est venu (BIS)
 Un fameux joueur de luth (BIS)
@@ -8663,7 +8663,7 @@ Qu’il n’faut pas rester pucelle.
 Faut donner son p’titécu
 Pour apprendre à jouer de l’épinette ...
 
-### LE KYRIÉ DES MOINES - p357
+### LE KYRIÉ DES MOINES | p357
 
 Kyrié, kyrié, dans la chambre de nos abbés
 On n’y boit, on n’y boit
@@ -8696,7 +8696,7 @@ On n’encule, on n’encule
 Que des petits bien balancés, ...
 ... Nous ne pouvons que nous entreculer ...
 
-### LES LÉGIONNAIRES - p359
+### LES LÉGIONNAIRES | p359
 
 **Gebaseerd op het lied van ‘Les Bat’ d’Afs’, de Afrika-bataljons waar de vrijwilligers voor het Vreemdelingenlegioen werden naar toegestuurd die een gevangenisstraf uitzaten.
 vrijwilligersvoorhetVreemdelingenlegioenwerdennaartoegestuurd
@@ -8740,7 +8740,7 @@ Avec pour croix une baïonnette,
 Qui voulez-vous qui nous regrette,
 Puisqu’on est tous des réprouvés, des réprouvés?
 
-### MA FEMME EST MORTE - p360
+### MA FEMME EST MORTE | p360
 
 Jean, l’autre soir, en montant l’escalier, (BIS)
 Trouva sa femmeétendu’ sur l’palier, (BIS)
@@ -8790,7 +8790,7 @@ Ta guenon, ta poison, n’est pas morte!
 Et je mettrai de l’eau dedans ton verre
 Ta guenon, ta poison, n’est pas morte!*
 
-### MA MÈRE M’A DONNÉ CENT SOUS - p362
+### MA MÈRE M’A DONNÉ CENT SOUS | p362
 
 Ma mère m’a donné cent sous,
 Pour acheter des bretelles,
@@ -8820,7 +8820,7 @@ Tu as baisé ma mère.”
 Et moi je lui répond:
 “Tu baises bien la mienne!”
 
-### MARCHE AMÉRICAINE - p363
+### MARCHE AMÉRICAINE | p363
 
 **M: ‘Stars and stripes’**
 
@@ -8844,7 +8844,7 @@ Qu’on recommence!
 
 > * De jongens zingen wat er staat, de meisjes: “Cette fois je sens bien que tu m’ l’as mis!”
 
-### LA MARCHE DES ÉTUDIANTS - p365
+### LA MARCHE DES ÉTUDIANTS | p365
 
 **T: Paul Vanderborght, 1919
 M: ‘Les Gueux’**
@@ -8885,7 +8885,7 @@ Nous redironsà mi-voix nos chansons;
 | Ellesétaient peut-être un peu gaillardes,
 Mais on hurlait si bien à l’unisson! | (BIS)
 
-### LA MARSEILLAISE ANTICLÉRICALE - p367
+### LA MARSEILLAISE ANTICLÉRICALE | p367
 
 **M: ‘La Marseillaise’, Rouget de Lisle, 24 april 1792
 T: Léo Taxil, 1881**
@@ -8948,7 +8948,7 @@ Allons au scrutin le front haut:
 Pour sauver le pays, il faut
 Une chambre anticléricale!
 
-### LES MARTEAUX - p369
+### LES MARTEAUX | p369
 
 Nousétions six fameux bougres
 Revenant de Longjumeau,
@@ -8999,7 +8999,7 @@ Sur la porte unécriteau:
 C’est ici qu’on boit, qu’on mange
 Et qu’on paye à coups d’ marteaux. Oh!
 
-### LA MAUVAISE RÉPUTATION - p372
+### LA MAUVAISE RÉPUTATION | p372
 
 *T & M: Georges Brassens*
 
@@ -9055,7 +9055,7 @@ L’on suive une autre route qu’eux,
 Tout l’mond’ viendra me voir pendu,
 Sauf les aveugles, bien entendu.
 
-### LA MÈRE GASPARD - p374
+### LA MÈRE GASPARD | p374
 
 **Le père en la mère Gaspard waren de uitbaters van het Brusselsstu-dentencabaret ‘Le Diable-Au-Corps’, in de wijk waar nu de Nieuwstraat ligt. Het werd in 1928 gesloopt voor de bouw van de warenhuizen‘Innovation’.**
 
@@ -9070,7 +9070,7 @@ Est toujours plein, plein, plein ...
 
 > Tijdens het zingen van deze regels klinkt iemand met de commilito links van hem, deze op zijn beurt met die links van hem en zo heel de corona (of om het even welke groep commilitones) rond. Diegene die aangeklonken wordt bij “tard” drinkt zijn glas ad fundum, terwijl de rest het woord “plein” blijft herhalen, totdat zijn glas leeg is. De commilito die gedronken heeft zet het klinken opnieuw in gang, en trekt zich dan terug uit de corona/groep. Dit geheel wordt herhaald tot er maar twee commilitones overblijven, die dan samen een ad fundum drinken. Dit liedje wordt typisch gezongen bij het einde van een activiteit, voor iedereen huiswaarts keert.
 
-### LES MOINES DE SAINT-BERNARDIN - p374
+### LES MOINES DE SAINT-BERNARDIN | p374
 
 Nous sommes les moines de Saint-Bernardin (BIS)
 Qui nous couchons tard et nous levons matin (BIS)
@@ -9106,7 +9106,7 @@ Je me ferai moine avec ma Jeanneton (BIS)
 Et couché sur l’herbette, je lui chatouillerai l’bouton.
 Voilà c’ qu’est bon, est bon, est bon ...
 
-### NINI-PEAU-D’CHIEN - p376
+### NINI-PEAU-D’CHIEN | p376
 
 **T & M: Aristide Bruant**
 
@@ -9221,7 +9221,7 @@ A la communauté | (BIS)
 
 ... Tu te rendras utile à la communauté! (BIS)
 
-### PARCOURS SANTÉ - p380
+### PARCOURS SANTÉ | p380
 
 **T: Guilde Polytechnique ULB
 M: ‘La fleur aux dents’, Joe Dassin
@@ -9267,7 +9267,7 @@ Mais quand mémé s’endort devant la télé
 Moi j’ai la triqu’, je m’astiqu’
 En pensant que j’ les nique
 
-### LE PÈRE ADAM - p382
+### LE PÈRE ADAM | p382
 
 **Voor uw eigen goed: een zwaar ingekorte versie...**
 
@@ -9329,7 +9329,7 @@ Donnez-moi vite votr’ absolution.
 Le seul péché que j’ai fait dans ma vie
 C’est d’avoir trop joué avec leur ...
 
-### LE PLAISIR DES DIEUX - p384
+### LE PLAISIR DES DIEUX | p384
 
 **Ook ‘Les quatre âges du cœur’ genoemd, ca. 1830**
 
@@ -9387,14 +9387,14 @@ Foutre et jouir: voilà quels sont nos voeux.
 | Foutons amis qu’importe la manière
 Foutons foutons c’est le plaisir des dieux. | (BIS)
 
-### QUAND ON A UNE GUEUL’ COMME ÇA - p386
+### QUAND ON A UNE GUEUL’ COMME ÇA | p386
 
 Quand on a une gueul’ comme ça,
 On la ferme, on la ferme!
 Quand on a une gueul’ comme ça,
 On la ferme et on s’en va!
 
-### LES QUATRE-VINGTS CHASSEURS - p386
+### LES QUATRE-VINGTS CHASSEURS | p386
 
 **T: Waarschijnlijk gebaseerd op Noël de Henri Murger,1850
 M: Jacques Mendel**
@@ -9455,7 +9455,7 @@ Il demanda qu’on l’en instruise.
 Le fils de quatre-vingts chasseurs ...
 ... Et qui n’ avaient pas peur!*
 
-### LA QUILLE - p388
+### LA QUILLE | p388
 
 Il paraˆıt qu’en Amérique,
 Par un procédé nouveau,
@@ -9487,7 +9487,7 @@ J’étais devant, j’étais derrière,
 J’étais derrière, j’étais devant,
 J’étais tout seul à l’enterrement.
 
-### RÉPONSE D’UNE FÉMINISTE - p389
+### RÉPONSE D’UNE FÉMINISTE | p389
 
 **T: Cerclede Philosophie et Lettres
 M: ‘Le petit âne gris’, Hugues Au fray
@@ -9552,7 +9552,7 @@ Je le tailleà la hache | (BIS)
 
 ... Ton organe turgescent je le taille à la hache! (BIS)
 
-### LA ROMANCE DU 14 JUILLET - p391
+### LA ROMANCE DU 14 JUILLET | p391
 
 **T: Léon Keimeul,1946, Cercle Mèdecine, ULB
 Dit lied werd geschreven ter gelegenheid van het bezoek van een de-
@@ -9617,7 +9617,7 @@ Quand ell’ sentit battr’ son coeur
 Un beau soir, près du mec Gégène
 Marinette a cru au bonheur.
 
-### SAINT NICOLAS - p393
+### SAINT NICOLAS | p393
 
 **M: ‘La chanson de Cadet Roussel’**
 
@@ -9691,7 +9691,7 @@ Saint Nicolas bandait encore
 Il n’avait plus que son squelette
 Mais il avait toujours sa quéquette.
 
-### LA SALOPE - p396
+### LA SALOPE | p396
 
 Ilétait une fille
 Qui s’appelait Suzon
@@ -9720,7 +9720,7 @@ Mon Dieu, que c’était bon!
 ... Si c’étaità refaire,
 Nous recommencerions.
 
-### SI J’ T’ENCULE - p397
+### SI J’ T’ENCULE | p397
 
 Entrant dans uneéglise,
 On ne voit d’abord rien
@@ -9758,7 +9758,7 @@ Confesser les putains.
 ...Il aura la vérole
 Son père l’avait bien!
 
-### LES STANCES À SOPHIE - p399
+### LES STANCES À SOPHIE | p399
 
 Tu m’ demand’s tes lettr’s, ta photographie
 Tonépong’ à cul, ton bidet d’ métal
@@ -9820,7 +9820,7 @@ N’ayant plus d’ putain, je n’ s’rai plus cocu,
 Et si, par hasard, je te r’mets que’qu’ chose,
 Ce n’ sera jamais que mon pied dans l’ cul!
 
-### SUR LES BORDS DE LA LOIRE - p401
+### SUR LES BORDS DE LA LOIRE | p401
 
 **Lied van de Guilde Turquoise
 verbonden aan CARé, ULB**
@@ -9855,7 +9855,7 @@ Quand elle fut sur le brick(e), elle se mit à pleurer.
 
 “Sans ça, toutes les filles trouv’raient à se marier ...”
 
-### SUR LES BORDS DE LA TAMISE - p402
+### SUR LES BORDS DE LA TAMISE | p402
 
 **Dit lied wordt aangeheven door één commilito, die er na de eerste herhaling een tweede bijhaalt. Bij de derde herhaling halen ze elk een commilito uit de corona en zo voorts en zo verder. Men voegt vanzelfsprekenderwijs telkens het dubbel aantal Engelsen bij, tot de ganse corona rechtstaat.**
 
@@ -9875,7 +9875,7 @@ Y avait deux Anglais ... !
 Sur les bords de la Tamise
 Y avait tous les anglais ...
 
-### LA TOUR DE LONDRES - p403
+### LA TOUR DE LONDRES | p403
 
 Dans une tour de Londres
 Là-haut, là-haut,
@@ -9906,7 +9906,7 @@ La moral’ de l’histoire ...
 Est qu’il n’faut pas chier
 Sans avoir du papier.
 
-### LE TOURDION - p404
+### LE TOURDION | p404
 
 **Bourgondische dans uit de Renaissance, later populair geworden als drinklied**
 
@@ -9930,7 +9930,7 @@ Und leert die Flasche bis zum Grunde;
 Singt und trinkt mit uns,
 Den Wein schenket ein* | (BIS)
 
-### LES TROIS ORFÈVRES - p405
+### LES TROIS ORFÈVRES | p405
 
 **T & M: Anthologie Hospitalière et Latinesque, 1911**
 
@@ -9979,7 +9979,7 @@ Bandant tous ainsi que des carmes,
 À grands coups de vit,
 Repousseront les ennemis.
 
-### LE TROUBADOUR - p407
+### LE TROUBADOUR | p407
 
 J’ai fait le tour du monde
 Et partout j’ai baisé,
@@ -10017,7 +10017,7 @@ Mon ami Alphonso,
 Je te taillerai une plume,
 Pour mettre à ton chapeau.
 
-### VIVRE POUR VIVRE - p408
+### VIVRE POUR VIVRE | p408
 
 **T: E. Philippon, Corporatio Brabantia Bruxellensis
 M: Naar de film ‘Mon oncle Benjamin’
@@ -10058,7 +10058,7 @@ Un dernier sourire, croir’ encoreà l’avenir
 *Je veux mourir ma vie avant qu’elle ne soit vieille
 Entre le cul des filles et le cul des bouteilles*
 
-### LE ZOBI D’ALI PACHA - p410
+### LE ZOBI D’ALI PACHA | p410
 
 **T & M: Gérard Doulssane**
 
@@ -10110,7 +10110,7 @@ Les pédés y s’en veulent tous.
 
 ## DUITSTALIGE LIEDEREN
 
-### ALLE FISCHE SCHWIMMEN - p415
+### ALLE FISCHE SCHWIMMEN | p415
 
 | Alle Fische schwimmen, alle Fische schwimmen,
 Nur der kleine Backfisch nicht | (BIS)
@@ -10130,7 +10130,7 @@ Aus dem kleinen Henkeltöpfchen! | (BIS)
 | Alle Belle bellen, alle Belle bellen,
 Nur die kleine Schnotbel nicht! | (BIS)
 
-### ALT HEIDELBERG - p415
+### ALT HEIDELBERG | p415
 
 **T:  Joseph Viktor von Scheffel, Heidelberger und Berliner Burschenschaft, 1852
 M: Anton Zimmermann, 1861**
@@ -10162,7 +10162,7 @@ Und wird mir’s da zu kalt,
 Geb ich dem Roß die Sporen
 Und treib’s ins Neckartal. (BIS)
 
-### BIER HER! - p416
+### BIER HER! | p416
 
 **M: ‘Lebestrebe’,G.W.Baumann,1855,Heidelberg**
 
@@ -10193,7 +10193,7 @@ Und ich hier ein Slapfe kriegen?
 Frau her! Frau her!
 Oder ich spiel ab!
 
-### BUMS VALDERA - p417
+### BUMS VALDERA | p417
 
 Wir machen durch bis morgen früh,
 Und singen: bums valdera,
@@ -10211,7 +10211,7 @@ Wir machen durch bis morgen früh,
 Und singen: bums valdera,
 Bums valdera, bis morgen früh.
 
-### BURSCHEN, HERAUS - p419
+### BURSCHEN, HERAUS | p419
 
 **T: Franz von Kobell 1844, Corps Isaria München
 Opgetekend Deutches Lieder- und Kommersbuch, Karl Göpel, 1847**
@@ -10240,7 +10240,7 @@ Und heraus mit mut’gem Sang,
 Wär es auch zum letzten Gang!
 Burschen, heraus!
 
-### ÇA, ÇA GESCHMAUSET - p420
+### ÇA, ÇA GESCHMAUSET | p420
 
 **T: ChristianWilhelmKindleben,1781**
 
@@ -10287,7 +10287,7 @@ Denkt oft, ihr Brüder,
 An uns’re Jugendfröhlichkeit
 Sie kehrt nicht wieder, die goldne Zeit!
 
-### DONAUSTRUDEL - p421
+### DONAUSTRUDEL | p421
 
 **Uit Beieren, omgevormd door opeenvolgende studentengeneraties.**
 
@@ -10324,7 +10324,7 @@ Kam ein grosser Nix geschwommen,
 Nahm das Fraülein Kunigund,
 Fuhr mit ihr in des Strudels Grund!
 
-### ERIKA - p422
+### ERIKA | p422
 
 Auf der Heide blüht ein kleines Blümelein
 Und das heißt ... Erika.
@@ -10353,7 +10353,7 @@ Und dann ist es mir, als spräch es laut:
 In der Heimat weint um dich ein Mägdelein
 Und das heißt ... Erika.
 
-### ’S GIBT KEIN SCHÖNER LEBEN ALS STUDENTENLEBEN - p425
+### ’S GIBT KEIN SCHÖNER LEBEN ALS STUDENTENLEBEN | p425
 
 **T: Braun’s Liederbuch für Studenten, 1845
 M: Karl Gottlieb Reißiger, 1822**
@@ -10394,7 +10394,7 @@ Ein Examen! Nein, das geht nicht so!
 Möcht nie auf Erden et was anders werden
 Als ein kreuzfideler Studio.
 
-### ES LEBEN DIE STUDENTEN - p426
+### ES LEBEN DIE STUDENTEN | p426
 
 Es leben die Studenten
 Stets in den Tag hinein,
@@ -10430,7 +10430,7 @@ Stets in den Tag hinein,
 Wärn wir der Welt Regenten,
 Sollt immer Festtag sein.
 
-### DIE GEDANKEN SIND FREI - p429
+### DIE GEDANKEN SIND FREI | p429
 
 **Tekst van Zuid-Duitse oorsprong, verschenen op pamfletten tussen 1780 en 1800. De basisgedachte is echter reeds uitgedrukt geweest in een middelhoogduitse vrijdenkerszegswijze ‘Bescheidenheit’, uit het jaar 1229. Deze luidt: ‘Diu bant mac nieman vinden, diu mine gedanken binden’. Walther von der Vogelweide (ergens tussen 1170 en 1230) zong: ‘Sind doch Gedanken frei’, terwijl de Oostenrijkse minnezanger Dietmar von Aist in de 12e eeuw ‘Die Gedanken, die sind edig frei’ schreef.**
 
@@ -10454,7 +10454,7 @@ Und will mich auch nimmer mit Grillen mehr plagen.
 Man kann ja im Herzen stets lachen und scherzen
 Und denken dabei: Die Gedanken sind frei!
 
-### GOLD UND SILBER - p430
+### GOLD UND SILBER | p430
 
 **T: August Schnezler, 1828, opgetekend door Franz Behr
 M: F.H. Truhn, 1843**
@@ -10513,7 +10513,7 @@ Sollst du treulich halten:
 | Küssen ist für junge Leut’
 Zuschauen für die Alten. | (BIS)
 
-### DER GUTE KAMERAD - p432
+### DER GUTE KAMERAD | p432
 
 **T: L. Uhland, 1809
 M: F. Silcher, 1825
@@ -10537,7 +10537,7 @@ Derweil ich eben lad’:
 Bleib’ du im ew’gen Leben,
 Mein guter Kamerad!” (BIS)
 
-### DE HAMBORGER VEERMASTER - p433
+### DE HAMBORGER VEERMASTER | p433
 
 **Nederduitse Shanty gebaseerd op ‘The Banks of the Sacramento’.**
 
@@ -10570,7 +10570,7 @@ To my hoodah, to my hoodah!
 De Lüüd für dat Schipp wörrn ok bloß schanghait.
 To my hoodah, hoodah, ho!
 
-### HEUTE IST HEUT - p434
+### HEUTE IST HEUT | p434
 
 **T: Rudolf Baumbach, 1882
 M: V.E. Becker, 1885**
@@ -10607,7 +10607,7 @@ Morgen in Schutt zerfällt
 | Wenn sie nur heut noch hält
 Heute ist heut! | (BIS)
 
-### ICH HAB’ MEIN HERZ IN HEIDELBERG VERLOREN - p435
+### ICH HAB’ MEIN HERZ IN HEIDELBERG VERLOREN | p435
 
 **T: Beda, Ernst Neubach, M: Fred Raymond, 1925**
 
@@ -10638,7 +10638,7 @@ Ich bin von dir gezogen, ließ Leichtsinn, Wein und Glück.
 Und ich sehne mich (BIS)
 Mein Leben lang zurück
 
-### IM TIEFEN KELLER - p437
+### IM TIEFEN KELLER | p437
 
 **T: Karl Müchler, 1802
 M: Ludwig Fischer, 1802**
@@ -10670,7 +10670,7 @@ Vom Fass zu Boden sinke,
 Ich hab’ keine Pflicht verletzt,
 Ich trinke, trinke, trinke, ...
 
-### IN MÜNCHEN STEHT EIN HOFBRAÜHAUS - p438
+### IN MÜNCHEN STEHT EIN HOFBRAÜHAUS | p438
 
 Da wo die grüne Isar fließt
 Wo man mit ”Grüß Gott” dich grüßt;
@@ -10701,7 +10701,7 @@ Bleibt der Mann noch lange weg
 Aber die braven Nachbarleut’,
 Die wissen besser Bescheid.
 
-### KURFÜRST FRIEDRICH VON DER PFALZ - p439
+### KURFÜRST FRIEDRICH VON DER PFALZ | p439
 
 **T: August Schuster, 1887
 M: Karl Friedrich August Hering, 1887**
@@ -10750,7 +10750,7 @@ Wenn der volle Becher blitzt?
 | Drum stoßt an! Probatum est:
 Heute wieder voll gewest! | (BIS)
 
-### LILI MARLEEN - p440
+### LILI MARLEEN | p440
 
 **T: Hans Leip, 1915
 M: Norbert Schultze, 1937**
@@ -10795,7 +10795,7 @@ Wenn sich die späten Nebel dreh’n
 Werd’ ich bei der Laterne steh’n
 Wie einst Lili Marleen. (BIS)
 
-### DIE LORE - p442
+### DIE LORE | p442
 
 **T: Heinrich C. Boie, 1797
 M: rond 1840**
@@ -10830,7 +10830,7 @@ Dann sehe ich so gerne
 Aus weiter, weiter Ferne
 Das Haus der jungen Försterin. (BIS)
 
-### LUSTIG IST DAS ZIGEUNERLEBEN - p443
+### LUSTIG IST DAS ZIGEUNERLEBEN | p443
 
 **Volkslied uit Niederschlesien, 1842**
 
@@ -10858,7 +10858,7 @@ Trinken Wasser wie kühlen Wein
 Denken, es wäre Champagnerwein,
 Faria, faria, faria, faria, faria, faria
 
-### DIE MOORSOLDATEN - p444
+### DIE MOORSOLDATEN | p444
 
 **T: Johann Esser, Wolfgang Langhoff
 M: Rudi Goguel
@@ -10900,7 +10900,7 @@ Heimat, Du bist wieder mein!
 | *Dann ziehn die Moorsoldaten
 Nicht mehr mit dem Spaten in’s Moor!* | (BIS)
 
-### O ALTE BURSCHENHERLICHKEIT - p446
+### O ALTE BURSCHENHERLICHKEIT | p446
 
 **T: Eugen Höfling, Berlijn, 9 augustus 1825
 M: Uit het studentenlied: ‘Was fang ich armer Teufel an’, in G. Brauns
@@ -10955,7 +10955,7 @@ Klingt an und hebt die Gläser hoch,
 Die alten Burschen leben noch!
 Es lebt die alte Treue! Es lebt die alte Treue! (BIS)
 
-### DER PAPPENHEIMER - p448
+### DER PAPPENHEIMER | p448
 
 Wir trinken einen Halben, einen Halben in der Welt (BIS)
 Warum sollten wir nicht trinken einen Halben (BIS)
@@ -10979,7 +10979,7 @@ Lustige Pappenheimer wollen wir sein.*
 
 “... unterm Tisch”
 
-### DAS POLENKIND - p449
+### DAS POLENKIND | p449
 VolkslieduitPommern
 In einem Polenstädtchen,
 Da wohnte einst ein Mädchen,
@@ -11011,7 +11011,7 @@ Vergiss Maruschka nicht, das Polenkind”
 
 > Na de laatste strofe geen refrein meer!
 
-### EIN PROSIT - p450
+### EIN PROSIT | p450
 
 Ein Prosit, ein Prosit,
 Der Gemütlichkeit!
@@ -11019,7 +11019,7 @@ Ein Prosit, ein Prosit,
 Der Gemütlichkeit!
 Eins, Zwei, Saufen!
 
-### RÖSLEIN AUF DER HEIDEN - p450
+### RÖSLEIN AUF DER HEIDEN | p450
 
 **T: Johann Wolfgang Goethe, 1771
 M: H. Werner, 1829
@@ -11046,7 +11046,7 @@ Röslein wehrte sich und stach,
 Half ihr doch kein Weh und Ach,
 Musst’es eben leiden.
 
-### ROTE HUSAREN - p451
+### ROTE HUSAREN | p451
 
 **T: Hermann Löns, 1924
 M: Otto Koch**
@@ -11076,7 +11076,7 @@ Sollen rote Rosen steh’n,
 Die rote Rosen,
 Ja die sind schön.
 
-### EIN SCHIFFLEIN SAH ICH FAHREN - p452
+### EIN SCHIFFLEIN SAH ICH FAHREN | p452
 
 **Duitse Volkswijze, 1781**
 
@@ -11120,7 +11120,7 @@ Kapitän und Leutenant;
 Auf einem schwarzen Fohlen,
 Da wird sie der Teufel schon holen.
 
-### SCHWARZBRAUN IST DIE HASELNUSS - p453
+### SCHWARZBRAUN IST DIE HASELNUSS | p453
 
 **Uit Salzburg**
 
@@ -11147,7 +11147,7 @@ Schwarzbraun bin auch ich, ja ich.
 Wenn ich eine heiraten tu
 So muss sie sein wie ich.
 
-### EINE SEEFAHRT - p454
+### EINE SEEFAHRT | p454
 
 **Duits studentenlied**
 
@@ -11201,7 +11201,7 @@ Fängt ein neues Leben an,
 Eine Frau wird sich genommen
 Kinder bringt der Weihnachtsmann.
 
-### STUDIO AUF EINER REIS’ - p456
+### STUDIO AUF EINER REIS’ | p456
 
 **Carl Maria Weber, Richard Schäffer, 1845**
 
@@ -11243,7 +11243,7 @@ Juchheidi, juchheida!
 Manches Mädel sieht uns nach,
 Seufzt dabei ein stilles “Ach!”
 
-### TRINK, TRINK, BRÜDERLEIN, TRINK - p457
+### TRINK, TRINK, BRÜDERLEIN, TRINK | p457
 
 **T: P. Raasch & C. Franck
 M: Wilhelm Lindemann, 1927**
@@ -11282,7 +11282,7 @@ Weil Trinken und Saufen es preist;
 Ich aber, ich darf es euch sagen,
 Ja wisst ihr denn auch wie es heißt?
 
-### TUNKE - p458
+### TUNKE | p458
 
 **Liederbuch für Studenten, Gustav Braun, 1843**
 
@@ -11320,7 +11320,7 @@ Du bist ein Bierka- ...
 Tunke, tunke, tunke, tunk, vivallalera
 Du bist ein Bierkanal, ja Bierkanal!
 
-### WENN ALLE UNTREU WERDEN - p460
+### WENN ALLE UNTREU WERDEN | p460
 
 **T: Max von Schenkendorf, 1814
 M: gebaseerd op ‘Pour aller à la chasse faut être matineux’, 1724**
@@ -11345,7 +11345,7 @@ wenn alle Brüder schweigen und falschen Götzen trau’n.
 Wirwoll’ndasWortnichtbrechenundBubenwerdengleich,
 woll’n predigen und sprechen vom heil’gen Deutschen Reich.
 
-### WESTERWALDLIED - p460
+### WESTERWALDLIED | p460
 
 Heute wollen wir marschier’n
 Einen neuen Marsch probier’n
@@ -11367,7 +11367,7 @@ Gibt’s gewöhnlich Keilerei,
 | Und den Bursch, den das nicht freut,
 Ja man sagt, der hat kein Schneid. | (BIS)
 
-### WUNDERBARES MÄDELEIN - p462
+### WUNDERBARES MÄDELEIN | p462
 
 O! Du wunder, wunderbares Mädelein
 Mit deinem wunder, wunderbaren Aügelein
@@ -11393,7 +11393,7 @@ Aber küssen drauf das ist das meine. | (BIS)
 
 ## ENGELSTALIGE LIEDEREN
 
-### ALL AROUND MY HAT - p465
+### ALL AROUND MY HAT | p465
 
 **T&M: Steeleye Span, traditional**
 
@@ -11421,7 +11421,7 @@ He’s a false deluding young man, let him go farewell he
 
 > Refrein
 
-### ANOTHER IRISH DRINKING SONG - p466
+### ANOTHER IRISH DRINKING SONG | p466
 
 *T & M: Da Vinci’s Notebook*
 
@@ -11466,7 +11466,7 @@ The Lord will take me by the hand to join all of me kin
 Me only wish is when the Savior comes for me and you ...
 He kills the cast of Riverdance, and Michael Flatley too!
 
-### THE BALL OF KERRYMUIR - p468
+### THE BALL OF KERRYMUIR | p468
 
 **Vermoedelijk bestaan op dit moment 273 strofes, waarvan hier een kleine selectie:**
 
@@ -11535,7 +11535,7 @@ They all went home to rest
 The music had been exquisite
 But the fucking was the best
 
-### THE BANANABOAT SONG - p470
+### THE BANANABOAT SONG | p470
 
 **Harry Belafonte**
 
@@ -11560,7 +11560,7 @@ Hey Mr. Tally Mon, tally me banana, daylight ... (BIS)
 
 Day-o, day-ay-ay-o, daylight ...
 
-### BARNACLE BILL - p471
+### BARNACLE BILL | p471
 
 “Who’s that knocking on my door?
 Who’s that knocking on my door?
@@ -11632,7 +11632,7 @@ Said Barnacle Bill the Sailor.
 “I’ll swing me big balls, and knock down the walls!”
 Said Barnacle Bill the Sailor.
 
-### THE BRICKLAYER’S LAMENT - p474
+### THE BRICKLAYER’S LAMENT | p474
 
 **M: Traditional Iers, ‘In the Garden Where the Praties Grow’
 T: Pat Cooksey**
@@ -11718,7 +11718,7 @@ And I can only say
 I hope you’ll understand
 Why I am not at work today
 
-### THE BRITISH GRENADIERS - p477
+### THE BRITISH GRENADIERS | p477
 
 **Oorspronkelijk 17e eeuwse Britse mars, dit lied wordt nog steeds gebruikt in het Britse leger**
 
@@ -11767,7 +11767,7 @@ Live happy all their years.
 With a tow, row, row, row, row, row,
 For the British Grenadiers.
 
-### CLEMENTINE - p479
+### CLEMENTINE | p479
 
 **P. Montrose**
 
@@ -11816,7 +11816,7 @@ How I missed my Clementine!
 But I kissed her little sister,
 And forgot my Clementine.
 
-### COCKLES AND MUSSELS - p480
+### COCKLES AND MUSSELS | p480
 
 **Uit Dublin**
 
@@ -11842,7 +11842,7 @@ And that was the end of sweet Molly Malone;
 Her ghost wheels her barrow
 Through streets broad and narrow
 
-### COTTON FIELDS - p481
+### COTTON FIELDS | p481
 
 | When I was a little bitty baby;
 My mammy would rock me in the cradle
@@ -11859,7 +11859,7 @@ In them old cotton fields back home.*
 But you didn’t make very much money
 In them old cotton fields back home. | (BIS)
 
-### DONNA DONNA - p481
+### DONNA DONNA | p481
 
 **Originele Yiddische tekst: A. Zeitlin, S. Secunda
 Vertaling: Arthur Kevess, Teddi Schwartz**
@@ -11886,7 +11886,7 @@ Never knowin’ the reason why
 But whoever treasures freedom
 Like the swallow you’ve learned to fly.
 
-### THE DRUNK SCOTSMAN - p483
+### THE DRUNK SCOTSMAN | p483
 
 Well a Scotsman clad in kilt
 Left a bar one evening fair
@@ -11939,7 +11939,7 @@ To what’s before his eyes.
 “O lad I don’t know where you’ve been
 But I see you won first prize”
 
-### THE FLOWER OF SCOTLAND - p485
+### THE FLOWER OF SCOTLAND | p485
 
 **T & M: Roy Williamson, The Corries, jaren ’60
 ‘The Flower of Scotland’ herdenkt de ‘Battle of Bannockburn’ (1314) waar het Schotse leger, onder leiding van Robert the Bruce, het Engelse leger van Edward II versloeg, wat een voorlopig einde van de Engelse bezetting van Schotland betekende. De ‘Flower’ waarvan sprake, is een distel.**
@@ -11970,7 +11970,7 @@ When will we see yer likes again
 That fought and died for
 Yer wee bit hill and glen
 
-### HOME ON THE RANGE - p486
+### HOME ON THE RANGE | p486
 
 **T: Dr. Brewster M. Higley
 M: Daniel E. Kelley
@@ -12001,7 +12001,7 @@ The breezes so balmy and light,
 That I would not exchange my home on the range
 For all of the cities so bright.
 
-### IT’S A LONG WAY TO TIPPERARY - p487
+### IT’S A LONG WAY TO TIPPERARY | p487
 
 **T & M: Jack Judge en Harry Williams, 1912**
 
@@ -12037,7 +12037,7 @@ Or you’ll be to blame,
 For love has fairly drove me silly,
 Hoping you’re the same!”
 
-### KINGSTONTOWN - p488
+### KINGSTONTOWN | p488
 
 **Harry Belafonte
 Originele titel: ‘Jamaica Farewell’**
@@ -12067,7 +12067,7 @@ And the sun shines daily on the mountaintop
 I took a trip on a sailing ship
 And when I reached Jamaica I made a stop.
 
-### LEAVE HER, JOHNNY - p489
+### LEAVE HER, JOHNNY | p489
 
 **Zeemanslied**
 
@@ -12096,7 +12096,7 @@ Leave her, Johnny, leave her!
 But now we’re through so we’ll go on shore.
 And it’s time for us to leave her.
 
-### THE LION SLEEPS TONIGHT - p490
+### THE LION SLEEPS TONIGHT | p490
 
 **T & M: George David Weiss, Hugo Peretti, Luigi Creatore**
 
@@ -12118,7 +12118,7 @@ The lion sleeps tonight
 Hush my darling don’t fear my darling
 The lion sleeps tonight
 
-### LOCH LOMON’ - p490
+### LOCH LOMON’ | p490
 
 **M: Naar ‘Robin Cushie’, McGibbons Scots Tunes Book, 174
 T: Lady John Scott, Poets and Poetry of Scotland, 1876
@@ -12145,7 +12145,7 @@ And in sunshine the waters are sleeping;
 But the broken heart will ken no second spring again,
 And the world doesn’t know how we’re greeting.
 
-### MY BONNIE - p492
+### MY BONNIE | p492
 
 **Amerikaans studentenlied, voor het eerst gepubliceerd in Cambridge, Massachussetts, in W.H. Hills’ ‘Students Songs’, 1881**
 
@@ -12174,7 +12174,7 @@ The winds have blown over the sea,
 The winds have blown over the ocean.
 And brought back my Bonnie to me.
 
-### OH SUSANNA - p93
+### OH SUSANNA | p93
 
 **Stephen Foster, 1847**
 
@@ -12211,7 +12211,7 @@ This darkie’ll surely die
 And when I’m dead and buried
 Susanna, don’t you cry
 
-### PICK A BALE OF COTTON - p494
+### PICK A BALE OF COTTON | p494
 
 **Traditional**
 
@@ -12235,7 +12235,7 @@ Well, me and my brother gonna ...
 Well, me and my sister gonna ...
 Well, get on your knees and pick a ...
 
-### RANDY DANDY-OH - p495
+### RANDY DANDY-OH | p495
 
 **Traditional sea shanty
 Opgetekend door Stan Hugill in ‘Shanties from the Seven Seas’. Dit is waarschijnlijk en opgekuiste versie van wat er eigenlijk gezongen werd, maar te vulgair werd geacht om te printen.**
@@ -12275,7 +12275,7 @@ Let’s get the glad-rags up an’ drive ’er to sea.
 We’re outward bound for Vallipo Bay,
 Get crackin’ m’lads, ’tis a hell o’ a way.
 
-### RED RIVER VALLEY - p496
+### RED RIVER VALLEY | p496
 
 **Traditional, oorspronkelijke titel ‘In the bright Mohawk Valley’, 1896
 De ‘Red River’ ontspringt in North Dakota, USA en mondt uit in Lake Winnipeg, Manitoba, Canada**
@@ -12300,7 +12300,7 @@ May you never forget those sweet hours;
 That we spent in the Red River Valley
 And the love we exchanged ’mid the flowers.
 
-### THE ROCKY ROAD TO DUBLIN - p497
+### THE ROCKY ROAD TO DUBLIN | p497
 
 **D. K. Gavan, 19de eeuw**
 
@@ -12358,7 +12358,7 @@ We quickly cleared the way for the rocky road to Dublin
 And all the way to Dublin, Whack fol lol le rah!* | (BIS)
 *Whack fol lol le rah!* (BIS)
 
-### ROLL THE OLD CHARIOT ALONG - p499
+### ROLL THE OLD CHARIOT ALONG | p499
 
 **Traditional sea shanty**
 
@@ -12380,7 +12380,7 @@ Well a night with the girls
 
 Well a big pot of gold
 
-### SCOTLAND THE BRAVE - p500
+### SCOTLAND THE BRAVE | p500
 
 Hark when the night is falling.
 Hear! Hear the pipes are calling,
@@ -12408,7 +12408,7 @@ From fair maiden’s eyes.
 
 > Refrein wordt tweemaal gezongen..
 
-### SONG FOR YE JACOBITES - p502
+### SONG FOR YE JACOBITES | p502
 
 **De originele tekst van dit lied, geschreven in de periode van de Jacobijnse oorlogen (1689–1692) in Schotland, was zeer anti-Jacobijns van opvatting. Robert Burns had veel sympathie voor hun zaak en herschreef het lied naar zijn huidige vorm rond 1791.**
 
@@ -12446,7 +12446,7 @@ And leave a man undone
 To his fate, to his fate.
 And leave a man undone to his fate.
 
-### THE STONECUTTERS SONG - p503
+### THE STONECUTTERS SONG | p503
 
 **T: John Swartzwelder, The Simpsons
 M: Alf Clausen**
@@ -12470,7 +12470,7 @@ Who robs cave fish of their sight?
 Who rigs every Oscar night?
 We do! We do!
 
-### A TAVERN IN THE TOWN - p504
+### A TAVERN IN THE TOWN | p504
 
 **Amerikaans volkswijsje**
 
@@ -12499,7 +12499,7 @@ Put tombstones on my head and feet, head and feet
 And on my breast carve a turtle dove
 To signify I died of love.
 
-### TOM DOOLEY - p505
+### TOM DOOLEY | p505
 
 **In 1866 werd Tom Dooley, een veteraan van de Amerikaanse burgeroorlog, ten onrechte opgehangen voor de moord op Laura Foster. De driehoeksverhouding in het lied, was in feite een vierhoeksverhouding. Het was de vierde persoon, Annie Melton, die uiteindelijk met sheriff Greeson huwde en later bekende de moordenaar te zijn. Het oorspronkelijke lied telt 14 strofes en werd in 1958 bekend door ‘The Kingston Trio’.**
 **Men wordt geacht dit liedje heel zacht te zingen tot het laatste refrein.**.
@@ -12528,7 +12528,7 @@ Reckon where I’ll be,
 In some lonesome valley,
 A-hanging from a white oak tree.
 
-### TONIGHT - p506
+### TONIGHT | p506
 
 **M: ‘Fumiento Funicula’, Luigi Denza, 1880**
 
@@ -12544,7 +12544,7 @@ A woman’s love is really great.
 But for personal enjoyment
 I prefer to use my hand. | (BIS)
 
-### WALTZING MATILDA - p506
+### WALTZING MATILDA | p506
 
 **A.B. ‘Banjo’ Paterson**
 
@@ -12581,7 +12581,7 @@ As you pass by that billabong,
 
 > Verklarendewoordenlijst: swagman = zwerver, billabong = vijvertje dat soms droog komt te staan, billy = tinnen keteltje, jumbuck = schaap, tucker-bag = knapzak, squatter = landeigenaar, thoroughbred = raspaard
 
-### THE WELLERMAN - p507
+### THE WELLERMAN | p507
 
 **Traditioneel zeemanslied uit Nieuw-Zeeland**
 
@@ -12622,7 +12622,7 @@ The line’s not cut and the whale’s not gone.
 The Wellerman makes his regular call
 To encourage the captain, crew and all.
 
-## WHAT SHALL WE DO WITH THE DRUNKEN SAILOR - p509
+## WHAT SHALL WE DO WITH THE DRUNKEN SAILOR | p509
 
 **Uit ‘Incidents of a whaling voyage’, Olmstead, 1839**
 
@@ -12644,7 +12644,7 @@ Give ’em a taste of the Captain’s Daughter (TER)
 
 That’s what we’ll do with the drunken sailor. (TER)
 
-### WHEN JOHNNY COMES MARCHING HOME - p509
+### WHEN JOHNNY COMES MARCHING HOME | p509
 
 **Lied uit de Amerikaanse burgeroorlog, circa 1860**
 
@@ -12684,7 +12684,7 @@ To fill with joy the warrior’s heart
 And we’ll all feel gay when Johnny comes
 marching home, home.
 
-### WHISKEY IN THE JAR - p511
+### WHISKEY IN THE JAR | p511
 
 **Traditional**
 
@@ -12746,7 +12746,7 @@ In the juice of the barley
 And courting pretty fair maids
 In the morning bright and early
 
-### THE WILD ROVER - p513
+### THE WILD ROVER | p513
 
 **Iers volksliedje**
 
@@ -12773,7 +12773,7 @@ And I’ll ask them to pardon their prodigal son.
 And when they’ve caressed me as oft times before,
 Then I never will play the wild rover no more.
 
-### YANKEE DOODLE - p514
+### YANKEE DOODLE | p514
 
 **Oud Engels wiegelied en volkslied van de staat Connecticut
 T: RichardShuckburgh**
@@ -12850,7 +12850,7 @@ They scampered like the nation.
 
 ## ANDERSTALIGE LIEDEREN
 
-### A, A, A, VALETE STUDIA - p519
+### A, A, A, VALETE STUDIA | p519
 
 **16e eeuws Leuvens vakantielied**
 
@@ -12881,7 +12881,7 @@ IJ, ij, ij, kom schenk en drink met mij;
 Want wij zijn hier niet gekomen,
 Om te slapen of te dromen, ...
 
-### BELLA CIAO - p520
+### BELLA CIAO | p520
 
 **Italiaans verzetslied**
 
@@ -12915,7 +12915,7 @@ o bella, ciao! bella, ciao! bella, ciao, ciao, ciao!
 “È questo il fiore del partigiano,
 morto per la libertà!”
 
-### FILIA PASTORIS - p521
+### FILIA PASTORIS | p521
 
 **De strofen zijn respectievelijk in het Latijn, klassiek Grieks, Duits, Pools en Nederlands.**
 
@@ -12951,7 +12951,7 @@ Is’t te minnen
 O wonderbaarste, o wonderbaarste,
 O wonderbaarste meisje van de stad!
 
-### GERTJIE - p522
+### GERTJIE | p522
 
 **Transvaals volksliedje**
 
@@ -12984,7 +12984,7 @@ Ons moet dan die pret maar staan laat, staan laat
 Ons moet maar die soen laat bly,
 Ek sal myn eie pad dan kry maar, kry maar
 En jy kan na Sarie vry, vry, vry.
-### HAVA NAGIELA - p523
+### HAVA NAGIELA | p523
 
 **‘Laat ons vrolijk zijn’: Israëlische hups(parendans).**
 
@@ -12997,7 +12997,7 @@ Oeroe achiem belev sameag (QUATER)
 Oeroe achiem, oeroe achiem
 Belev sameag
 
-### DIE KAT KWAM WEER - p524
+### DIE KAT KWAM WEER | p524
 
 De boer, die zwoer hem blou:
 Hij zou die kat doodskiet,
@@ -13070,7 +13070,7 @@ Hij stamp die boel goed aan,
 Maar als hij slaap dan,
 Droom hij altijd weer van ...
 
-### MARCHA DE LA UNIDAD POPULAR - p526
+### MARCHA DE LA UNIDAD POPULAR | p526
 
 **T: Quilapayún
 M: Sergio Ortega, 1973**
@@ -13111,7 +13111,7 @@ ya estás aqúi junto al trabajador.
 con voz de gigante gritando: “Adelante!”
 El pueblo unido, jamás será vencido!* (BIS)
 
-### NUMMERLIEKE - p527
+### NUMMERLIEKE | p527
 
 **T: Ben Lommelen v. Hoera!, 2014
 M: ‘Daar wordt aan de deur geklopt’**
@@ -13141,7 +13141,7 @@ M: ‘Daar wordt aan de deur geklopt’**
 97 370
 2000800 16 1000 0
 
-### EL PASO DEL EBRO - p528
+### EL PASO DEL EBRO | p528
 
 **Republikeins lied uit de Spaanse burgeroorlog**
 
@@ -13167,7 +13167,7 @@ Deberemos resistir
 Pero igual que combatimos
 Prometemos resistir
 
-### SARIE MARAIS - p529
+### SARIE MARAIS | p529
 
 **Joan Van Niekerk**
 
@@ -13212,7 +13212,7 @@ Daar kwamen nooit geen vodden van,
 Dus houden we’t maar stil
 Want Sarie Marijs pakt de pil.*
 
-### DIE STELLENBOSCHE KERLS - p530
+### DIE STELLENBOSCHE KERLS | p530
 
 **M: Traditioneel Zuid-Afrikaans
 T: P. Mc Clachlan**
@@ -13237,7 +13237,7 @@ Nou kom kijk nog’n keer wat hij kan brou, wat hij kan brou
 Adoons kry die skoot en hy skiet hom hallef dood,
 Hoera! Vir die jollie Bobbejaan!
 
-### STUDENTELIED - p532
+### STUDENTELIED | p532
 
 **C.F. Visser, E. Hullebroeck**
 
