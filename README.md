@@ -6,7 +6,7 @@ p, li, pre, code {
 
 ### ANTVERPIA LIED - p33
 
-**M: ‘In’t Antwerp sa.u.b.’, De Strangers**
+**M: ‘In’t Antwerps a.u.b.’, De Strangers**
 
 Antwârpe ... gij zè ga veur mij
 Toch de stad waar azzek zèn gebore
