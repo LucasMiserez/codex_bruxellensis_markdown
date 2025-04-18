@@ -9,7 +9,7 @@ body {
 }
 
 body *:not(h1):not(h2):not(h3):not(blockquote):not(blockquote p):not(li):not(a) {
-  line-height: 10px;
+  line-height: 15px;
 }
 
 ul li a {
