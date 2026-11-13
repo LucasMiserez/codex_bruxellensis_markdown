@@ -51,7 +51,7 @@ Van BK en bier
 
 ### BIERKULTUUR LIED \| p34
 
-**M: ‘Mijn vriend Benjamin’, LouisNeefs**
+**M: ‘Mijn vriend Benjamin’, Louis Neefs**
 <br><br>
 BierKultuur zijn een bende hechte vrienden<br>
 En we zorgen voor vertier<br>
@@ -105,8 +105,8 @@ Olé
 
 ### CAMPINALIED \| p37
 
-**T: BramGilles, 2005<br>
-M: ‘Kinderfiets’, Herman van Veen(naar Ralph McTell)<br>
+**T: Bram Gilles, 2005<br>
+M: ‘Kinderfiets’, Herman van Veen (naar Ralph Mc Tell)<br>
 Geschreven n.a.v. 25 jaar Campina VUB**
 <br><br>
 Hallo, dag student op de VUB,<br>
@@ -164,8 +164,8 @@ Want daar weten ze van veel plezier, en bier, en bier._
 **M: ‘Grand-Papa Nicolas’**
 <br><br>
 Arrivé à l’ERM, c’est l’enfer du baptême<br>
-Pas question de couillons, on crèveà l’infection<br>
-On est tousétudiant, buveur et guindailleur<br>
+Pas question de couillons, on crève à l’infection<br>
+On est tous étudiant, buveur et guindailleur<br>
 Chopes, pintes, demis, crapuleuses, mais ...
 <br><br>
 _Cercle Oméga, debout tu resteras<br>
@@ -179,7 +179,7 @@ Comme on manque de gonzesses, on s’sert à l’ACS<br>
 Elles trouvent qu’on a bon goût, quant elles nous sucent le bout<br>
 Bittes, queues, braquemarts, bistouquettes, mais ...
 <br><br>
-Viensà la Renaissance, pour te remplir la panse<br>
+Viens à la Renaissance, pour te remplir la panse<br>
 Pour boire pour guindailler, pour te rincer le gosier<br>
 Amène ta copine, pour nous rincer la pine<br>
 Chattes, moules, migeoles et cramouilles, mais ...
@@ -393,7 +393,7 @@ M: ‘La complainte de Mandrin’**
 Contre l’intolérance<br>
 Au beau pays de Flandre,<br>
 Des hommes se sont levés<br>
-Ilsétaient gueux,<br>
+Ils étaient gueux,<br>
 Vous m’entendez<br>
 Des hommes se sont levés<br>
 Pour notre liberté.
@@ -423,7 +423,7 @@ Pour défendre nos granges,<br>
 Vînt le Prince d’Orange.<br>
 Il fut assassiné par les deniers<br>
 Du roi dément.<br>
-Mais déjàétait né l’esprit<br>
+Mais déjà était né l’esprit<br>
 Des quatre vents.
 <br><br>
 Cet esprit de lumière,<br>
@@ -609,7 +609,8 @@ Wij zijn hier om te studeren,<br>
 Maar wat we doen dat is het bier vereren!<br>
 Wat volgt is onze leus,<br>
 De leuze van de Geus:<br>
-Cantamus, bibamus, alea iacta est,
+Cantamus, bibamus, alea iacta est,<br>
+Dus sluit u aan bij de KEPS.
 <br><br>
 
 ### CHANT DE PHILO \| p56
@@ -622,7 +623,7 @@ La pine en fleur,<br>
 Les roustons en chaleur;
 <br><br>
 Comm’ de francs saligauds,<br>
-Couronsà la ripaille,<br>
+Courons à la ripaille,<br>
 Bourreaux des cœurs,<br>
 Toujours avec ardeur.
 <br><br>
@@ -1062,7 +1063,7 @@ Que nous nous livrons à bien des méfaits<br>
 Car nous voulons dissiper la tristesse<br>
 De l’Avenir que la vie nous promet.
 <br><br>
-_Verreà la main, chantons notre jeunesse<br>
+_Verre à la main, chantons notre jeunesse<br>
 Ecoute bourgeois,<br>
 Qui nous prend pour des fous.<br>
 C’est à Solvay qu’on fête la Vadrouille<br>
@@ -1084,12 +1085,12 @@ Ce n’est pas ainsi qu’il faut s’amuser”.
 
 <br><br>
 _Verre à la main nous leur rétorquerons:<br>
-“C’està Solvay qu’on fête les orgies<br>
+“C’est à Solvay qu’on fête les orgies<br>
 Ne craignant pas la suite de nos folies<br>
 Il nous faut la femme,<br>
 La bière, la chanson,<br>
 Verre à la main nous passons par la vie<br>
-Verreà la main,<br>
+Verre à la main,<br>
 Gaiement nous la quitterons.”_
 <br><br>
 
@@ -1598,7 +1599,7 @@ draaien ze om hun gemeenschappelijke verticale as.**
 ### IO VIVAT \| p95
 
 **18de eeuws; traditioneel worden enkel het refrein, de eerste strofe en<br>
-dan nog eens het refrein gezongen**
+dan nog eens het refrein gezongen.**
 <br><br>
 _Io vivat! Io vivat!<br>
 Nostrorum sanitas!_
@@ -1664,7 +1665,7 @@ O quae mutatio rerum?_ \| (BIS)
 > De oud studenten staan recht
 
 <br><br>
-Waar zijn zij die voor ’t Brussels\* bier<br>
+Waar zijn zij die voor ’t Brussels bier<br>
 Hun laatste cent verdronken,<br>
 Als wereldbazen, op de zwier<br>
 Met volle potten klonken?<br>
@@ -1674,7 +1675,7 @@ Van hier naar ’t stil geboorteoord.
 _Refrein_
 <br><br>
 
-> Studenten toegepaste, exacte, industri¨ele, farmaceutische, politieke, economische en sociale wetenschappen, evenals de handelsingenieurs, architecten en studenten horteco, hotel en toerisme staan recht.
+> Studenten toegepaste, exacte, industriële, farmaceutische, politieke, economische en sociale wetenschappen, evenals de handelsingenieurs, architecten en studenten horteco, hotel en toerisme staan recht.
 
 <br><br>
 Daar ligt er een als man van plicht,<br>
@@ -1696,7 +1697,7 @@ _Refrein_
 
 <br><br>
 Een dokter preekt de matigheid.<br>
-En was een grote rolder:
+En was een grote rolder;
 <br><br>
 
 > Bestuursleden staan recht.
@@ -1760,15 +1761,15 @@ Ah, c’est toi, Liberté!_
 <br><br>
 Aux rêves de notre âge<br>
 Larges, ambitieux<br>
-S’ilétait fait outrage<br>
+S’il était fait outrage<br>
 Gare à l’audacieux!<br>
 Si l’on osait prétendre<br>
-Àmettre le Holà<br>
+À mettre le Holà<br>
 Liberté, pour défendre<br>
 Tes droits nous serions là!
 <br><br>
 Une aurore nouvelle<br>
-Grandità l’horizon<br>
+Grandit à l’horizon<br>
 La Science immortelle<br>
 Eclaire la Raison<br>
 Rome tremble et chancelle<br>
@@ -2495,7 +2496,7 @@ Zit op stoel
 **De PK bracht dit lied samen met Aloha op het Festival de la Chanson Estudiantine (ULB) van 1982. Het wordt nu traditioneel gezongen op het einde van een cantus, na ‘Le Semeur’.**
 <br><br>
 \| À bas la calotte, à bas la calotte<br>
-Àbas les calotins; \| (BIS)<br>
+À bas les calotins; \| (BIS)<br>
 Ils en auront, des coups de poing<br>
 Sur la gueule,<br>
 Ils en auront, autant qu’ils en voudront,<br>
@@ -2574,7 +2575,7 @@ En hij bleef al niet meer staan.
 En als ze dat voelde gebeuren,<br>
 Want mijne zakdoek ging ik daarmee niet verscheuren,<br>
 Sloeg ze mij in het gelaat,<br>
-Maar och god het was te laat.`<br>
+Maar och god het was te laat.<br>
 Ik ben niet al te rap van zinnen,<br>
 Maar er schoot mij daar opeens toch iets te binnen;<br>
 Ik liet alles maar begaan,<br>
@@ -2727,7 +2728,7 @@ Straat, gij zijt dronken zeg of is ’t nietwaar?
 _La_ (×19)
 <br><br>
 Kijk eens wat een scheef gezicht trekt die maan.<br>
-Één oog gesloten enéén loert mij aan.<br>
+Één oog gesloten en één loert mij aan.<br>
 Ja, z’heeft voorzeker een pintje te veel op.<br>
 Wag’lend daarboven zij draait lijk nen dop.
 <br><br>
@@ -4297,7 +4298,7 @@ Als een mooi dier<br>
 Ergens ver van hier.
 <br><br>
 
-### MIE DE APPELTRUT \| p92
+### MIE DE APPELTRUT \| p192
 
 Mie de appeltrut<br>
 Heeft ze eens uitgeschud.<br>
@@ -4347,8 +4348,8 @@ Dan roepen en zingen w’ in alle tonen:<br>
 
 ### NAAR OOSTLAND \| p194
 
-**Ou dbrabants volkslied<br>
-Bewerking: L. vanDessel**
+**Oud brabants volkslied<br>
+Bewerking: L. van Dessel**
 <br><br>
 Naar Oostland willen wij rijden,<br>
 Naar Oostland willen wij mee,<br>
@@ -4491,7 +4492,7 @@ Nooit sterft ’t studentenras!
 ### O NEDERLAND! LET OP UW ZAAK \| p199
 
 **Adriaen Valerius, uit ‘Nederlantsche Gedenck-klanck’, 1625<br>
-Dit lied roept de Nederlanden op tot waakzaamheid nadat Willem van Oranje in 1576 voorstelde om de hulp van het buitenland in te roepen in de strijd tegen Spanje**
+Dit lied roept de Nederlanden op tot waakzaamheid nadat Willem van Oranje in 1576 voorstelde om de hulp van het buitenland in te roepen in de strijd tegen Spanje.**
 <br><br>
 O Nederland! let op u saeck,<br>
 De tyt en stont is daer,<br>
@@ -4910,7 +4911,7 @@ Den es den oen al on ’t kroie
 
 ### RUITERSLIED \| p213
 
-**T: Georg Herwegh, Burschenschaft Patrioten T¨ubingen, 1841<br>
+**T: Georg Herwegh, Burschenschaft Patrioten Tübingen, 1841<br>
 M: Justus Wilhelm Lyra, Burschenschaft Knorschia Bonn, 1843**
 <br><br>
 
@@ -5250,7 +5251,7 @@ Minacht niemand, ga hand in hand.
 <br><br>
 Sprekte Vloms, Français, of nog eet an’ers?<br>
 Wa in Brussel emme doe gin complexe mei.<br>
-De Brusseleirs zaainétrangeis gewuun.<br>
+De Brusseleirs zaain étrangeis gewuun.<br>
 In ons stad es alleman bienvenu.<br>
 Codex uit de kast, een Geuze vast,<br>
 Zingt een lied in ’t Frans, en ’t Nederlands.
@@ -5645,7 +5646,7 @@ Of grepen naar ’t geweer
 Onverveerd voor outer en heerd._ \| (BIS)
 <br><br>
 Zij steunden op Oranjes:<br>
-De Nederlandenéén!<br>
+De Nederlanden één!<br>
 En juichten toen Brittannis<br>
 Beloofde vloot verscheen.<br>
 Kloekmoedig in de gouwen<br>
@@ -5916,7 +5917,7 @@ Dus werken we samen, niet alleen. \| (BIS)
 
 ### WIE ANDERS \| p247
 
-**T: K.Biscop, E.Delay, J.DeGroote, T.DeTrogh, J.Karlsson, D. Vanhonacker<br>
+**T: K.Biscop, E.Delay, J.De Groote, T.De Trogh, J.Karlsson, D. Vanhonacker<br>
 M: ‘Santiano’,Les Marins d’Iroise<br>
 Winnend lied op het 31e Vrijzinnig Zangfeest van Vlaanderen, 2016**
 <br><br>
@@ -6019,7 +6020,7 @@ Kom laat ons vanavond blijven<br>
 O wijn, weest welkom wijn
 <br><br>
 
-### HET WILHELMUS \| p50
+### HET WILHELMUS \| p250
 
 **T: Vermoedelijk Philips van Marnix, Heer van St. Aldegonde<br>
 M: ‘Chartres’, een Frans soldatenlied uit 1568<br>
@@ -6287,10 +6288,10 @@ Il sortira par le trou, ...
 
 ### AH! QUE NOS PERES ÉTAIENT HEUREUX \| p261
 
-Ah! Que nos pèr’sétaient heureux (BIS)<br>
-Quand ilsétaient à table,<br>
-Le vin coulaità côté d’eux (BIS)<br>
-Ça leurétait fort agréable.
+Ah! Que nos pèr’s étaient heureux (BIS)<br>
+Quand ils étaient à table,<br>
+Le vin coulait à côté d’eux (BIS)<br>
+Ça leur était fort agréable.
 <br><br>
 _Et ils buvaient à leurs tonneaux<br>
 Comme des trous.<br>
@@ -6327,11 +6328,11 @@ Sut planter là notre espérance.
 > Laatste refrein:
 
 <br><br>
-_Amis buvonsà nos tonneaux<br>
+_Amis buvons à nos tonneaux<br>
 Comme des trous.<br>
 Comme des trous, morbleu!<br>
 L’avenir est à nous, morbleu!<br>
-L’avenir està nous._
+L’avenir est à nous._
 <br><br>
 
 ### L’AIMABLE FANCHON \| p264
@@ -6345,8 +6346,8 @@ Chantons pour elle quelque chose.
 <br><br>
 _Ah! Que son entretien est doux,<br>
 Qu’elle a de mérite et de gloire,_<br>
-\| _Elle aimeà rire; elle aime à boire<br>
-Elle aimeà chanter comme nous_ \| (TER)<br>
+\| _Elle aime à rire; elle aime à boire<br>
+Elle aime à chanter comme nous_ \| (TER)<br>
 _Oui, comme nous._ (BIS)
 <br><br>
 Fanchon quoique bonne chrétienne<br>
@@ -6356,7 +6357,7 @@ Une Bretonne sa marraine.
 <br><br>
 Fanchon préfère la grillade<br>
 A d’autres mets plus délicats,<br>
-Son teint prend un nouveléclat<br>
+Son teint prend un nouvel éclat<br>
 Quand on lui sert une rasade.
 <br><br>
 Fanchon ne se montre cruelle<br>
@@ -6420,10 +6421,10 @@ Il nous laissera que la peau sur les os ...
 **T: Nick Trachet, Rikus Daems<br>
 PK, 2e prijs Festival de la Chanson Estudiantine, 1982**
 <br><br>
-Quand j’ai bu, le soir sous lesétoiles<br>
-J’ai Bruxellesétendu à mes pieds<br>
+Quand j’ai bu, le soir sous les étoiles<br>
+J’ai Bruxelles étendu à mes pieds<br>
 Quand le cantus se termine en guindaille<br>
-Rêvant desîles je me metsà chanter.
+Rêvant des îles je me mets à chanter.
 <br><br>
 _À l’ULB, à l’ULB<br>
 Le seul plaisir ... c’est s’enivrer<br>
@@ -6513,7 +6514,7 @@ Pour prendre l’Anglais à son bord?”
 <br><br>
 Le lieutenant, fier-z-et hardi (BIS)<br>
 Lui répondit: “Capitain’-z-oui! (BIS)<br>
-Fair’s branle-basà l’équipage<br>
+Fair’s branle-bas à l’équipage<br>
 Je vais hisser le pavillon<br>
 Qui rest’ra haut nous le jurons!”
 <br><br>
@@ -6527,11 +6528,11 @@ Vir’ lof pour lof, au même instant (BIS)<br>
 Nous l’attaquâm’s par son avant (BIS)<br>
 A coups de haches d’abordage,<br>
 De sabres, piq’s et mousquetons,<br>
-Nous l’eûm’s vit’ misà la raison.
+Nous l’eûm’s vit’ mis à la raison.
 <br><br>
 Que dira-t-on dudit bateau (BIS)<br>
 En Angleterr’-z-et à Bordeaux (BIS)<br>
-Qu’a laissé prendr’ sonéquipage<br>
+Qu’a laissé prendr’ son équipage<br>
 Par un corsair’ de six canons,<br>
 Lui qu’en avait trente et si bons?
 <br><br>
@@ -6543,7 +6544,7 @@ M: ‘La ballade des gens heureux’, Gérard Lenorman<br>
 Winnend lied, Festival de la Chanson Estudiantine, 1991**
 <br><br>
 Chers amis qui aimez la rigolade<br>
-Approchez,écoutez-nous un peu<br>
+Approchez, écoutez-nous un peu<br>
 \| On vient vous chanter la ballade<br>
 La ballade des Braves Gueux \| (BIS)
 <br><br>
@@ -6552,9 +6553,9 @@ Les Espagnols occupaient nos lieux<br>
 \| Ils ont perdu une grande bataille<br>
 La bataille des Braves Gueux \| (BIS)
 <br><br>
-Nos ancêtresétant buveurs capables<br>
+Nos ancêtres étant buveurs capables<br>
 La bière coulait non pas un petit peu<br>
-\| L’odeurétait invraisemblable<br>
+\| L’odeur était invraisemblable<br>
 Increvables, les Braves Gueux \| (BIS)
 <br><br>
 Les Espagnols n’ayant plus d’oxygène<br>
@@ -6586,8 +6587,8 @@ Camarade des Braves Gueux \| (BIS)
 ### LA BALLADE DES COCUS \| p270
 
 C’est pour la somme de dix francs, (BIS)<br>
-Qu’on fait cocu unétudiant. (BIS)<br>
-Lesétudiants eux-autres<br>
+Qu’on fait cocu un étudiant. (BIS)<br>
+Les étudiants eux-autres<br>
 En font cocus bien d’autres
 <br><br>
 _Et tout au long d’la s’maine, les cocus se promènent.<br>
@@ -6633,7 +6634,7 @@ Tous les bourgeois eux-autres<br>
 N’en font cocu point d’autre ...
 <br><br>
 Et moi j’ m’en fous si j’ suis cocu, (BIS)<br>
-Pourvu qu’ ça m’ rapporte unécu. (BIS)<br>
+Pourvu qu’ ça m’ rapporte un écu. (BIS)<br>
 Avec l’écu des autres,<br>
 J’en f’rai cocu bien d’autres ...
 <br><br>
@@ -6645,16 +6646,16 @@ M: ‘Malheur à ce lui qui blesse un enfant’, Enrico Macias, 1976<br>
 Festival de la chanson estudiantine ’81**
 <br><br>
 Il est né un soir près d’un’ central’ nucléaire<br>
-D’un père alcoolique et d’un’ mèreéthéromane<br>
+D’un père alcoolique et d’un’ mère éthéromane<br>
 Il avait trois jambes, de longs bras tous verts<br>
 Son grand nez tout jaune luisait comme un’ banane.
 <br><br>
 _Qu’il soit vert ou bleu, depuis sa naissance<br>
 Il a les yeux roug’s il est plein d’excroissances<br>
 Qu’il soit asthmatique, goîtreux ou rampant<br>
-Malheurà celui qui blesse un mutant._
+Malheur à celui qui blesse un mutant._
 <br><br>
-Dans l’institution oùl’on plaça le p’tit chauve<br>
+Dans l’institution où l’on plaça le p’tit chauve<br>
 Il faisait bien rire avec sa douzain’ de doigts<br>
 Il faut reconnaître qu’une main tout’ mauve<br>
 Ça n’est pas courant sur la têt’ d’un p’tit gars.
@@ -6662,17 +6663,17 @@ Il faut reconnaître qu’une main tout’ mauve<br>
 Il y avait des jours où c’était dur pour l’ pauvr’ gosse<br>
 Quand avec un’ sonde il fallait l’alimenter<br>
 Car je n’vous l’ai pas dit, mais en plus d’sa bosse<br>
-Le pauvre chériétait paralysé.
+Le pauvre chéri était paralysé.
 <br><br>
 Et quand il eut l’âge enfin d’aller voir les filles<br>
 Qu’il voulut sortir sa queue en forme de tire-bouchon<br>
-Sa petit’ peau flasqueétait molle et sans vie<br>
+Sa petit’ peau flasque était molle et sans vie<br>
 Et sa couille unique avait l’air d’un ballon.
 <br><br>
 
 ### BANDAIS-TU? \| p273
 
-Si tous les pavésétaient des biroutes,<br>
+Si tous les pavés étaient des biroutes,<br>
 On verrait les femmes s’coucher sur les routes.
 <br><br>
 _Bandais-tu, ban-ban-ban, bandais-tu fort<br>
@@ -6692,14 +6693,14 @@ On verrait flotter plus d’un’ pair’ de couilles.
 Si les cons volaient comme des bécasses,<br>
 On verrait les pines partir à la chasse.
 <br><br>
-Si tout’s les putainsétaient lumineuses,<br>
+Si tout’s les putains étaient lumineuses,<br>
 La terr’ ne serait qu’une immens’ veilleuse.
 <br><br>
 Si tous les cocus avaient des clochettes,<br>
 On n’ s’entendrait plus sur notre planète.
 <br><br>
 Si les cons nichaient comm’ des hirondelles,<br>
-On verrait les vits monterà l’échelle.
+On verrait les vits monter à l’échelle.
 <br><br>
 Si les cons pissaient de l’encre de Chine,<br>
 On verrait s’y tremper toutes les pines.
@@ -6711,7 +6712,7 @@ Si les cons dansaient comm’ des ballerines,<br>
 On verrait les log’s se garnir de pines.
 <br><br>
 
-### BEN LADEN \| p75
+### BEN LADEN \| p275
 
 **T: Guilde Horus<br>
 M: ‘Dirk Frimout’, Les Snuls**
@@ -6745,16 +6746,16 @@ Emprisonnés tout Al-Qaïda<br>
 Il reste plus que mon pote Omar<br>
 Qui a perdu la mémoire<br>
 Avec sa Honda 500<br>
-Il se croità Francorchamps
+Il se croit à Francorchamps
 <br><br>
 Je m’appelle Ben Laden<br>
 Maintenant je loge à l’hôtel<br>
-Un cinqétoiles d’Islamabad<br>
+Un cinq étoiles d’Islamabad<br>
 Ca vaut toujours mieux qu’à Bagdad<br>
 C’est bientôt le 11 septembre<br>
 Le monde n’en peut plus d’attendre<br>
 Vais-je encore tout faire péter<br>
-Oùjuste laisser parler
+Où juste laisser parler
 <br><br>
 36-15 code Ben Laden<br>
 Maintenant je suis sur le minitel<br>
@@ -6778,12 +6779,12 @@ Et le Faro trouve en elle une soeur.
 <br><br>
 _À plein verre, mes bons amis,<br>
 En la buvant, il faut chanter la bière,<br>
-Àplein verre, mes bons amis.<br>
+À plein verre, mes bons amis.<br>
 Il faut chanter la bière du pays._
 <br><br>
 Voyez là-bas la kermesse en délire:<br>
 Les pots sont pleins, jouez ménétriers!<br>
-Quels jeux bruyants et quelséclats de rire!<br>
+Quels jeux bruyants et quels éclats de rire!<br>
 Ce sont encore les Flamands de Teniers!
 <br><br>
 Aux souverains, portant tout haut leurs plaintes,<br>
@@ -6811,7 +6812,7 @@ Pour le bonheur de tout le genre humain.
 
 Il était deux amants<br>
 Qui s’aimaient tendrement;<br>
-Ilsétaient heureux<br>
+Ils étaient heureux<br>
 Et du soir au matin<br>
 Ils allaient au turbin,<br>
 Le coeur plein d’entrain.<br>
@@ -6881,7 +6882,7 @@ Et Totor, qu’est un habitué,<br>
 A voulu y aller<br>
 Disant: “C’est d’la foutaise!”<br>
 Mais trois jours après, y n’pouvait plus marcher<br>
-Tant sa pine elleétait délabrée. Ohé!<br>
+Tant sa pine elle était délabrée. Ohé!<br>
 À l’hosto, où on l’a transporté<br>
 Lui laissant supposer<br>
 Que ce léger malaise<br>
@@ -6911,8 +6912,8 @@ Ne band’ra plus! Ainsi triomph’ la vertu.
 Le bordel a rouvert ses volets<br>
 Par un beau matin d’mai,<br>
 Au temps des premièr’s fraises,<br>
-L’personnelétait entièr’ment renouv’lé<br>
-La taulièreétait tout en beauté! Ohé!<br>
+L’personnel était entièr’ment renouv’lé<br>
+La taulière était tout en beauté! Ohé!<br>
 La foul’ se pressait et riait,<br>
 Elle avait oublié<br>
 Que l’danger quand on baise<br>
@@ -6976,7 +6977,7 @@ La cirrhose et la Tequila. \| (BIS)
 
 C’est dans une vigne<br>
 Que j’ai vu le jour.<br>
-Ma mèreétait digne<br>
+Ma mère était digne<br>
 De tout mon amour.<br>
 Depuis ma naissance,<br>
 Elle m’a nourri.<br>
@@ -7019,7 +7020,7 @@ Je veux qu’on enterre<br>
 Quand je serai mort,<br>
 Près de moi, un verre<br>
 Empli jusqu’au bord.<br>
-J’veuxêtr’ dans ma cave,<br>
+J’veux êtr’ dans ma cave,<br>
 Tout près de mon vin,<br>
 Dans un’ pose grave,<br>
 Le nez sous l’robin.
@@ -7028,19 +7029,19 @@ Le nez sous l’robin.
 ### LA BRABANÇONNE D’UNE PUTAIN \| p286
 
 **T: Oorpsronkelijke tekst van Louis-Alexandre Dechet, september 1830 en Charles Rogier, 1860<br>
-M: ‘La Braban¸conne’, Fran¸cois Van Campenhout, september 1830**
+M: ‘La Brabançonne’, François Van Campenhout, september 1830**
 <br><br>
 Je me souviens, lorsque j’étais jeune fille,<br>
 D’un jeun’ garçon qui passait par bonheur,<br>
 Il me trouva si jeune et si gentille,<br>
 Qu’il me fit voir sa grosse pine en chaleur,<br>
 Et tout à coup sous mes jupons s’élance,<br>
-L’énorme queue qu’il tenaità la main,<br>
+L’énorme queue qu’il tenait à la main,<br>
 Il déchira mon voile d’innocence,<br>
-Voilàpourquoi je me suis fait putain! (TER)
+Voilà pourquoi je me suis fait putain! (TER)
 <br><br>
 Je ne sais pas si j’étais déjà coquine,<br>
-J’aimais déjàqu’on me chatouillât le bouton,<br>
+J’aimais déjà qu’on me chatouillât le bouton,<br>
 J’avais gouté de ce bon jus de pine,<br>
 J’avais reçu du foutre dans le con,<br>
 J’avais baisé, je n’étais plus pucelle,<br>
@@ -7077,7 +7078,7 @@ On voit un couple s’aimer tendrement<br>
 Dans une autre ruelle, une scène cruelle,<br>
 Deux sales mecs au poing qui se rentrent dedans.
 <br><br>
-Lesétudiants sont en train de guindailler<br>
+Les étudiants sont en train de guindailler<br>
 Dans les bistrots et dans les cafés,<br>
 Et, dehors dans le froid, un clochard solitaire<br>
 Cherche une place, pour dormir par terre.
@@ -7125,16 +7126,16 @@ Indignes de leurs aïeux nom de dieu<br>
 Qu’ils restent bien chez eux nom de dieu<br>
 Disciples d’Elio et de sa gestapo_
 <br><br>
-Bartjenétait l’élu<br>
+Bartjen était l’élu<br>
 C’est notre bourgemestre<br>
 Mais nous en voulons plus<br>
-De toutêtre le eerste<br>
+De tout être le eerste<br>
 C’est dommage qu’on a cru<br>
 Que tout serait une fieste
 <br><br>
 Mais pour nous rien ne change<br>
 Malgré ce brave peye<br>
-Vous parle d’un libreéchange<br>
+Vous parle d’un libre échange<br>
 C’est toujours nous qui paye<br>
 Van Voeren à Tihange<br>
 On leur met la pareille
@@ -7170,8 +7171,9 @@ Dus neemt uw pint ter hand en drinkt in eigen land_
 
 ### CACA HOLA \| p291
 
-**T: Paul Hanson, Festival de la chanson estudiantine 1977<br>
-M: Reclame melodie voor Coca-Cola**
+**T: Paul Hanson et son Caca Quartet<br>
+M: Reclame melodie voor Coca-Cola<br>
+Médecine, Festival de la chanson estudiantine, 1977**
 <br><br>
 _Un gros caca, une chiasse bien grasse<br>
 Un bronze bien coulé<br>
@@ -7211,11 +7213,11 @@ Ce sont des constipés.
 
 ### CAROLINE, LA PUTAIN \| p292
 
-**M: Air de cor<br>
-T: Marion de Mersan, 1770**
+**T: Marion de Mersan, 1770<br>
+M: Air de cor**
 <br><br>
 Amis, amis, versez à boire,<br>
-Versezà boir’ et du bon vin,<br>
+Versez à boir’ et du bon vin,<br>
 Tintin, tintin, tintain’ et tintin.<br>
 Je m’en vais vous conter l’histoire<br>
 De Caroline, la putain<br>
@@ -7235,12 +7237,12 @@ Le jour d’sa premièr’ communion, ...<br>
 Avec un garçon de son âge<br>
 Derrièr’ les fortifications ...
 <br><br>
-Àquatorz’ ans, suçant les pines,<br>
-Elle fit sonéducation, ...<br>
+À quatorz’ ans, suçant les pines,<br>
+Elle fit son éducation, ...<br>
 À dix-huit ans, dans la débine,<br>
 Elle s’engagea dans un boxon ...
 <br><br>
-Àvingt-quatr’ ans, sur ma parole,<br>
+À vingt-quatr’ ans, sur ma parole,<br>
 C’était une fière putain, ...<br>
 Elle avait foutu la vérole<br>
 Au trois quarts du Quartier Latin ...
@@ -7252,8 +7254,8 @@ Une bell’ enseign’ pour un boxon ...
 <br><br>
 Elle voulut aller à Rome<br>
 Pour recevoir l’absolution ...<br>
-Le papeétait fort bienà Rome,<br>
-Mais ilétait dans un boxon ...
+Le pape était fort bien à Rome,<br>
+Mais il était dans un boxon ...
 <br><br>
 Et s’adressant au grand vicaire,<br>
 Elle dit: “J’ai trop prêté mon con ... ”<br>
@@ -7295,12 +7297,12 @@ D’un jeune troubadour, poète montmartrois,<br>
 Elle lui demanda gentiment d’essayer<br>
 Si d’un poèt’ l’amour peut fair’ un serrurier.
 <br><br>
-Elleétait désirable et belle tant et tant,<br>
+Elle était désirable et belle tant et tant,<br>
 Que le fermoir céda et qu’elle en fit autant.<br>
 Depuis bientôt deux ans durait leur tendr’amour,<br>
 Quand le seigneur revint avec corn’s et tambours.
 <br><br>
-La bell’étant enceinte depuis bientoˆt neuf mois,<br>
+La bell’ étant enceinte depuis bientôt neuf mois,<br>
 S’écria: “Sur ma vie, quel malheur j’entrevois,<br>
 En mettant la ceintur’ et la serrant un peu<br>
 Notre seigneur jaloux n’y verra que du feu.”
@@ -7308,7 +7310,7 @@ Notre seigneur jaloux n’y verra que du feu.”
 Le sir’ s’en aperçut et se mit en courroux,<br>
 “Seigneur, s’écria-t-elle, cet enfant est de vous!<br>
 Depuis votre départ, votre fils enfermé<br>
-Attend votre retour pourêtre délivré.”
+Attend votre retour pour être délivré.”
 <br><br>
 “Miracle, cria-t-il, femm’ au con vertueux,<br>
 Ouvrons vite la porte au fils respectueux!”<br>
@@ -7318,16 +7320,16 @@ Et depuis, la ceintur’, c’est lui qui s’la mettait.
 
 ### C’ÉTAIT AU TEMPS QUE BRUXELLES GUINDAILLAIT \| p295
 
-**T: CEB, Festival de la Chanson Estudiantine, ULB, 1980<br>
-M: ‘Bruxelles bruxellait’, P. Jouannest door JacquesBrel**
+**M: 'Bruxelles bruxellait', P. Jouannest door Jacques Brel<br>
+CEB, Festival de la Chanson Estudiantine, 1980**
 <br><br>
 _C’était au temps où Bruxelles guindaillait<br>
-C’était au temps oùles students buvaient!<br>
+C’était au temps où les students buvaient!<br>
 C’était au temps où Bruxelles se marrait<br>
-C’était au temps oùles students chantaient!_
+C’était au temps où les students chantaient!_
 <br><br>
 Place de Brouckère on bouffait des marrons<br>
-On dégueulait tell’ment onétait ronds.<br>
+On dégueulait tell’ment on était ronds.<br>
 En ce temps-là on avait la vérole<br>
 On n’en bouffait pas moins des caracoles.<br>
 Et plac’ Saint’-Cath’rine<br>
@@ -7341,7 +7343,7 @@ Et on faisait c’qui nous plaisait.
 <br><br>
 Au Grand Sablon démarrait la St V<br>
 On y voyait des pennes par milliers.<br>
-À la Grand’ Place, onétait tous bourrés<br>
+À la Grand’ Place, on était tous bourrés<br>
 À l’ “Amigo”, les flics nous ont emm’nés<br>
 Et rue de l’étuve<br>
 Dans sa petit’ cuve<br>
@@ -7353,7 +7355,7 @@ Des petits seins, un gros vagin<br>
 Il s’en foutait, elle baisait bien.
 <br><br>
 À la Bourse on s’arrêtait pour chanter<br>
-“Le Semeur”, en choeurétait entonné.<br>
+“Le Semeur”, en choeur était entonné.<br>
 Puis tous ensemble on r’gagnait l’ULB<br>
 Où la soirée n’ faisait que commencer.<br>
 À la Mort Subite<br>
@@ -7369,16 +7371,16 @@ On n’arrêtait pas d’fair’ les cons.
 > Laatste refrein:
 
 <br><br>
-_C’était au temps oùBruxelles guindaillait<br>
+_C’était au temps où Bruxelles guindaillait<br>
 C’était au temps où les students buvaient!<br>
-C’était au temps oùBruxelles se marrait,<br>
+C’était au temps où Bruxelles se marrait,<br>
 C’était au temps où le folklore vivait!_
 <br><br>
 
 ### CHANSON À BOIRE \| p298
 
-**M: Tri Yann<br>
-T: Gabrië Bataille, 1615**
+**T: Gabrië Bataille, 1615<br>
+M: Tri Yann**
 <br><br>
 Qui veut chasser une migraine<br>
 N’a qu’à boire toujours du bon,<br>
@@ -7407,13 +7409,13 @@ Qui dedira son compangnon.
 
 ### CHANSON DE BICÊTRE \| p299
 
-**Dit lied werd geschreven tussen 1846 en 1851. ‘L’ hospice du Bicêtre’ is een ziekenhuis in de Parijse randgemeente Kremlin-Bicêtre (Val-de-Marne), gebouwd in 1632 als rusthuis voor de gepensioneerde en kreupele soldaten van Lodewijk XIII.Het was in het Bicêtre dat Dr. Guillotin in 1792 zijn ‘onthoofdingsmachine’ uitvond en testte op de rijkelijk voorhanden zijnde lijken. Traditioneel werden veel Franse studentenliederen geschreven door geneeskundestudenten met wachtdienst in de ‘salles de garde’ van de vele Parijse ‘Hospices’, en later verzameld in de‘Chansons des salles de garde’, vergelijkbaar met onze codex.**
+**Dit lied werd geschreven tussen 1846 en 1851. ‘L’ hospice du Bicêtre’ is een ziekenhuis in de Parijse randgemeente Kremlin-Bicêtre (Val-de-Marne), gebouwd in 1632 als rusthuis voor de gepensioneerde en kreupele soldaten van Lodewijk XIII. Het was in het Bicêtre dat Dr. Guillotin in 1792 zijn ‘onthoofdingsmachine’ uitvond en testte op de rijkelijk voorhanden zijnde lijken. Traditioneel werden veel Franse studentenliederen geschreven door geneeskundestudenten met wachtdienst in de ‘salles de garde’ van de vele Parijse ‘Hospices’, en later verzameld in de ‘Chansons des salles de garde’, vergelijkbaar met onze codex.**
 <br><br>
 Dans ce Bicêtre où l’on s’embête,<br>
 Loin de Paris que je regrette,<br>
 J’ai bien souvent et longtemps médité<br>
 Sur la vieilless’ et la caducité.<br>
-Or,écoutez ce refrain de Bicêtre,<br>
+Or, écoutez ce refrain de Bicêtre,<br>
 Cette leçon vous servira peut-être:
 <br><br>
 _On n’ peut pas bander toujours,<br>
@@ -7428,7 +7430,7 @@ Ce que tout en bas une voix me disait:<br>
 “Prenez bien soin de ces pauvres gogottes,<br>
 Vous en viendrez à pisser sur vos bottes.”
 <br><br>
-Idiot, fou,épileptique<br>
+Idiot, fou, épileptique<br>
 Sont des arguments sans réplique.<br>
 Tout dépérit, le pauvre genr’ humain<br>
 N’a plus d’espoir que dans le carabin.<br>
@@ -7437,7 +7439,7 @@ Jamais, enfants, ne mouchez la chandelle.
 <br><br>
 Quand la vieillesse trist’ et caduque<br>
 Vous foutra son pied sur la nuque,<br>
-Quand votre vità jamais désossé,<br>
+Quand votre vit à jamais désossé,<br>
 Sur vos roustons, pendra flasqu’ et glacé,<br>
 Au mêm’ instant, crachez au nez du traître,<br>
 Répétez-lui ce refrain de Bicêtre:
@@ -7483,7 +7485,7 @@ Retirez-vous, vous ne passerez pas (BIS)<br>
 Halte là!”
 <br><br>
 Le lendemain, au grand conseil de guerre.<br>
-Le Roi Albert l’appela par son noM: “Hé, Julot!<br>
+Le Roi Albert l’appela par son nom: “Hé, Julot!<br>
 Tiens, lui dit-il, voici la croix de guerre,<br>
 La croix de guerre et la décoration.”<br>
 “Ah, que dira ma douce et tendre mère,<br>
@@ -7525,12 +7527,12 @@ Ce soir l’ennemi connaîtra le prix du sang et les larmes.
 Montez de la mine, descendez des collines, camarades!<br>
 Sortez de la paille les fusils, la mitraille, les grenades.<br>
 Ohé, les tueurs à la balle et au couteau, tuez vite!<br>
-Ohé, saboteur, attentionà ton fardeau: Dynamite.
+Ohé, saboteur, attention à ton fardeau: Dynamite.
 <br><br>
 C’est nous qui brisons les barreaux des prisons pour nos frères.<br>
 La haine à nos trousses et la faim qui nous pousse, la misère.<br>
 Il y a des pays où les gens au creux des lits font des rêves.<br>
-Ici, nous, vois-tu, nous o nmarche et nous on tue, nous on crève.
+Ici, nous, vois-tu, nous on marche et nous on tue, nous on crève.
 <br><br>
 Ici chacun sait ce qu’il veut, ce qu’il fait quand il passe.<br>
 Ami, si tu tombes un ami sort de l’ombre à ta place.<br>
@@ -7553,7 +7555,7 @@ Aussitôt elle changea de mise,<br>
 Et prit l’habit de matelot<br>
 Et vint s’embarquer à bord du navire<br>
 Et prit l’habit de matelot<br>
-Et vint s’embarquerà bord du vaisseau.
+Et vint s’embarquer à bord du vaisseau.
 <br><br>
 Le capitaine enchanté<br>
 D’avoir à son bord un si beau jeune homme,<br>
@@ -7573,7 +7575,7 @@ Et ne suis pas née z’au port de Lorient.<br>
 Je suis née z’à la Martinique,<br>
 Je suis mêm’ z’une enfant unique<br>
 Et c’est un vaisseau hollandais<br>
-Qui m’a débarquée en venant desîles,<br>
+Qui m’a débarquée en venant des îles,<br>
 Et c’est un vaisseau hollandais<br>
 Qui m’a débarquée au port de Calais!”
 <br><br>
@@ -7607,7 +7609,7 @@ Ou t’auras pas ta ration dans l’bedon
 Dans son boudoir la petite Charlotte<br>
 Chaude du con faute d’avoir un vit<br>
 Se masturbait avec une carotte<br>
-Et jouissaitétendue sur son lit.
+Et jouissait étendue sur son lit.
 <br><br>
 _Branle, branle, branle Charlotte<br>
 Branle, branle ça fait du bien.<br>
@@ -7624,7 +7626,7 @@ Allait, venait, comme un petit ressort<br>
 Et faisait jouir la petite farceuse;<br>
 Aussi ce jeu lui plaisait-il bien fort.
 <br><br>
-Mais, ô malheur! Oˆ fatale disgrâce!<br>
+Mais, ô malheur! Ô fatale disgrâce!<br>
 Dans son bonheur, ell’ fait un brusque saut,<br>
 Du contre-coup, la carotte se casse,<br>
 Et dans le con, il en reste un morceau!
@@ -7665,7 +7667,7 @@ S’il est bon, s’il est agréable,<br>
 J’en boirai jusqu’à mon plaisir.<br>
 J’en boirai, oui, oui, oui, ...
 <br><br>
-J’en boirai cinqà six bouteilles,<br>
+J’en boirai cinq à six bouteilles,<br>
 Une femme sur les genoux.<br>
 Une femme, oui, oui, oui, ...
 <br><br>
@@ -7749,7 +7751,7 @@ Et elle déchargera ...
 <br><br>
 Alors toute contente<br>
 Ell’ retir’ de sa fente<br>
-La carotteécumante<br>
+La carotte écumante<br>
 Et puis ell’ la jeta ...
 <br><br>
 Par un hasard comique<br>
@@ -7758,7 +7760,7 @@ Tomba dans la boutique,<br>
 Du cordonnier d’en bas ...
 <br><br>
 Cré nom de Dieu, quelle chance,<br>
-Elle està la sauc’ blanche,<br>
+Elle est à la sauc’ blanche,<br>
 Bourrons-nous-en la panse,<br>
 Et il la boulotta ...
 <br><br>
@@ -7778,7 +7780,7 @@ De toutes les señoritas.
 Parara papoum papoum papoum! (BIS)
 <br><br>
 La señorita Goutalez, olé!<br>
-Quiétait fière de ses colores, olé!<br>
+Qui était fière de ses colores, olé!<br>
 Lui dit: “Ricardo,<br>
 Tu es terrible, parapapoum (BIS)<br>
 Tu es vraiment phénoménal.”
@@ -7786,7 +7788,7 @@ Tu es vraiment phénoménal.”
 Un soir qu’il rentrait de la corrida, olé!<br>
 Un peu plus tôt que d’habitude, olé!<br>
 Il la trouva sur la carpette<br>
-Elleétait nue jusqu’au nombril.
+Elle était nue jusqu’au nombril.
 <br><br>
 Alors, il lui dit sans s’émouvoir, olé!<br>
 Habilles-toi tu vas attraper un rhume, olé!<br>
@@ -7867,7 +7869,7 @@ Et mourir dans le cul ...
 
 **M: ‘L’enterrement du Maréchal Gérard’, M. Reyze**
 <br><br>
-Oˆ! Muse prête-moi ta lyre,<br>
+Ô! Muse prête-moi ta lyre,<br>
 Afin qu’en vers je puisse dire<br>
 Un des combats les plus fameux<br>
 Qui s’est déroulé sous les cieux.
@@ -7876,23 +7878,23 @@ _De Profundis Morpionibus,<br>
 Tra, la, la, ..._ (BIS)
 <br><br>
 Un jour de fêt’ comm’ Sainte Thérèse,<br>
-ÀSainte Gudule chantait la messe<br>
+À Sainte Gudule chantait la messe<br>
 Elle sentit soudainement<br>
-Unénorme chatouillement.
+Un énorme chatouillement.
 <br><br>
 Dans son vagin de forte taille,<br>
 Six cent mille poux livraient bataille<br>
-À nombreégal de morpions<br>
+À nombre égal de morpions<br>
 Qui défendaient l’entrée du con.
 <br><br>
 Dans un bouzin de tous les diables,<br>
-Le choc fut siépouvantable<br>
+Le choc fut si épouvantable<br>
 Qu’les femmes enceintes en accouchant<br>
 Chiaient d’la merde au lieu d’enfants.
 <br><br>
 La bataille fut gigantesque,<br>
 Tous les morpions moururent ou presque<br>
-Àl’exception des plus trapus<br>
+À l’exception des plus trapus<br>
 Qui s’accrochèrent aux poils du cul.
 <br><br>
 Et ils bouchent toute la fente,<br>
@@ -7915,7 +7917,7 @@ Piquons une charge au trou du cul”.
 
 La digue du cul, en revenant de Nantes (BIS)<br>
 De Nantes à Montaigu, la digue, la digue,<br>
-De Nantesà Montaigu, la digue du cul.
+De Nantes à Montaigu, la digue du cul.
 <br><br>
 
 > Volgende strofen worden op analoge manier gezongen:
@@ -7949,7 +7951,7 @@ Il en sortit menu, la digue du cul.
 **M: Sonnerie de chasse**
 <br><br>
 Le duc de Bordeaux ressemble à son frère,<br>
-Son frèreà son père et son père à mon cul;<br>
+Son frère à son père et son père à mon cul;<br>
 De là je conclus qu’le duc de Bordeaux<br>
 Ressemble à mon cul comme deux gouttes d’eau.
 <br><br>
@@ -7957,9 +7959,9 @@ _Taïaut Taïaut Taïaut!<br>
 Ferme ta gueule, répondit l’écho._
 <br><br>
 Le duc de Chevreuse ayant déclaré<br>
-Que tous les cocus devraientêtre noyés,<br>
+Que tous les cocus devraient être noyés,<br>
 Madam’ de Chevreuse lui a demandé,<br>
-S’ilétait certain de savoir bien nager.
+S’il était certain de savoir bien nager.
 <br><br>
 Madam’ la duchesse de la Trémouille<br>
 Malgré sa pudeur et sa grande piété,<br>
@@ -7986,7 +7988,7 @@ Trois poils de son cul pour en faire un tapis<br>
 Les poils sont tombés, l’tapis est foutu<br>
 La p’tite Amélie n’a plus d’poil à son cul.
 <br><br>
-La biteà papa qu’on croyait perdue,<br>
+La bite à papa qu’on croyait perdue,<br>
 C’était la p’tit’ bonn’ qui l’avait dans les fesses<br>
 La bite à papa n’était pas perdue,<br>
 C’était la p’tit’ bonn’ qui l’avait dans le cul.
@@ -7995,7 +7997,7 @@ C’était la p’tit’ bonn’ qui l’avait dans le cul.
 ### ELEPHANT STORY \| p319
 
 **T & M: Eric Saintrond<br>
-Festival de la chanson estudiantine ’83**
+Ols ISEP band, Festival de la chanson estudiantine 1983**
 <br><br>
 Dans la savane tropicale,<br>
 Sous un soleilétourdissant,<br>
@@ -8020,7 +8022,7 @@ J’ai rencontré cetéléphant<br>
 Qui me dit gentiment: “Madame,<br>
 J’aimerais tantêt’ votr’ amant!”<br>
 Mais son vit de si forte taille,<br>
-Coiffé de sonénorme gland,<br>
+Coiffé de son énorme gland,<br>
 Jamais ne pénétra ma faille,<br>
 Et il du jouir en se pompant.
 <br><br>
@@ -8043,13 +8045,13 @@ Par un’ putain, j’ fus racolé (BIS)<br>
 Elle me dit d’un air tendre, eh bien?<br>
 Viens coucher dans ma chambre<br>
 Et vous m’entendez bien. (BIS)`<br>
-Moi qui suis poilà l’ULB, (BIS)<br>
+Moi qui suis poil à l’ULB, (BIS)<br>
 J’aime à savoir où j’ mets les pieds (BIS)<br>
 J’allume ma chandelle, eh bien?<br>
 J’éclaire le bordel,<br>
 Et vous m’entendez bien. (BIS)
 <br><br>
-Quand le bordel futéclairé (BIS)<br>
+Quand le bordel fut éclairé (BIS)<br>
 J’ la prends, j’ la fous sur l’ canapé (BIS)<br>
 Et je la carambole si bien<br>
 Qu’elle me fout la vérole,<br>
@@ -8114,7 +8116,7 @@ Qui me demanda cent sous. (BIS)
 Pour acheter une robe ...<br>
 Une robe de quatr’ sous. (BIS)
 <br><br>
-Mais la rob’était si courte ...<br>
+Mais la rob’ était si courte ...<br>
 Qu’on y voyait par dessous. (BIS)
 <br><br>
 On voyait une chapelle ...<br>
@@ -8130,7 +8132,7 @@ Car s’il y avait une mèche ...<br>
 Elle aurait mis l’feu partout. (BIS)
 <br><br>
 Et les pompiers du village ...<br>
-N’en pourraient venirà bout. (BIS)
+N’en pourraient venir à bout. (BIS)
 <br><br>
 
 ### EN REVENANT DU PIÉMONT \| p324
@@ -8163,7 +8165,7 @@ Sans dessus dessous et sans devant derrière<br>
 Allez-y donc un peu plus doux.<br>
 Sans devant derrière et par derrier’ surtout! (BIS)
 <br><br>
-Et la bonn’ quiétait en bas (BIS)<br>
+Et la bonn’ qui était en bas (BIS)<br>
 Dit: “N’y en a-t-il pas pour moi?” (BIS)<br>
 Y en aura pour la chambrière,<br>
 Sans dessus dessous et sans devant derrière<br>
@@ -8271,7 +8273,7 @@ Ce qu’on fait par devant._
 À baiser un con trop petit,<br>
 On risque fort de s’écorcher le vit<br>
 Mais quand le vagin est trop large,<br>
-On ne sait pas oùl’on décharge<br>
+On ne sait pas où l’on décharge<br>
 S’ masturber n’est pas trèsélégant.<br>
 Cré nom de dieu, on ne jouit jamais tant!
 <br><br>
@@ -8287,16 +8289,16 @@ Cré nom de dieu, je l’aurais enculé!
 
 **T: Bram Desmet, Vincent Godderis, Polytechnic<br>
 M: ‘Les filles du bord de mer’, Adamo<br>
-Gebaseerd op waargebeurde feiten; Festival de la chanson estudiantine, 1998**
+Polytechnic, Festival de la chanson estudiantine, 1998, Gebaseerd op waargebeurde feiten.**
 <br><br>
 Je me souviens de la fille de la bouchère,<br>
-Elleétait vraiment conne comme sa mère,<br>
+Elle était vraiment conne comme sa mère,<br>
 Mais quand on avait bu assez de bière,<br>
 On lui mettait dans son derrière.<br>
 Sortant du Wapps enétat plus potable,<br>
 Envie de niquer cette pétasse sur la table,<br>
 Tellement bourré ma vision très minable,<br>
-J’aiéclaté un pot de salade de crabe.<br>
+J’ai éclaté un pot de salade de crabe.<br>
 En douceur, en douceur, en douceur et profondeur.
 <br><br>
 _L’était chouette la fille de la bouchère,<br>
@@ -8330,7 +8332,7 @@ On sautait tout ce qu’y avait dans le comptoir.
 <br><br>
 La morale de cette histoire est ferme,<br>
 Boire et baiser ça tue le commerce.<br>
-La boucherie s’est fermée carà long terme,<br>
+La boucherie s’est fermée car à long terme,<br>
 Toute la viande y goûtait fort le sperme.<br>
 Eh encore, eh encore,<br>
 Au Cercle Popo on est des porcs.
@@ -8406,7 +8408,7 @@ C’ n’est pas pour prier l’seigneur<br>
 C’est pour branler le prieur<br>
 Qui bande. (TER)
 <br><br>
-\| La servanteà m’sieur l’curé,<br>
+\| La servante à m’sieur l’curé,<br>
 A le ventre qui gargouille \| (BIS)<br>
 C’est qu’elle en a trop mangé<br>
 de l’andouille à m’sieur l’curé<br>
@@ -8414,13 +8416,13 @@ D’ l’andouille. (TER)
 <br><br>
 \| Au couvent de Camaret<br>
 Il n’y a que d’vieilles nonnes \| (BIS)<br>
-Réservéesà l’aumonnier<br>
+Réservées à l’aumonnier<br>
 Qui aime à les confesser<br>
 Il baise (TER)
 <br><br>
 \| Quand vous irez communier,<br>
 Et qu’vous mordrez l’hostie \| (BIS)<br>
-Prenez gardeà Jésus Christ<br>
+Prenez garde à Jésus Christ<br>
 Mordez pas dans son zizi:<br>
 Prudence! (TER)
 <br><br>
@@ -8441,7 +8443,7 @@ Ont choisi pour capitaine<br>
 Une fille de quinz’ ans.
 <br><br>
 Nous n’avons pas besoin d’hommes,<br>
-Disaient-ell’sà tout venant; (BIS)<br>
+Disaient-ell’s à tout venant; (BIS)<br>
 Mais au bout de six semaines<br>
 Ell’s avaient le cul brûlant.
 <br><br>
@@ -8457,10 +8459,10 @@ Et se ram’nèr’nt des galants.
 <br><br>
 Et sous la lune jolie,<br>
 Étendues sans vêtements, (BIS)<br>
-Ell’s ontécarté les cuisses<br>
+Ell’s ont écarté les cuisses<br>
 Tout’s sur le gaillard d’avant.
 <br><br>
-Ont baiséà perdre haleine<br>
+Ont baisé à perdre haleine<br>
 Jusqu’au clair soleil levant (BIS)<br>
 Et c’était la capitaine<br>
 Qui menait le mouvement.
@@ -8488,7 +8490,7 @@ La-la-la, lalala ...
 <br><br>
 Digue, ding don, don, ce sont les filles des forges (BIS)<br>
 \| Des forges de Paimpont, digue ding dondaine<br>
-Des forges de Paimpont, dingue ding dondon L (BIS)
+Des forges de Paimpont, dingue ding dondon (BIS)
 <br><br>
 Digue, ding don, don, elles s’en vont à confesse (BIS)<br>
 \| Au curé du canton, digue ding dondaine<br>
@@ -8611,7 +8613,7 @@ Maurice Mac Nab wou met dit lied spotten met de arbeiders en de opmars van de va
 <br><br>
 C’était hier, samedi, jour de paye,<br>
 Et le soleil se levait sur nos fronts<br>
-J’avais déjàvidé plus d’un’ bouteille,<br>
+J’avais déjà vidé plus d’un’ bouteille,<br>
 Si bien qu’ j’m’avais jamais trouvé si rond<br>
 V’là la bourgeois’ qui rappliqu’ devant l’ zingue:<br>
 “Feignant, qu’ell’ dit, t’as donc lâché l’ turbin?”<br>
@@ -8631,7 +8633,7 @@ Y avait Basly, le mineur indomptable,<br>
 Camélinat, l’orgueille du pays<br>
 Ils sont grimpés tous deux sur une table,<br>
 Pour mettre la question sur le tapis<br>
-Mais, toutà coup, on entend du bastringue;<br>
+Mais, tout à coup, on entend du bastringue;<br>
 C’est un mouchard qui veut fair’ le malin!<br>
 \| Il est venu pour troubler le métingue,<br>
 Le grand métingu’ du métropolitain! \| (BIS)
@@ -8664,7 +8666,7 @@ Que le métingu’ du métropolitain! \| (BIS)
 Sacrée putain tu recules<br>
 Je n’en puis plus de bander<br>
 Regarde mes testicules<br>
-Ils vont bientoˆtéclater<br>
+Ils vont bientôt éclater<br>
 Le foutre, c’est ridicule<br>
 Va jaillir comme un geyser<br>
 Amèn’ ici ton derrière<br>
@@ -8775,7 +8777,7 @@ L’a déterrée et l’a violée<br>
 Ca lui manquait.
 <br><br>
 L’auteur de cette barcarolle<br>
-Est un bon hussardà chevrons<br>
+Est un bon hussard à chevrons<br>
 Foutu cochon!<br>
 Quand il mourut de la vérole<br>
 Les asticots qui l’ont bouffé<br>
@@ -8885,7 +8887,7 @@ Des longs, des minc’s, des maigres,<br>
 Des voleurs, des intègres.
 <br><br>
 Quand je voyage en Grèce,<br>
-Je m’y prendsà mon aise<br>
+Je m’y prends à mon aise<br>
 Je baise les obèses.
 <br><br>
 Les femmes du Mexique<br>
@@ -8934,7 +8936,7 @@ _Non, c’est pas moi, c’est ma soeur<br>
 Qui a cassé la machine à vapeur<br>
 Ta gueule! Ta gueule! Ta gueule!<br>
 Je cherche fortune, autour du “Chat Noir”,<br>
-Au clair de la luneà Montmartre, le soir._
+Au clair de la lune à Montmartre, le soir._
 <br><br>
 
 > Volgende strofen op dezelfde manier ...
@@ -9059,7 +9061,7 @@ Et tomb’ sur une belle paire de ... gants,<br>
 Que l’ jeune homme, à la main,<br>
 Tenait négligemment.
 <br><br>
-Ainsià Paris quand on s’aime,<br>
+Ainsi à Paris quand on s’aime,<br>
 On peut s’le dire en public même.<br>
 Les amoureux ne s’font pas d’bile,<br>
 Entre tout l’monde, ils se faufilent,<br>
@@ -9074,10 +9076,10 @@ En notre ville est venu (BIS)<br>
 Un fameux joueur de luth (BIS)<br>
 Pour attirer la pratique<br>
 Il a mis sur sa boutique<br>
-C’est ici qu’pour unécu<br>
+C’est ici qu’pour un écu<br>
 On apprend à jouer de l’épinette<br>
-C’est ici qu’pour unécu<br>
-On apprendà jouer du ...
+C’est ici qu’pour un écu<br>
+On apprend à jouer du ...
 <br><br>
 _Troulala, troulala, troula, troula, troulalaire<br>
 Troulala, troulala, troula, troula, troulala._
@@ -9090,21 +9092,21 @@ Toutes les fill’s de Paris (BIS)<br>
 De Versailles à Saint-Denis (BIS)<br>
 Ont vendu leur chemisette<br>
 Leurs jarr’tièr’s, leurs collerettes<br>
-Afin d’avoir unécu<br>
-Pour apprendreà jouer de l’épinette ...
+Afin d’avoir un écu<br>
+Pour apprendre à jouer de l’épinette ...
 <br><br>
 Un’ jeun’ fille se présenta (BIS)<br>
 Qui des leçons demanda (BIS)<br>
 Ah! Que tes leçons sont bonnes<br>
 Il faudra que tu m’en r’donnes<br>
-Tiens voilà mon jeuneécu<br>
+Tiens voilà mon jeune écu<br>
 Pour apprendre à jouer de l’épinette ...
 <br><br>
 Un’ vieille femme aux cheveux gris (BIS)<br>
 Voulut en tâter aussi (BIS)<br>
 Fais-moi passer la première<br>
 Par la porte de derrière<br>
-Tiens voilà mon vieilécu<br>
+Tiens voilà mon vieil écu<br>
 Pour apprendre à jouer de l’épinette ...
 <br><br>
 Vieille femme allez-vous en (BIS)<br>
@@ -9112,7 +9114,7 @@ Et reprenez votr’ argent (BIS)<br>
 Car ce n’est plus à votre âge<br>
 Qu’on entre en apprentissage<br>
 Vous avez trop attendu<br>
-Pour apprendreà jouer de l’épinette ...
+Pour apprendre à jouer de l’épinette ...
 <br><br>
 La viell’ femme en s’en allant (BIS)<br>
 Marmonnait entre ses dents: (BIS)<br>
@@ -9125,7 +9127,7 @@ La morale de ceci (BIS)<br>
 Je vais vous la dire ici: (BIS)<br>
 C’est quand on est jeune et belle<br>
 Qu’il n’faut pas rester pucelle.<br>
-Faut donner son p’titécu<br>
+Faut donner son p’tit écu<br>
 Pour apprendre à jouer de l’épinette ...
 <br><br>
 
@@ -9175,7 +9177,7 @@ Un régiment dont les soldats, dont les soldats,<br>
 Sont tous des gars qui n’ont pas d’veine,<br>
 C’est la légion et nous voilà, et nous voilà!<br>
 Pour ce qui est d’la discipline,<br>
-Fautêtre passé par Biribi, par Biribi!<br>
+Faut être passé par Biribi, par Biribi!<br>
 Avoir goûté de la praline,<br>
 Et travaillé du bistouri, du bistouri ...
 <br><br>
@@ -9186,7 +9188,7 @@ Souviens-toi, oui souviens-toi, ah! ah! ah!<br>
 Les anciens l’ont fait sans doute,<br>
 Avant toi, ou avant moi, ah! ah! ah!<br>
 De Gabés à Ténérive<br>
-De Tangerà Tombouctou, ouh! ouh! ouh!<br>
+De Tanger à Tombouctou, ouh! ouh! ouh!<br>
 Sac au dos dans la poussière,<br>
 Marchons les légionnaires ..._
 <br><br>
@@ -9212,7 +9214,7 @@ Puisqu’on est tous des réprouvés, des réprouvés?
 ### MA FEMME EST MORTE \| p360
 
 Jean, l’autre soir, en montant l’escalier, (BIS)<br>
-Trouva sa femmeétendu’ sur l’palier, (BIS)<br>
+Trouva sa femme étendu’ sur l’palier, (BIS)<br>
 Ohé, portier ma femme est morte!<br>
 Venez, venez vit’, pour me la chercher,<br>
 Ou bien j’la fous derrièr’ la porte.
@@ -9235,7 +9237,7 @@ Donnez, donnez-lui tout’s vos oraisons<br>
 Et puis que le diable l’emporte.
 <br><br>
 Puis il s’en fut trouver le fossoyeur (BIS)<br>
-Qui dans un’ foss’ dormaità la fraîcheur: (BIS)<br>
+Qui dans un’ foss’ dormait à la fraîcheur: (BIS)<br>
 Eh, fossoyeur! Ma femme est morte!<br>
 Faits-lui un trou si grand et si profond<br>
 De peur que la garc’ n’en ressorte.
@@ -9341,7 +9343,7 @@ En les chantant perchés sur nos tonneaux;<br>
 Si le bourgeois veut nous payer à boire,<br>
 Nous le suivrons jusqu’au fond des caveaux.<br>
 Fraternité, tu nais entre les verres;<br>
-Ami, buvonsà la Fraternité!<br>
+Ami, buvons à la Fraternité!<br>
 \| Haro! Haro sur les mines sévères!<br>
 Pourquoi Bacchus n’est-il pas député? \| (BIS)
 <br><br>
@@ -9359,15 +9361,15 @@ Nous sourirons doucement au passé<br>
 En regrettant, malgré tout, ce bel âge<br>
 D’enthousiasme à jamais effacé.<br>
 Alors, tirant sur nos vieilles bouffardes,<br>
-Nous redironsà mi-voix nos chansons;<br>
-\| Ellesétaient peut-être un peu gaillardes,<br>
+Nous redirons à mi-voix nos chansons;<br>
+\| Elles étaient peut-être un peu gaillardes,<br>
 Mais on hurlait si bien à l’unisson! \| (BIS)
 <br><br>
 
 ### LA MARSEILLAISE ANTICLÉRICALE \| p367
 
-**M: ‘La Marseillaise’, Rouget de Lisle, 24 april 1792<br>
-T: Léo Taxil, 1881**
+**T: Léo Taxil, 1881<br>
+M: 'La Marseillaise', Rouget de Lisle, 24 april 1792**
 <br><br>
 Allons! Fils de la République,<br>
 Le jour du vote est arrivé!<br>
@@ -9396,7 +9398,7 @@ Feraient la loi dans nos foyers!<br>
 Quoi! Ces assassins de nos pères<br>
 Seraient un jour nos meurtriers! (BIS)<br>
 Car ces cafards, de vile race,<br>
-Sont nés pourêtre inquisiteurs ...<br>
+Sont nés pour être inquisiteurs ...<br>
 A la porte, les imposteurs!<br>
 Place à la République! Place!
 <br><br>
@@ -9436,7 +9438,7 @@ Nous entrâm’s dans une auberge<br>
 Pour y boir’ du vin nouveau. Oh!
 <br><br>
 _C’est à boire,à boire, à boire,<br>
-C’està boire qu’il nous faut!<br>
+C’est à boire qu’il nous faut!<br>
 Oh! Oh! Oh! Oh!_
 <br><br>
 Nous entrâm’s dans une auberge<br>
@@ -9447,7 +9449,7 @@ Nous y bûmes plus d’un pot. Oh!
 Chacun fouilla dans sa poche<br>
 Quand il fallut payer l’ pot,<br>
 Dans la poche du plus riche<br>
-On n’ trouva qu’unécu faux. Oh!
+On n’ trouva qu’un écu faux. Oh!
 <br><br>
 “Sacrebleu!” dit la patronne,<br>
 “Qu’on leur prenne leur shako!”<br>
@@ -9456,7 +9458,7 @@ On n’ trouva qu’unécu faux. Oh!
 <br><br>
 Quand nous fûmes en liquette,<br>
 Nous montâm’s sur des tonneaux,<br>
-Nos liquett’sétaient si courtes<br>
+Nos liquett’s étaient si courtes<br>
 Que l’on voyait nos marteaux. Oh!
 <br><br>
 “Sacrebleu!” dit la patronne,<br>
@@ -9488,7 +9490,7 @@ Au village, sans prétention,<br>
 J’ai mauvaise réputation.<br>
 Qu’je m’démène ou qu’je reste coi<br>
 Je pass’ pour un je-ne-sais-quoi!<br>
-Je ne fait pourtant de tortà personne<br>
+Je ne fait pourtant de tort à personne<br>
 En suivant mon chemin de petit bonhomme.<br>
 Mais les brav’s gens n’aiment pas que<br>
 L’on suive une autre route qu’eux,<br>
@@ -9514,7 +9516,7 @@ Quand j’croise un voleur malchanceux,<br>
 Poursuivi par un cul-terreux;<br>
 J’lance la patte et pourquoi le taire,<br>
 Le cul-terreux s’retrouv’ par terre<br>
-Je ne fait pourtant de tortà personne,<br>
+Je ne fait pourtant de tort à personne,<br>
 En laissant courir les voleurs de pommes.<br>
 Mais les brav’s gens n’aiment pas que<br>
 L’on suive une autre route qu’eux,<br>
@@ -9527,7 +9529,7 @@ Pas besoin d’être Jérémie,<br>
 Pour d’viner l’sort qui m’est promis,<br>
 S’ils trouv’nt une corde à leur goût,<br>
 Ils me la passeront au cou,<br>
-Je ne fait pourtant de tortà personne,<br>
+Je ne fait pourtant de tort à personne,<br>
 En suivant les ch’mins qui n’mènent pas à Rome,<br>
 Mais les brav’s gens n’aiment pas que<br>
 L’on suive une autre route qu’eux,<br>
@@ -9596,7 +9598,7 @@ Voilà c’ qu’est bon, est bon, est bon ...
 
 **T & M: Aristide Bruant**
 <br><br>
-Quand elleétait petite<br>
+Quand elle était petite<br>
 Le soir elle allait<br>
 ÀSainte Marguerite<br>
 Où est-ce qu’elle dessalait.<br>
@@ -9621,7 +9623,7 @@ Une odeur de rousse<br>
 Qui donne le frisson,<br>
 Et dans sa prunelle<br>
 Aux tons vert de gris<br>
-L’amourétincelle<br>
+L’amour étincelle<br>
 Dans ses yeux d’souris
 <br><br>
 Quand le soleil brille<br>
@@ -9643,7 +9645,7 @@ Aussi faut voir comme<br>
 Nini l’a dans l’sang
 <br><br>
 
-### ODE À UNE FÉMINISTE - 3278
+### ODE À UNE FÉMINISTE \| p378
 
 **T: Guilde Halewijn<br>
 M: ‘Le petit ânegris’, Hugues Aufray<br>
@@ -9659,7 +9661,7 @@ Du jus de mes roustons<br>
 \| Je mènerai la danse<br>
 Avec mon gros bâton \| (BIS)
 <br><br>
-Je vaisêtre sauvage<br>
+Je vais être sauvage<br>
 J’abandonnes ton vagin<br>
 Ton deuxième pucelage<br>
 Je l’aurai sans les mains<br>
@@ -9776,7 +9778,7 @@ Et du bon vin! \| (BIS)
 Comment Noé repeupla-t-il la Terre<br>
 Avec sa femm’ dans leur uniqu’ maison?<br>
 Chacun prétend que c’est par la prière,<br>
-Mais moi je dis que c’està coup de ...
+Mais moi je dis que c’est à coup de ...
 <br><br>
 
 > In het refrein wordt de derde regel steeds vervangen door de laatste regel van de strofe
@@ -9837,7 +9839,7 @@ Je me fous bien de ton con chassieux:<br>
 Masturbons-nous c’est le plaisir des dieux. \| (BIS)
 <br><br>
 Bast! Laissons-lui ce plaisir ridicule,<br>
-Chacun, d’ailleurs, s’amuseà sa façon:<br>
+Chacun, d’ailleurs, s’amuse à sa façon:<br>
 Moi, je préfèr’ la manière d’Hercule,<br>
 Jamais sa main ne lui servit de con.<br>
 Le plus sal’ trou, la plus vieille fendasse,<br>
@@ -9856,14 +9858,14 @@ Gamahuchons c’est le plaisir des dieux. \| (BIS)
 <br><br>
 Pour Jupiter, façon vraiment divine,<br>
 Le con lui pue, il aime le goudron;<br>
-D’un mouleà merde, il fait un moule à pine<br>
+D’un moule à merde, il fait un moule à pine<br>
 Et bat le beurre au milieu de l’étron.<br>
 Cette façon est cruellement bonne<br>
 Pour terminer un gueuleton joyeux:<br>
 \| Après l’ dessert on s’encule en couronne<br>
 Enculons-nous c’est le plaisir des dieux. \| (BIS)
 <br><br>
-Quandà Pluton, le dieu à large panse,<br>
+Quand à Pluton, le dieu à large panse,<br>
 Le moindre effort lui semble fatigant;<br>
 Aussi, veut-il, sans craindre la dépense,<br>
 Faire sucer son pénis arrogant.<br>
@@ -9872,7 +9874,7 @@ Tout languissants, réjouissons nos yeux<br>
 \| En laissant faire une amante empressée,<br>
 Laissons sucer c’est le plaisir des dieux. \| (BIS)
 <br><br>
-Au reste, amis, qu’on en fasseà sa tête,<br>
+Au reste, amis, qu’on en fasse à sa tête,<br>
 Main, con, cul, bouche, au plaisir tout est bon.<br>
 Sur quelqu’autel qu’on célèbre la fête,<br>
 Toujours là-haut, on est sûr du patron.<br>
@@ -9900,7 +9902,7 @@ Dans un château riche en gibier<br>
 Riche en gibier<br>
 Une marquise aux fins limiers<br>
 Invita des chasseurs en masse<br>
-Bientoˆt l’on vit tous les chasseurs<br>
+Bientôt l’on vit tous les chasseurs<br>
 Accourir sans même qu’on leur dise:
 <br><br>
 \| _Au rendez-vous de la marquise<br>
@@ -9915,7 +9917,7 @@ Plus d’un faisan<br>
 Quand un sanglier menaçant<br>
 Vint à s’élancer dessus elle<br>
 Malgré sa rage et sa fureur<br>
-Nous l’obligeâmesà lâcher prise.
+Nous l’obligeâmes à lâcher prise.
 <br><br>
 _Et pour défendre la marquise ..._
 <br><br>
@@ -9925,7 +9927,7 @@ Il faut rentrer<br>
 Ce n’est pas tout de s’illustrer<br>
 Il faut aussi manger et boire<br>
 En avant les vins, les liqueurs<br>
-Et la nappeétait déjàmise.
+Et la nappe était déjà mise.
 <br><br>
 _À la table de la marquise ..._
 <br><br>
@@ -9935,7 +9937,7 @@ De belle humeur<br>
 Chacun voulut, chacun son tour<br>
 Embrasser l’aimable compagne<br>
 Nous fûmes dispos à l’amour<br>
-Et la belleétait déjà grise.
+Et la belle était déjà grise.
 <br><br>
 _Et dans le lit de la marquise ..._
 <br><br>
@@ -10001,10 +10003,10 @@ Mais t’as encore rien vu<br>
 \| Je t’emmène en enfer<br>
 Au fin fond de mon cul \| (BIS)
 <br><br>
-Tu disêtre sauvage<br>
+Tu dis être sauvage<br>
 J’ai connu plus sanglant<br>
 Mon premier pucelage<br>
-J’l’ai venduà dix ans<br>
+J’l’ai vendu à dix ans<br>
 Pénétration anale<br>
 Tout en limant ma fente<br>
 \| Oh oui fais-moi bien mal<br>
@@ -10044,7 +10046,7 @@ Dans un corps plein de vers<br>
 Moi j’aime la mort, le sang<br>
 Quand c’est gore, quand c’est trash<br>
 \| Ton organe turgescent<br>
-Je le tailleà la hache \| (BIS)
+Je le taille à la hache \| (BIS)
 <br><br>
 
 > de laatste strofe wordt geneuried
@@ -10063,7 +10065,7 @@ Quand ell’sentit battr’son coeur<br>
 Un beau soir, près du mec Gégène<br>
 Marinette a cru au bonheur.<br>
 C’était l’jour d’la fêt’ nationale<br>
-Quand la bombeéclate en l’air<br>
+Quand la bombe éclate en l’air<br>
 Elle sentit comme une lame<br>
 Qui lui pénétrait, dans la chair.
 <br><br>
@@ -10080,7 +10082,7 @@ Mais quand refleurit l’aubépine<br>
 Au premier souffle du printemps,<br>
 Fallait voir la pauvre gamine<br>
 Mettre au monde un petit enfant.<br>
-Mais Gégène, qui est l’mecà la coule<br>
+Mais Gégène, qui est l’mec à la coule<br>
 Lui dit: “Ton gosse, moi j’ m’ en fous!<br>
 Si tu savais comm’je m’les roule<br>
 A ta place moi j’lui tordrais l’cou.”
@@ -10146,7 +10148,7 @@ Fous-la moi donc dans le derrière.
 <br><br>
 Saint Nicolas monte en ballon<br>
 Mais il avait l’système trop long<br>
-Ilétait dans la stratosphère<br>
+Il était dans la stratosphère<br>
 Ses couill’s pendaient toujours par terre.
 <br><br>
 Saint Nicolas monte en bateau<br>
@@ -10160,8 +10162,8 @@ Sans s’départir d’un certain morgue<br>
 Il pétait pendant les points d’orgue.
 <br><br>
 Saint Nicolas du haut d’un toit<br>
-S’foutait des touch’sà tour de bras<br>
-La servante quiétait sur le seuil<br>
+S’foutait des touch’s à tour de bras<br>
+La servante qui était sur le seuil<br>
 Reçut tout’ la décharge dans l’oeil.
 <br><br>
 Saint Nicolas devant Carthage<br>
@@ -10175,7 +10177,7 @@ Malgré les efforts de la police<br>
 Il y enculait le vieux suisse.
 <br><br>
 A la bataille de Zamora<br>
-Saint Nicolas n’yétait pas<br>
+Saint Nicolas n’y était pas<br>
 On le retrouva dans l’désert<br>
 Il enculait des dromadaires.
 <br><br>
@@ -10207,7 +10209,7 @@ Va laver ton cul malpropre,_<br>
 \| _Car il n’est pas propr’ tirelire<br>
 Car il n’est pas propr’ tirela_ \| (BIS)
 <br><br>
-Et qui aimaità rire<br>
+Et qui aimait à rire<br>
 Avec tous les garçons<br>
 Mais à force de rire<br>
 Son ventre devint rond.
@@ -10221,7 +10223,7 @@ Avec son gros bâton.
 ... Y avait du sucre au bout<br>
 Mon Dieu, que c’était bon!
 <br><br>
-... Si c’étaità refaire,<br>
+... Si c’était à refaire,<br>
 Nous recommencerions.
 <br><br>
 
@@ -10274,7 +10276,7 @@ Et j’ te renvoie l’ tout par colis postal.
 _Sophie que j’aimais tant<br>
 J’ t’emmerde_ (BIS)<br>
 _Sophie que j’aimais tant<br>
-J’ t’emmerdeà présent!_
+J’ t’emmerde à présent!_
 <br><br>
 Tu veux fair’ la peau, un métier d’ grenouille<br>
 Et me remplacer par d’autres amants,<br>
@@ -10354,7 +10356,7 @@ Le plus jeune des mousses chantait une chanson.
 <br><br>
 Quand elle fut sur le brick(e), elle se mit à pleurer.
 <br><br>
-“Qu’avez-vous donc, la belle, qu’avez-vousà pleurer?”
+“Qu’avez-vous donc, la belle, qu’avez-vous à pleurer?”
 <br><br>
 “Je pleure mon pucelage qu’un gabier m’a volé ...”
 <br><br>
@@ -10371,7 +10373,7 @@ Quand elle fut sur le brick(e), elle se mit à pleurer.
 <br><br>
 Sur les bords de la Tamise<br>
 Y avait un Anglais<br>
-Quiétait en bras d’chemise<br>
+Qui était en bras d’chemise<br>
 Et sans cesse répétait: “Aie, Aie, Aie, ...<br>
 J’ai un morpion qui me gratte les couilles,<br>
 J’ai un morpion, je ne peux l’attraper,<br>
@@ -10409,7 +10411,7 @@ Il s’assit sur le trône ...<br>
 Et se mit à chier.
 <br><br>
 En attendant que ça sèche ...<br>
-Il se mità chanter.
+Il se mit à chanter.
 <br><br>
 J’emmerde la police ...<br>
 Et la maréchaussée.
@@ -10527,7 +10529,7 @@ C’est encore là le mieux<br>
 Pour gagner le ping-pong.
 <br><br>
 C’est la reine d’Espagne<br>
-Qui dità son mari:<br>
+Qui dit à son mari:<br>
 J’aime bien le champagne,<br>
 Mais j’aime aussi le lit.<br>
 Ce soir au clair de lune,<br>
@@ -10572,7 +10574,7 @@ Entre le cul des filles et le cul des bouteilles_
 Mourir pour mourir, que ce soit d’ivresse<br>
 Sa vie bien remplie, l’esprit plein de souvenirs<br>
 Mourir pour mourir, que ce soit avec noblesse,<br>
-Un dernier sourire, croir’ encoreà l’avenir
+Un dernier sourire, croir’ encore à l’avenir
 <br><br>
 _Je veux mourir ma vie avant qu’elle ne soit vieille<br>
 Entre le cul des filles et le cul des bouteilles_
@@ -10587,7 +10589,7 @@ Le zobi d’Ali Pacha<br>
 L’est encore plus gros qu’Allah!<br>
 Le zobi d’Ali Pacha est là._
 <br><br>
-Quand il entreà la mosquée<br>
+Quand il entre à la mosquée<br>
 Pour y faire son prière<br>
 Y peut pas s’agenouiller<br>
 Son zobi traîne par terre.<br>
@@ -11541,7 +11543,7 @@ Lustige Pappenheimer wollen wir sein._
 
 ### DAS POLENKIND \| p449
 
-VolkslieduitPommern<br>
+Volkslied uit Pommern<br>
 In einem Polenstädtchen,<br>
 Da wohnte einst ein Mädchen,<br>
 Sie war so schön! (BIS)<br>
@@ -11917,7 +11919,7 @@ Du sollst uns nicht veralten, o Traum der Herrlichkeit.
 <br><br>
 Ihr Sterne seid uns Zeugen, die ruhig nieder schau’n,<br>
 wenn alle Brüder schweigen und falschen Götzen trau’n.<br>
-Wirwoll’ndasWortnichtbrechenundBubenwerdengleich,<br>
+Wir woll’n das Wort nicht brechen und Buben werden gleich,<br>
 woll’n predigen und sprechen vom heil’gen Deutschen Reich.
 <br><br>
 
@@ -12223,8 +12225,8 @@ Said Barnacle Bill the Sailor.
 
 ### THE BRICKLAYER’S LAMENT \| p474
 
-**M: Traditional Iers, ‘In the Garden Where the Praties Grow’<br>
-T: Pat Cooksey**
+**T: Pat Cooksey<br>
+M: Traditional Iers, 'In the Garden Where the Praties Grow'**
 <br><br>
 Dear sir I write this note to you<br>
 To tell you of my plight<br>
@@ -12724,9 +12726,9 @@ The lion sleeps tonight
 
 ### LOCH LOMON’ \| p490
 
-**M: Naar ‘Robin Cushie’, McGibbons Scots Tunes Book, 174<br>
+**M: Naar ‘Robin Cushie’, Mc Gibbons Scots Tunes Book, 174<br>
 T: Lady John Scott, Poets and Poetry of Scotland, 1876<br>
-De legende vertelt dat in 1745 twee Jacobijnse soldaten gevangen werden genomen in Carlisle Castle. De een schreef dit lied voor hij werd ge¨executeerd (the low road, voor de moeilijke verstaander), de ander bleef leven om het verder te vertellen.**
+De legende vertelt dat in 1745 twee Jacobijnse soldaten gevangen werden genomen in Carlisle Castle. De een schreef dit lied voor hij werd geëxecuteerd (the low road, voor de moeilijke verstaander), de ander bleef leven om het verder te vertellen.**
 <br><br>
 By yon bonnie banks and by yon bonnie braes,<br>
 Where the sun shines bright on Loch Lomon’,<br>
@@ -12780,7 +12782,7 @@ The winds have blown over the ocean.<br>
 And brought back my Bonnie to me.
 <br><br>
 
-### OH SUSANNA \| p93
+### OH SUSANNA \| p493
 
 **Stephen Foster, 1847**
 <br><br>
@@ -12997,6 +12999,7 @@ Well a night with the girls
 <br><br>
 Well a big pot of gold
 <br><br>
+> Naargelang de inspiratie van de corona worden er vrije versies gezongen!
 
 ### SCOTLAND THE BRAVE \| p500
 
@@ -13025,7 +13028,7 @@ Kind as the love that shines<br>
 From fair maiden’s eyes.
 <br><br>
 
-> Refrein wordt tweemaal gezongen..
+> Refrein wordt tweemaal gezongen.
 
 <br><br>
 
@@ -13131,7 +13134,7 @@ To signify I died of love.
 ### TOM DOOLEY \| p505
 
 **In 1866 werd Tom Dooley, een veteraan van de Amerikaanse burgeroorlog, ten onrechte opgehangen voor de moord op Laura Foster. De driehoeksverhouding in het lied, was in feite een vierhoeksverhouding. Het was de vierde persoon, Annie Melton, die uiteindelijk met sheriff Greeson huwde en later bekende de moordenaar te zijn. Het oorspronkelijke lied telt 14 strofes en werd in 1958 bekend door ‘The Kingston Trio’.**<br>
-**Men wordt geacht dit liedje heel zacht te zingen tot het laatste refrein.**.
+**Men wordt geacht dit liedje heel zacht te zingen tot het laatste refrein.**
 <br><br>
 
 > Gesproken:
