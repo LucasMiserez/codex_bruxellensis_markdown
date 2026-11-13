@@ -1,17 +1,206 @@
---- 
-import '../styles/global.css'
---- 
-<!doctype html>
-<html lang="en">
-	<head>
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Codex Bruxellensis Markdown</title>
-	</head>
-	<body>
-		<slot />
-	</body>
-</html>
+---
+import "../styles/global.css";
 
+const { frontmatter = {} } = Astro.props;
+const title = frontmatter.title ?? "Codex Bruxellensis — Markdown-editie";
+const description =
+    "De Codex Studiosorum Bruxellensis in een lichte, doorzoekbare Markdown-editie. Lees, zoek en kopieer de liederen van de Brusselse Studentenkring.";
+const canonical = new URL(
+    Astro.url.pathname,
+    Astro.site ?? "https://lucasmiserez.github.io/",
+);
+const base = import.meta.env.BASE_URL;
+const categories = [
+    { id: "kringliederen", label: "Kringliederen" },
+    { id: "officiële-liederen", label: "Officiële liederen" },
+    { id: "nederlandstalige-liederen", label: "Nederlandstalig" },
+    { id: "franstalige-liederen", label: "Franstalig" },
+    { id: "duitstalige-liederen", label: "Duitstalig" },
+    { id: "engelstalige-liederen", label: "Engelstalig" },
+    { id: "anderstalige-liederen", label: "Anderstalig" },
+];
+---
+
+<!doctype html>
+<html lang="nl">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="color-scheme" content="light dark" />
+        <meta name="description" content={description} />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content={title} />
+        <meta property="og:description" content={description} />
+        <meta property="og:url" content={canonical.href} />
+        <meta property="og:site_name" content="Codex Bruxellensis" />
+        <meta name="twitter:card" content="summary" />
+        <meta
+            name="theme-color"
+            content="#f5f1ea"
+            media="(prefers-color-scheme: light)"
+        />
+        <meta
+            name="theme-color"
+            content="#131110"
+            media="(prefers-color-scheme: dark)"
+        />
+        <link rel="icon" type="image/svg+xml" href={`${base}favicon.svg`} />
+        <link rel="canonical" href={canonical.href} />
+        <meta name="generator" content={Astro.generator} />
+        <script is:inline>
+            try {
+                const theme = localStorage.getItem("codex-theme");
+                if (theme) document.documentElement.dataset.theme = theme;
+            } catch {}
+        </script>
+        <title>{title}</title>
+    </head>
+    <body>
+        <a class="skip-link" href="#main-content">
+            Naar de inhoud
+        </a>
+
+        <header class="site-header">
+            <div class="site-header__inner">
+                <div class="site-header__top">
+                    <a
+                        class="brand"
+                        href={base}
+                        aria-label="Codex Bruxellensis, naar boven"
+                    >
+                        <span class="brand__text">
+                            <span class="brand__title">Codex Bruxellensis</span>
+                            <span class="brand__subtitle">Markdown-editie</span>
+                        </span>
+                    </a>
+
+                    <div class="site-header__actions">
+                        <a
+                            class="button button--accent"
+                            href="https://codex.bsk.brussels/"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            Naar de hoofdsite
+                            <span aria-hidden="true">↗</span>
+                        </a>
+                        <button
+                            class="icon-button"
+                            type="button"
+                            data-theme-toggle
+                            aria-label="Schakel donkere modus"
+                            aria-pressed="false"
+                        >
+                            <svg
+                                class="icon icon--sun"
+                                viewBox="0 0 24 24"
+                                aria-hidden="true"
+                                focusable="false"
+                            >
+                                <circle cx="12" cy="12" r="4"></circle>
+                                <path d="M12 2v2M12 20v2M4.93 4.93l1.42 1.42M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"></path>
+                            </svg>
+                            <svg
+                                class="icon icon--moon"
+                                viewBox="0 0 24 24"
+                                aria-hidden="true"
+                                focusable="false"
+                            >
+                                <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79Z"></path>
+                            </svg>
+                        </button>
+                    </div>
+                </div>
+
+                <div class="site-header__tools">
+                    <div class="search" role="search" data-search>
+                        <svg
+                            class="search__icon"
+                            viewBox="0 0 24 24"
+                            aria-hidden="true"
+                            focusable="false"
+                        >
+                            <circle cx="11" cy="11" r="7"></circle>
+                            <path d="m20 20-3.5-3.5"></path>
+                        </svg>
+                        <label class="visually-hidden" for="song-search">
+                            Zoek een lied
+                        </label>
+                        <input
+                            id="song-search"
+                            class="search__input"
+                            type="search"
+                            placeholder="Zoek een lied..."
+                            autocomplete="off"
+                            spellcheck="false"
+                            role="combobox"
+                            aria-autocomplete="list"
+                            aria-controls="search-results"
+                            aria-expanded="false"
+                            data-song-search
+                        />
+                        <kbd class="search__shortcut" aria-hidden="true">
+                            /
+                        </kbd>
+                        <div
+                            class="search__results"
+                            id="search-results"
+                            role="listbox"
+                            aria-label="Zoekresultaten"
+                            data-search-results
+                            hidden
+                        ></div>
+                    </div>
+
+                    <nav class="category-nav" aria-label="Categorieën">
+                        {categories.map((category) => (
+                            <a href={`#${category.id}`}>{category.label}</a>
+                        ))}
+                    </nav>
+                </div>
+            </div>
+        </header>
+
+        <main class="page" id="main-content">
+            <slot />
+        </main>
+
+        <footer class="site-footer">
+            <div class="site-footer__inner">
+                <p>
+                    <strong>Codex Bruxellensis</strong> — Markdown-editie
+                </p>
+                <p>
+                    Deze versie is bedoeld om snel te lezen, zoeken en kopiëren.
+                    De volledige codex vind je op{" "}
+                    <a
+                        href="https://codex.bsk.brussels/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        codex.bsk.brussels
+                    </a>
+                    .
+                </p>
+            </div>
+        </footer>
+
+        <button
+            class="back-to-top"
+            type="button"
+            data-back-to-top
+            aria-label="Naar boven"
+        >
+            <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+                <path d="m18 15-6-6-6 6"></path>
+            </svg>
+            <span>Naar boven</span>
+        </button>
+
+        <div class="toast" role="status" aria-live="polite" data-toast></div>
+
+        <script>
+            import "../scripts/site.js";
+        </script>
+    </body>
+</html>
