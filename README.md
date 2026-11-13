@@ -2,7 +2,7 @@
 
 Een lichte, doorzoekbare Markdown-versie van de **Codex Studiosorum Bruxellensis**, het liederenboek van de Brusselse Studentenkring.
 
-[![Astro](https://img.shields.io/badge/Astro-5-ff5d01?logo=astro&logoColor=white)](https://astro.build/)
+[![Astro](https://img.shields.io/badge/Astro-7-ff5d01?logo=astro&logoColor=white)](https://astro.build/)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-online-2ea44f?logo=github&logoColor=white)](https://lucasmiserez.github.io/codex_bruxellensis_markdown/)
 
 **Lees de Markdown-editie:** [lucasmiserez.github.io/codex_bruxellensis_markdown](https://lucasmiserez.github.io/codex_bruxellensis_markdown/)
@@ -31,7 +31,7 @@ Deze repository bevat een statische Markdown-weergave van de volledige bundel: 3
 
 ## Lokaal draaien
 
-Vereisten: Node.js 20 of nieuwer en pnpm.
+Vereisten: Node.js 22.23.4 of nieuwer en pnpm 12.
 
 ```sh
 pnpm install
@@ -63,7 +63,8 @@ pnpm preview
 │   └── styles/
 │       └── global.css
 ├── astro.config.mjs
-└── package.json
+├── package.json
+└── pnpm-workspace.yaml
 ```
 
 - `src/pages/index.md` bevat de liedjesteksten en categorieën.
@@ -73,7 +74,9 @@ pnpm preview
 
 ## Deployment
 
-De site wordt automatisch gebouwd en gepubliceerd via GitHub Actions naar GitHub Pages. Een push naar `main` start de workflow in `.github/workflows/deploy.yml`.
+De site wordt automatisch gebouwd en gepubliceerd via GitHub Actions naar GitHub Pages. Een push naar `main` start de workflow in `.github/workflows/deploy.yml`. De workflow gebruikt Node.js 24 en pnpm 12.
+
+`pnpm-workspace.yaml` staat de buildscripts van `esbuild` en `sharp` toe. Zonder die allowlist stopt pnpm 11 en nieuwer met `ERR_PNPM_IGNORED_BUILDS`.
 
 De productie-URL is:
 
